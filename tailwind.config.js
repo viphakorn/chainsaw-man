@@ -1,18 +1,66 @@
+const plugin = require("tailwindcss/plugin");
+
 /** @type {import('tailwindcss').Config} */
-module.exports = {
-  content: [
-    './pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './components/**/*.{js,ts,jsx,tsx,mdx}',
-    './app/**/*.{js,ts,jsx,tsx,mdx}',
-  ],
-  theme: {
-    extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+export const content = [
+  "./pages/**/*.{js,ts,jsx,tsx,mdx}",
+  "./components/**/*.{js,ts,jsx,tsx,mdx}",
+  "./app/**/*.{js,ts,jsx,tsx,mdx}",
+];
+export const theme = {
+  extend: {
+    height: {
+      screen: ["100vh /* fallback for Opera, IE and etc. */", "100dvh"],
     },
   },
-  plugins: [],
-}
+};
+export const plugins = [
+  require("@tailwindcss/typography"),
+  plugin(function ({
+    addBase,
+    addComponents,
+    addUtilities,
+    addVariant,
+    theme,
+  }) {
+    addBase({
+      h1: {
+        fontSize: theme("fontSize.2xl"),
+      },
+      h2: {
+        fontSize: theme("fontSize.xl"),
+      },
+    });
+    // addComponents({
+    //   ".card": {
+    //     backgroundColor: theme("colors.white"),
+    //     borderRadius: theme("borderRadius.lg"),
+    //     padding: theme("spacing.6"),
+    //     boxShadow: theme("boxShadow.xl"),
+    //   },
+    // });
+    addUtilities({
+      ".grid-stack > *": {
+        gridRow: "1 / -1",
+        gridColumn: "1 / -1",
+      },
+    }),
+      addUtilities({
+        ".drag-none": {
+          "-webkit-user-drag": "none",
+          "-khtml-user-drag": "none",
+          "-moz-user-drag": "none",
+          "-o-user-drag": "none",
+          "user-drag": "none",
+        },
+      }),
+      addUtilities({
+        ".fluid-container": {
+          width: "min(100% - 2rem, 80rem)",
+          "margin-left": "auto",
+          "margin-right": "auto",
+        },
+      }),
+      addVariant("child", "& > *");
+    addVariant("child-hover", "& > *:hover");
+  }),
+];

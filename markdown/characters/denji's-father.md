@@ -1,4 +1,46 @@
 # Denji's Father
 
-![Denji's Father](https://static.wikia.nocookie.net/chainsaw-man/images/d/dd/Denji%27s_father.png/revision/latest/scale-to-width-down/350?cb=20220814155337)
+![Denji's Father](https://static.wikia.nocookie.net/chainsaw-man/images/d/dd/Denji%27s_father.png)
 
+This unnamed man was **the father of [Denji](/wiki/Denji "Denji")**. When Denji was young he killed his father in self defense, as his father was in a drunken aggressive state and he feared for his life. His fathers murder was ruled a suicide by the adults in Denji’s life as acknowledging his death as a murder would mean they would be unable to get any money from his death. After his death, Denji inherits his debt to the [Yakuza](/wiki/Yakuza "Yakuza").
+
+## Contents
+
+-   [1 Appearance](#Appearance)
+-   [2 Personality](#Personality)
+-   [3 Plot](#Plot)
+    -   [3.1 History](#History)
+    -   [3.2 Intro arc](#Intro_arc)
+    -   [3.3 Control Devil arc](#Control_Devil_arc)
+-   [4 Chapter Appearances](#Chapter_Appearances)
+-   [5 Anime Appearances](#Anime_Appearances)
+
+## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+
+Of the little that is seen of him, Denji's father seemed to have the same hair just as his son.
+
+## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+
+Little is known of his personality, as he was deceased prior to the chronological beginning of the plot. [Makima](/wiki/Makima "Makima") describes him as an abusive alcoholic, who was violent enough with Denji to the point where he was killed by his own son in self-defense. It is also implied that he had an addictive personality, losing large amounts of money to the Yakuza resulting in a massive debt which Denji later inherited.
+
+## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+
+### History\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+
+### [Intro arc](/wiki/Intro_arc "Intro arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+
+### [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+
+[Makima](/wiki/Makima "Makima"), when revealing her intentions to [Denji](/wiki/Denji "Denji"), reveals that she investigated his past and knows that his father died not from suicide, but rather from being killed at Denji's hands in an act of self-defense. His supposed suicide was, in reality, a ruse created by the Yakuza in order to have Denji inherit his debts.
+
+Denji had been repressing this fact behind a psychological barrier, which is represented by a closed door, and when the memory comes to light Denji sees himself as a child, standing over his father's wounded and bleeding corpse.
+
+## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+
+<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Intro_Arc" title="Template:Appearance/Intro Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Intro_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Intro_arc" title="Intro arc"><span>Intro arc</span></a></center></th></tr><tr><td>1. <a href="/wiki/Chapter_1" title="Chapter 1">Dog &amp; Chainsaw</a></td><td><span>Mentioned</span></td></tr><tr><td>2. <a href="/wiki/Chapter_2" title="Chapter 2">The Place Where Pochita Is</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Chapter_3" title="Chapter 3">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Chapter_4" title="Chapter 4">Power</a></td><td><span>Absent</span></td></tr></tbody></table>
+
+<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Control_Devil_Arc" title="Template:Appearance/Control Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Control_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Debut</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Absent</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Absent</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+
+## Anime Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDenji%2527s_Father%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+
+<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Season_1" title="Template:Appearance/Season 1"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Season_1?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Mentioned</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
