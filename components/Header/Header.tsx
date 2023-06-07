@@ -8,11 +8,11 @@ export default function Header() {
           <img src="/images/logo.png" alt="Chainsaw Man Logo" width={256} />
           <span className="sr-only">Go to Home</span>
         </Link>
-        {/* <ul>
+        <ul>
           <li>
-            <Link href={"/"}></Link>
+            <Link href={"/characters"}>Characters</Link>
           </li>
-          <li>
+          {/* <li>
             <Link href={""}></Link>
           </li>
           <li>
@@ -20,8 +20,8 @@ export default function Header() {
           </li>
           <li>
             <Link href={""}></Link>
-          </li>
-        </ul> */}
+          </li> */}
+        </ul>
       </nav>
     </header>
   );

@@ -1,6 +1,47 @@
+---
+titile: Longsword Hybrid
+image: https://static.wikia.nocookie.net/chainsaw-man/images/b/b1/Longsword_Hybrid_%28Human_Form%29.png
+---
+
 # Longsword Hybrid
 
-![Longsword Hybrid](https://static.wikia.nocookie.net/chainsaw-man/images/b/b1/Longsword_Hybrid_%28Human_Form%29.png)
+[![](https://static.wikia.nocookie.net/chainsaw-man/images/b/b1/Longsword_Hybrid_%28Human_Form%29.png/revision/latest/scale-to-width-down/350?cb=20220814180658)](https://static.wikia.nocookie.net/chainsaw-man/images/b/b1/Longsword_Hybrid_%28Human_Form%29.png/revision/latest?cb=20220814180658)
+
+## Biological Information
+
+### Species
+
+Human (formerly)  
+[Hybrid](/wiki/Hybrid "Hybrid")
+
+### Gender
+
+Male
+
+### Birthplace
+
+Unknown
+
+### Status
+
+## Professional Information
+
+### Occupation
+
+[Private Devil Hunter](/wiki/Devil_Hunter#Private_Sector_Devil_Hunters "Devil Hunter") (brainwashed)
+
+### Affiliation
+
+-   [Makima](/wiki/Makima "Makima") (brainwashed)
+    -   [Tokyo Special Division 5](/wiki/Tokyo_Special_Division_5 "Tokyo Special Division 5")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 86](/wiki/Chapter_86 "Chapter 86")
+
+[Image Gallery](/wiki/Longsword_Hybrid/Image_Gallery "Longsword Hybrid/Image Gallery")
 
 > "_Gotta impress [Ms. Makima](/wiki/Makima "Makima") a little on our first operation._"
 
@@ -22,13 +63,13 @@
 -   [7 References](#References)
 -   [8 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
-### Human Form\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+### Human Form
 
 In his human form, the Longsword Hybrid is a young man of average height with unkempt black hair and visible dark circles under his brown eyes. He wears a dark blue drawstring hoodie underneath his Devil Hunter suit.
 
-### Hybrid Form\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+### Hybrid Form
 
 When transformed, the Longsword Hybrid gains a head similar to that of Katana Man, except that it has a pointed face from which two longswords protrude backwards, resembling horns. The Longsword Hybrid's arms have blades protruding from them.
 
@@ -36,13 +77,13 @@ When transformed, the Longsword Hybrid gains a head similar to that of Katana Ma
 
 Hybrid Form
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+## Personality
 
 The Longsword Hybrid's real personality is currently unknown, as he was brainwashed and mind-controlled by Makima. From the few bits of his dialogue, he makes it clear that he wants to impress Makima in the group's first operation.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+## Plot
 
-### [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+### [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc")
 
 At an unknown point in time, the Longsword Hybrid was brainwashed by Makima to serve her needs. He is summoned as part of Makima's newly-formed [Special Division 5](/wiki/Tokyo_Special_Division_5 "Tokyo Special Division 5"), a team of weapon hybrids created for the sole purpose of battling the fully-powered [Chainsaw Devil](/wiki/Chainsaw_Devil "Chainsaw Devil").[\[1\]](#cite_note-Ch86Pg14-15-1) While under Makima's control, the Longsword Hybrid tells the others that he wants to impress Makima on the group's first operation.[\[2\]](#cite_note-Ch86Pg16-2)
 
@@ -54,9 +95,9 @@ At some point in the future, Special Division 5's Hybrids are revived once more 
 
 Katana Man and the Longsword Hybrid act first by leaping forward, both slicing the chunk of land and cutting it down into several dozen smaller chunks. However, the two are left vulnerable as Pochita falls towards them from behind the debris. Before the two Hybrids can act any further, Pochita swiftly uses his chainsaws to cut them both, defeating them in the process.[\[6\]](#cite_note-Ch94Pg5-7-6)
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+## Abilities
 
-### Hybrid Powers\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+### Hybrid Powers
 
 -   **Hybrid Transformation**: The Longsword Hybrid can remove his right hand and reveal a blade on the inside of his arm to transform into his hybrid form.
     -   **Augmented Body**: Longsword Hybrid has strength, defense, and speed well above average for being a hybrid, being able to match beings like Katana Man and Chainsaw Man.
@@ -64,21 +105,21 @@ Katana Man and the Longsword Hybrid act first by leaping forward, both slicing t
 -   **Blood Consumption**: As a Hybrid, Longsword Hybrid is able to heal wounds by consuming blood, regenerating his entire body.
     -   **Nigh-Immortality**: Due to being a Hybrid, Longsword Hybrid is immortal and nearly unkillable.
 
-### Skillset\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+### Skillset
 
 -   **Swordsmanship**: The Longsword Hybrid is a skilled fighter with the blades on his arms.
 
-## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Control_Devil_Arc" title="Template:Appearance/Control Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Control_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Absent</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Appears</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Appears</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Absent</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Appears</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Appears</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   The Longsword Hybrid's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
     -   The Longsword Hybrid ranked 43rd in the Second Popularity Poll with 643 votes.
 -   The exact type of sword this hybrid is supposed to be is currently unknown. However, he is named as **Weapon Human (Longsword)** (<ruby lang="ja"><rb>武</rb><rp> (</rp><rt>ぶ</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>器</rb><rp> (</rp><rt>き</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>人</rb><rp> (</rp><rt>にん</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>間</rb><rp> (</rp><rt>げん</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>長</rb><rp> (</rp><rt>ちょう</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>剣</rb><rp> (</rp><rt>けん</rt><rp>) </rp></ruby> , _Buki Ningen (Chōken)_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) in the second Character Popularity Poll.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")\]
+## References
 
 1.  [↑](#cite_ref-Ch86Pg14-15_1-0) Chainsaw Man Manga: [Chapter 86](/wiki/Chapter_86 "Chapter 86"), Pages 14-15
 2.  [↑](#cite_ref-Ch86Pg16_2-0) Chainsaw Man Manga: [Chapter 86](/wiki/Chapter_86 "Chapter 86"), Page 16
@@ -86,9 +127,3 @@ Katana Man and the Longsword Hybrid act first by leaping forward, both slicing t
 4.  [↑](#cite_ref-Ch93Pg12-13_4-0) Chainsaw Man Manga: [Chapter 93](/wiki/Chapter_93 "Chapter 93"), Pages 12-13
 5.  [↑](#cite_ref-Ch93Pg18-19_5-0) Chainsaw Man Manga: [Chapter 93](/wiki/Chapter_93 "Chapter 93"), Pages 18-19
 6.  [↑](#cite_ref-Ch94Pg5-7_6-0) Chainsaw Man Manga: [Chapter 94](/wiki/Chapter_94 "Chapter 94"), Pages 5-7
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FLongsword_Hybrid%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devil_Hunters" title="Template:Devil Hunters"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devil_Hunters?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil_Hunter" title="Devil Hunter"><span>Devil Hunters</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Public_Safety_Devil_Hunters" title="Public Safety Devil Hunters"><span>Public Safety Devil Hunters</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Angel_Devil" title="Angel Devil">Angel</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Beam" title="Beam">Beam</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Furuno" title="Furuno">Furuno</a> • <a href="/wiki/Fushi" title="Fushi">Fushi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Galgali" title="Galgali">Galgali</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Himeno" title="Himeno">Himeno</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kato" title="Kato">Kato</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kishibe" title="Kishibe">Kishibe</a> • <a href="/wiki/Kobeni_Higashiyama" title="Kobeni Higashiyama">Kobeni Higashiyama</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Kusakabe" title="Kusakabe">Kusakabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Madoka" title="Madoka">Madoka</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Makima" title="Makima">Makima</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Masaki_Ando" title="Masaki Ando">Masaki Ando</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Michiko_Tendo" title="Michiko Tendo">Michiko Tendo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nakamura" title="Nakamura">Nakamura</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nomo" title="Nomo">Nomo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Power" title="Power">Power</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Princi" title="Princi">Princi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Subaru" title="Subaru">Subaru</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tamaoki" title="Tamaoki">Tamaoki</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tanabe" title="Tanabe">Tanabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Yutaro_Kurose" title="Yutaro Kurose">Yutaro Kurose</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Hirokazu_Arai" title="Hirokazu Arai">Hirokazu Arai</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Civilian Devil Hunters</span></b></small></th><td align="center"><a href="/wiki/Akane_Sawatari" title="Akane Sawatari">Akane Sawatari</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Aldo" title="Aldo">Aldo</a> • <a href="/wiki/Denji" title="Denji">Denji</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Joey" title="Joey">Joey</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Santa_Claus" title="Santa Claus">Santa Claus</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Tolka" title="Tolka">Tolka</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Devil Hunter Club</span></b></small></th><td align="center"><a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Fami" title="Fami">Fami</a> • <a href="/wiki/Furio" title="Furio">Furio</a> • <a href="/wiki/Haruka_Iseumi" title="Haruka Iseumi">Haruka Iseumi</a> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Seigi_Akoku" title="Seigi Akoku">Seigi Akoku</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Yuko" title="Yuko">Yuko</a>&nbsp;<sup title="Former">‡</sup></td></tr></tbody></table>
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <strong>Longsword Devil</strong> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <strong>Longsword Hybrid</strong> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>

@@ -1,6 +1,76 @@
+---
+titile: Future Devil
+image: https://static.wikia.nocookie.net/chainsaw-man/images/0/02/Future_Devil_anime.png
+---
+
 # Future Devil
 
-![Future Devil](https://static.wikia.nocookie.net/chainsaw-man/images/0/02/Future_Devil_anime.png)
+[![Anime](https://static.wikia.nocookie.net/chainsaw-man/images/0/02/Future_Devil_anime.png/revision/latest/scale-to-width-down/350?cb=20221220183132)](https://static.wikia.nocookie.net/chainsaw-man/images/0/02/Future_Devil_anime.png/revision/latest?cb=20221220183132 "Anime")
+
+[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/6/69/Future_Devil.png/revision/latest/scale-to-width-down/346?cb=20191215133947)](https://static.wikia.nocookie.net/chainsaw-man/images/6/69/Future_Devil.png/revision/latest?cb=20191215133947 "Manga")
+
+## Name
+
+### Japanese
+
+<ruby lang="ja"><rb>未</rb><rp> (</rp><rt>み</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>来</rb><rp> (</rp><rt>らい</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>
+
+### Romaji
+
+Mirai no Akuma
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil")
+
+### Gender
+
+Male (presumably)
+
+### Status
+
+Alive
+
+## Professional Information
+
+### Occupation
+
+Contract Devil
+
+### Affiliation
+
+[Public Safety Devil Hunters](/wiki/Devil_Hunter#Public_Safety_Devil_Hunters "Devil Hunter")
+
+### Contracted Humans
+
+[Aki Hayakawa](/wiki/Aki_Hayakawa "Aki Hayakawa") †
+
+Two Devil Hunters  
+Thirty convicts
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 31](/wiki/Chapter_31 "Chapter 31")
+
+### Anime Debut
+
+[Episode 10](/wiki/Episode_10 "Episode 10")
+
+## Portrayal
+
+### Japanese Voice
+
+[Hiroki](http://en.wikipedia.org/wiki/jp:%E8%A3%95%E6%A8%B9_(%E5%A3%B0%E5%84%AA) "wikipedia:jp:裕樹 (声優)")
+
+### English Voice
+
+Landon McDonald
+
+[Image Gallery](/wiki/Future_Devil/Image_Gallery "Future Devil/Image Gallery")
 
 > "_The future rules!_" ― (未来最高, Mirai saikō!)
 
@@ -25,7 +95,7 @@ The **Future Devil** (<ruby lang="ja"><rb>未</rb><rp> (</rp><rt>み</rt><rp>) <
 -   [8 References](#References)
 -   [9 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 The Future Devil's lower half resembles a tree growing from the floor with branches and a trunk extending up to a humanoid body with outstretched arms and a horned head. Multiple vine-like streamers grows from its arms and chest.[\[1\]](#cite_note-Ch31Pg19-1)
 
@@ -33,7 +103,7 @@ Its face has three pairs of eyes stacked on top of each other vertically and its
 
 The Future Devil has a large hole in the center of its chest, inside of which is another oversized eye.[\[3\]](#cite_note-Ch32Pg2_-_3-3)
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 It has a extremely playful personality, regularly boasting that the future is best.[\[1\]](#cite_note-Ch31Pg19-1) The Future Devil's contracts are typically very costly, but after witnessing Aki's future, it gives him a contract on the condition that it be allowed to reside inside his eye to witness his horrible future up close, mocking him.
 
@@ -41,27 +111,27 @@ After showing Aki a vision of the future, he questions the devil on its motive, 
 
 Different than other devils, Future Devil will not just wait until he is called and sometimes intercepts the hunter's life. He gives Aki the future about his death, making Aki desperately tries to find a way to save both Power and Denji which results in himself killed by Denji solely.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### History\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### History
 
 At some point the Future Devil was captured alive by Public Safety and locked up. It went on to make contracts with two Public Safety Devil Hunters, with one of them giving up half their lifespan and the other giving up both eyes, their sense of taste and their sense of smell.[\[4\]](#cite_note-Ch31Pg17-4)
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
 
 [Kurose](/wiki/Kurose "Kurose") and [Tendo](/wiki/Tendo "Tendo") lead Aki to a place where devils are locked up by public safety in order to find him a new weapon. They lead him to the Future Devil and tell him to make a contract with it. Aki enters the Future Devil's room and sees its full appearance as it announces repeatedly that the "future rules".[\[5\]](#cite_note-Ch31Pg12_-_17-5)
 
 Aki and the Future Devil talk, and the Future Devil disapproves of his attitude. It orders Aki to stick his head in its belly so that it can see his future and uses that to determine the details of their contract. After laughing at Aki's future, the Future Devil makes the offer that so long as it can live in Aki's right eye, it will help him. It reveals that the reason for why this contract is cheap is because it wishes to see Aki's future with its own eyes and that Aki is fated to die in "the worst way possible".[\[6\]](#cite_note-Ch32Pg1_-_6-6)
 
-### [Gun Devil arc](/wiki/Gun_Devil_arc "Gun Devil arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+### [Gun Devil arc](/wiki/Gun_Devil_arc "Gun Devil arc")
 
 Upon Aki's death at [Denji's](/wiki/Denji "Denji") hand, the Future Devil reappears, laughing. He comments that he "died in the worst way possible... for the Chainsaw Boy," revealing that his death was meant to be horrible for Denji and not Aki himself.
 
-### [Current arc](/wiki/Current_arc "Current arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+### [Current arc](/wiki/Current_arc "Current arc")
 
 At some point, the Future Devil was re-captured by Public Safety. He predicted 23 out of 30 convicts would die in July 1999, indicating the Prophecies of Nostradamus would come true and humanity would soon meet its end.
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+## Abilities
 
 As a Devil, the Future Devil possesses all of the standard [devil abilities](/wiki/Devil#General_Abilities "Devil"), such the ability to make contracts with humans for a price. It's implied that the Future Devil is fairly strong, as Kurose and Tendo take Aki to see it in order to find a weapon he can use against Devils after the Fox Devil ended their contract.
 
@@ -74,33 +144,33 @@ The contracts with it seen so far are:
 
 Presumably, most contracts with it give the Devil Hunter the ability to see the future momentarily. However, as Aki discovered in his fight with the Ghost Devil, there is a notable weakness in that being able to see the future does not guarantee that you can act on it, as he was overwhelmed by the Ghost Devil's barrage of attacks despite being able to see them coming.
 
-### Devil Powers\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+### Devil Powers
 
 -   **Future Sight**: By having someone insert their head into the hole in its chest, the Future Devil can see that person's future.[\[3\]](#cite_note-Ch32Pg2_-_3-3) It may also impart these visions on its contractors of its own volition, which it is only seen doing to cause distress about the future. These visions are absolute, though cryptic.
 
-## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+## Chapter Appearances
 
-### [Public Safety Saga](/wiki/Public_Safety_Saga "Public Safety Saga")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
+### [Public Safety Saga](/wiki/Public_Safety_Saga "Public Safety Saga")
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Katana_Man_Arc" title="Template:Appearance/Katana Man Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Katana_Man_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Debut</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Appears</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Absent</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Appears</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Debut</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Appears</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Absent</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Appears</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Gun_Devil_Arc" title="Template:Appearance/Gun Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Gun_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Gun_Devil_arc" title="Gun Devil arc"><span>Gun Devil arc</span></a></center></th></tr><tr><td>72. <a href="/wiki/Chapter_72" title="Chapter 72">All Together</a></td><td><span>Absent</span></td></tr><tr><td>73. <a href="/wiki/Chapter_73" title="Chapter 73">Everyday Life No More</a></td><td><span>Absent</span></td></tr><tr><td>74. <a href="/wiki/Chapter_74" title="Chapter 74">What the Waves Say</a></td><td><span>Absent</span></td></tr><tr><td>75. <a href="/wiki/Chapter_75" title="Chapter 75">9,12</a></td><td><span>Absent</span></td></tr><tr><td>76. <a href="/wiki/Chapter_76" title="Chapter 76">Don't Open It</a></td><td><span>Absent</span></td></tr><tr><td>77. <a href="/wiki/Chapter_77" title="Chapter 77">Ring Ring Ring</a></td><td><span>Absent</span></td></tr><tr><td>78. <a href="/wiki/Chapter_78" title="Chapter 78">Snowball Fight</a></td><td><span>Absent</span></td></tr><tr><td>79. <a href="/wiki/Chapter_79" title="Chapter 79">Play Catch</a></td><td><span>Appears</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Gun_Devil_arc" title="Gun Devil arc"><span>Gun Devil arc</span></a></center></th></tr><tr><td>72. <a href="/wiki/Chapter_72" title="Chapter 72">All Together</a></td><td><span>Absent</span></td></tr><tr><td>73. <a href="/wiki/Chapter_73" title="Chapter 73">Everyday Life No More</a></td><td><span>Absent</span></td></tr><tr><td>74. <a href="/wiki/Chapter_74" title="Chapter 74">What the Waves Say</a></td><td><span>Absent</span></td></tr><tr><td>75. <a href="/wiki/Chapter_75" title="Chapter 75">9,12</a></td><td><span>Absent</span></td></tr><tr><td>76. <a href="/wiki/Chapter_76" title="Chapter 76">Don't Open It</a></td><td><span>Absent</span></td></tr><tr><td>77. <a href="/wiki/Chapter_77" title="Chapter 77">Ring Ring Ring</a></td><td><span>Absent</span></td></tr><tr><td>78. <a href="/wiki/Chapter_78" title="Chapter 78">Snowball Fight</a></td><td><span>Absent</span></td></tr><tr><td>79. <a href="/wiki/Chapter_79" title="Chapter 79">Play Catch</a></td><td><span>Appears</span></td></tr></tbody></table>
 
-### [Academy Saga](/wiki/Academy_Saga "Academy Saga")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")\]
+### [Academy Saga](/wiki/Academy_Saga "Academy Saga")
 
-<table><tbody><tr><th colspan="2"><span><span title="Template:Appearance/Current Arc (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6QXBwZWFyYW5jZS9DdXJyZW50X0FyYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE="><span title="View this template">v</span></span>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Current_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Current_arc" title="Current arc"><span>Current arc</span></a></center></th></tr><tr><td>121. <a href="/wiki/Chapter_121" title="Chapter 121">Theory of Happiness</a></td><td><span>Absent</span></td></tr><tr><td>122. <a href="/wiki/Chapter_122" title="Chapter 122">The Prophecies</a></td><td><span>Mentioned</span></td></tr><tr><td>123. <a href="/wiki/Chapter_123" title="Chapter 123">Hors D'oeuvre</a></td><td><span>Absent</span></td></tr><tr><td>124. <a href="/wiki/Chapter_124" title="Chapter 124">Soup</a></td><td><span>Absent</span></td></tr><tr><td>125. <a href="/wiki/Chapter_125" title="Chapter 125">Apple Thief</a></td><td><span>Absent</span></td></tr><tr><td>126. <a href="/wiki/Chapter_126" title="Chapter 126">Food Fight</a></td><td><span>Absent</span></td></tr><tr><td>127. <a href="/wiki/Chapter_127" title="Chapter 127">Save the Asa</a></td><td><span>Absent</span></td></tr><tr><td>128. <a href="/wiki/Chapter_128" title="Chapter 128">Main Dish</a></td><td><span>Absent</span></td></tr><tr><td>129. <a href="/wiki/Chapter_129" title="Chapter 129">Save Me, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>130. <a href="/wiki/Chapter_130" title="Chapter 130">Kill Building</a></td><td><span>Absent</span></td></tr><tr><td>131. <a href="/wiki/Chapter_131" title="Chapter 131">Taste of Crap</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Current_arc" title="Current arc"><span>Current arc</span></a></center></th></tr><tr><td>121. <a href="/wiki/Chapter_121" title="Chapter 121">Theory of Happiness</a></td><td><span>Absent</span></td></tr><tr><td>122. <a href="/wiki/Chapter_122" title="Chapter 122">The Prophecies</a></td><td><span>Mentioned</span></td></tr><tr><td>123. <a href="/wiki/Chapter_123" title="Chapter 123">Hors D'oeuvre</a></td><td><span>Absent</span></td></tr><tr><td>124. <a href="/wiki/Chapter_124" title="Chapter 124">Soup</a></td><td><span>Absent</span></td></tr><tr><td>125. <a href="/wiki/Chapter_125" title="Chapter 125">Apple Thief</a></td><td><span>Absent</span></td></tr><tr><td>126. <a href="/wiki/Chapter_126" title="Chapter 126">Food Fight</a></td><td><span>Absent</span></td></tr><tr><td>127. <a href="/wiki/Chapter_127" title="Chapter 127">Save the Asa</a></td><td><span>Absent</span></td></tr><tr><td>128. <a href="/wiki/Chapter_128" title="Chapter 128">Main Dish</a></td><td><span>Absent</span></td></tr><tr><td>129. <a href="/wiki/Chapter_129" title="Chapter 129">Save Me, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>130. <a href="/wiki/Chapter_130" title="Chapter 130">Kill Building</a></td><td><span>Absent</span></td></tr><tr><td>131. <a href="/wiki/Chapter_131" title="Chapter 131">Taste of Crap</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Anime Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")\]
+## Anime Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Season_1" title="Template:Appearance/Season 1"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Season_1?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Debut</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Appears</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Debut</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Appears</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D14&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   The Future Devil's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
     -   The Future Devil ranked 21st in the First Popularity Poll with 1,813 votes.
     -   The Future Devil ranked 21st in the Second Popularity Poll with 3,023 votes.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D15&uselang=en "Sign in to edit")\]
+## References
 
 1.  ↑ [1.0](#cite_ref-Ch31Pg19_1-0) [1.1](#cite_ref-Ch31Pg19_1-1) Chainsaw Man Manga: [Chapter 31](/wiki/Chapter_31 "Chapter 31"), Page 19
 2.  [↑](#cite_ref-Ch32Pg4_-_5_2-0) Chainsaw Man Manga: [Chapter 32](/wiki/Chapter_32 "Chapter 32"), Pages 4 - 5
@@ -108,7 +178,3 @@ Presumably, most contracts with it give the Devil Hunter the ability to see the 
 4.  [↑](#cite_ref-Ch31Pg17_4-0) Chainsaw Man Manga: [Chapter 31](/wiki/Chapter_31 "Chapter 31"), Page 17
 5.  [↑](#cite_ref-Ch31Pg12_-_17_5-0) Chainsaw Man Manga: [Chapter 31](/wiki/Chapter_31 "Chapter 31"), Pages 12 - 17
 6.  [↑](#cite_ref-Ch32Pg1_-_6_6-0) Chainsaw Man Manga: [Chapter 32](/wiki/Chapter_32 "Chapter 32"), Pages 1 - 6
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FFuture_Devil%3Fveaction%3Dedit%26section%3D16&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <strong>Future Devil</strong> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>

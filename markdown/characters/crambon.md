@@ -1,11 +1,49 @@
+---
+titile: Crambon
+image: https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Crambon.png
+---
+
 # Crambon
 
-![Crambon](https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Crambon.png)
+[![](https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Crambon.png/revision/latest?cb=20230316182142)](https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Crambon.png/revision/latest?cb=20230316182142)
+
+## Name
+
+### Japanese
+
+クランボン
+
+### Romaji
+
+## Biological Information
+
+### Species
+
+Feline
+
+### Gender
+
+Male
+
+### Status
+
+## Professional Information
+
+### Relatives
+
+[Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka") (former owner)
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 102](/wiki/Chapter_102 "Chapter 102")  
+[Chapter 123](/wiki/Chapter_123 "Chapter 123") (name reveal)
 
   
 **Crambon** (クランボン, _Kuranbon_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) was a cat who was saved and adopted by [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka"), during the attack of the [Typhoon Devil](/wiki/Typhoon_Devil "Typhoon Devil").
 
-## History\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FCrambon%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## History
 
 During the attack of the Typhoon Devil, Crambon hurt it's paw. Seeing this Asa tried saving it but tripped and fell. Because of this [Asa's Mother](/wiki/Asa_Mitaka%27s_Mother "Asa Mitaka's Mother") had to stop and help her up which cost her her own life.
 

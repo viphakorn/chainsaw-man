@@ -1,6 +1,60 @@
+---
+titile: Falling Devil
+image: https://static.wikia.nocookie.net/chainsaw-man/images/4/4c/Falling_Devil.png
+---
+
 # Falling Devil
 
-![Falling Devil](https://static.wikia.nocookie.net/chainsaw-man/images/4/4c/Falling_Devil.png)
+[![](https://static.wikia.nocookie.net/chainsaw-man/images/4/4c/Falling_Devil.png/revision/latest/scale-to-width-down/296?cb=20230314151241)](https://static.wikia.nocookie.net/chainsaw-man/images/4/4c/Falling_Devil.png/revision/latest?cb=20230314151241)
+
+## Name
+
+### Japanese
+
+<ruby lang="ja"><rb>落</rb><rp> (</rp><rt>らっ</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>下</rb><rp> (</rp><rt>か</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>
+
+### Romaji
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil")
+
+### Gender
+
+Female
+
+### Age
+
+Possibly just as old as humanity, if not older
+
+### Birthplace
+
+[Hell](/wiki/Hell "Hell")
+
+### Status
+
+Alive
+
+## Professional Information
+
+### Occupation
+
+Primal Fear  
+Wild Devil  
+Hell's Chef  
+Fami's Pawn
+
+### Affiliation
+
+[Fami](/wiki/Fami "Fami") (brainwashed)
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 122](/wiki/Chapter_122 "Chapter 122")
 
 > "_I'll be your chef tonight. Falling Devil... is my name._"
 
@@ -133,7 +187,7 @@ Failed dishes:
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><span title="Template:Appearance/Current Arc (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6QXBwZWFyYW5jZS9DdXJyZW50X0FyYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE="><span title="View this template">v</span></span>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Current_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Current_arc" title="Current arc"><span>Current arc</span></a></center></th></tr><tr><td>121. <a href="/wiki/Chapter_121" title="Chapter 121">Theory of Happiness</a></td><td><span>Absent</span></td></tr><tr><td>122. <a href="/wiki/Chapter_122" title="Chapter 122">The Prophecies</a></td><td><span>Debut</span></td></tr><tr><td>123. <a href="/wiki/Chapter_123" title="Chapter 123">Hors D'oeuvre</a></td><td><span>Appears</span></td></tr><tr><td>124. <a href="/wiki/Chapter_124" title="Chapter 124">Soup</a></td><td><span>Appears</span></td></tr><tr><td>125. <a href="/wiki/Chapter_125" title="Chapter 125">Apple Thief</a></td><td><span>Appears</span></td></tr><tr><td>126. <a href="/wiki/Chapter_126" title="Chapter 126">Food Fight</a></td><td><span>Appears</span></td></tr><tr><td>127. <a href="/wiki/Chapter_127" title="Chapter 127">Save the Asa</a></td><td><span>Appears</span></td></tr><tr><td>128. <a href="/wiki/Chapter_128" title="Chapter 128">Main Dish</a></td><td><span>Appears</span></td></tr><tr><td>129. <a href="/wiki/Chapter_129" title="Chapter 129">Save Me, Chainsaw Man</a></td><td><span>Appears</span></td></tr><tr><td>130. <a href="/wiki/Chapter_130" title="Chapter 130">Kill Building</a></td><td><span>Appears</span></td></tr><tr><td>131. <a href="/wiki/Chapter_131" title="Chapter 131">Taste of Crap</a></td><td><span>Appears</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Current_arc" title="Current arc"><span>Current arc</span></a></center></th></tr><tr><td>121. <a href="/wiki/Chapter_121" title="Chapter 121">Theory of Happiness</a></td><td><span>Absent</span></td></tr><tr><td>122. <a href="/wiki/Chapter_122" title="Chapter 122">The Prophecies</a></td><td><span>Debut</span></td></tr><tr><td>123. <a href="/wiki/Chapter_123" title="Chapter 123">Hors D'oeuvre</a></td><td><span>Appears</span></td></tr><tr><td>124. <a href="/wiki/Chapter_124" title="Chapter 124">Soup</a></td><td><span>Appears</span></td></tr><tr><td>125. <a href="/wiki/Chapter_125" title="Chapter 125">Apple Thief</a></td><td><span>Appears</span></td></tr><tr><td>126. <a href="/wiki/Chapter_126" title="Chapter 126">Food Fight</a></td><td><span>Appears</span></td></tr><tr><td>127. <a href="/wiki/Chapter_127" title="Chapter 127">Save the Asa</a></td><td><span>Appears</span></td></tr><tr><td>128. <a href="/wiki/Chapter_128" title="Chapter 128">Main Dish</a></td><td><span>Appears</span></td></tr><tr><td>129. <a href="/wiki/Chapter_129" title="Chapter 129">Save Me, Chainsaw Man</a></td><td><span>Appears</span></td></tr><tr><td>130. <a href="/wiki/Chapter_130" title="Chapter 130">Kill Building</a></td><td><span>Appears</span></td></tr><tr><td>131. <a href="/wiki/Chapter_131" title="Chapter 131">Taste of Crap</a></td><td><span>Appears</span></td></tr></tbody></table>
 
 ## Trivia
 
@@ -143,6 +197,7 @@ Failed dishes:
 -   The Falling Devil's outfit, attitude, and dominating claps are a reference to Slowik, the main antagonist of "The Menu," a movie that came out one day after chapter [111](/wiki/Chapter_111 "Chapter 111") and one that Fujimoto reportedly liked.
     -   The way she manifests on Earth resembles a scene in "Berserk," where Slan, one of the most powerful demonic beings in existence, manifests herself in another world through spilled troll guts.
 -   In one panel, the Falling Devil's gravitokinesis uproots a tree. This feat would require an acceleration of about 60 m/s².
+-   Given the reveal of being controlled by the Famine Devil, that would explain the cook/food motif the Falling Devil had.
 
 ## References
 
@@ -158,7 +213,3 @@ Failed dishes:
 10.  [↑](#cite_ref-Ch125Pg11_10-0) Chainsaw Man Manga: [Chapter 125](/wiki/Chapter_125 "Chapter 125"), Page 11
 11.  [↑](#cite_ref-Ch126Pg11_11-0) Chainsaw Man Manga: [Chapter 126](/wiki/Chapter_126 "Chapter 126"), Page 11
 12.  [↑](#cite_ref-Ch128Pg5_12-0) Chainsaw Man Manga: [Chapter 128](/wiki/Chapter_128 "Chapter 128"), Page 5
-
-## Site Navigation
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><strong>Falling Devil</strong> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>

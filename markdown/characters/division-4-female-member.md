@@ -1,6 +1,67 @@
+---
+titile: Division 4 Female Member
+image: https://static.wikia.nocookie.net/chainsaw-man/images/3/33/Female_Division_4_Member.png
+---
+
 # Division 4 Female Member
 
-![Division 4 Female Member](https://static.wikia.nocookie.net/chainsaw-man/images/3/33/Female_Division_4_Member.png)
+[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/6/6c/Female_Division_4_Member_manga.png/revision/latest?cb=20230405150559)](https://static.wikia.nocookie.net/chainsaw-man/images/6/6c/Female_Division_4_Member_manga.png/revision/latest?cb=20230405150559 "Manga")
+
+## Biological Information
+
+### Species
+
+Human
+
+### Gender
+
+Female
+
+### Age
+
+Unknown
+
+### Birthday
+
+Unknown
+
+### Birthplace
+
+[Japan](/wiki/World#Japan "World")
+
+### Status
+
+Deceased
+
+## Professional Information
+
+### Occupation
+
+[Public Safety Devil Hunter](/wiki/Devil_Hunter "Devil Hunter")
+
+### Affiliation
+
+[Tokyo Special Division 4](/wiki/Tokyo_Special_Division_4 "Tokyo Special Division 4")
+
+### Contracted Devils
+
+Unknown
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 20](/wiki/Chapter_20 "Chapter 20")
+
+### Anime Debut
+
+[Episode 7](/wiki/Episode_7 "Episode 7")
+
+## Portrayal
+
+### Japanese Voice
+
+[Satsuki Kokubu](http://en.wikipedia.org/wiki/Satsuki_Kokubu "wikipedia:Satsuki Kokubu")
 
 **Division 4 Female Member** (<ruby lang="ja"><rb>女</rb><rp> (</rp><rt>じょ</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>性</rb><rp> (</rp><rt>せい</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>課</rb><rp> (</rp><rt>か</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>員</rb><rp> (</rp><rt>いん</rt><rp>) </rp></ruby> [\[1\]](#cite_note-Ep7end_credits-1), _Josei Kain_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets"), lit. _Female division member_) was an unnamed character from the [Chainsaw Man manga](/wiki/Chainsaw_Man_(Manga) "Chainsaw Man (Manga)") [and anime series.](/wiki/Chainsaw_Man_(Anime) "Chainsaw Man (Anime)") She was a member of [Tokyo Special Division 4](/wiki/Tokyo_Special_Division_4 "Tokyo Special Division 4") and was partnered with [Madoka](/wiki/Madoka "Madoka").
 
@@ -16,39 +77,39 @@
 -   [5 Anime Appearances](#Anime_Appearances)
 -   [6 Reference](#Reference)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 She appears to be a woman in her early to mid 20's with brown and black short hair. She has narrow brown eyes. She also has silver piercings in both lobes of her ears.
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 She is shown to have a mature and caring personality during the "newbie welcome party". She is also shown to comfort [Kobeni](/wiki/Kobeni_Higashiyama "Kobeni Higashiyama") by calling her "Beni" during the party.[\[2\]](#cite_note-Ch20Pg8-2)
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### History\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### History
 
-### [Eternity Devil arc](/wiki/Eternity_Devil_arc "Eternity Devil arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### [Eternity Devil arc](/wiki/Eternity_Devil_arc "Eternity Devil arc")
 
 She attended the "Newbie welcome party" for Special Division 4, she had Kobeni sit next to her and asked the new members what their hobbies were in order to get to know them all better. [\[3\]](#cite_note-Ch20Pg12-3)
 
 After complimenting [Power](/wiki/Power "Power")'s ability to hold back her murderous impulses, Power says it's because of her IQ. She then questions what Power's IQ was and then compared her IQ of "around 100" to Power's and then compared it to [Fushi](/wiki/Fushi "Fushi")'s IQ of 134.[\[4\]](#cite_note-Ch21Pg4_-_5-4)
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
 
 She was among the [devil hunters](/wiki/Devil_Hunter "Devil Hunter") targeted during the [Gun Devil](/wiki/Gun_Devil "Gun Devil")'s plot to assassinate the Special Divisions of Public Safety. Several gunmen pulled out their weapons and shot at her in broad daylight alongside her partner, [Madoka](/wiki/Madoka "Madoka"). [\[5\]](#cite_note-Ch23Pg4_-_7-5) Unlike Madoka she did not survive the ambush.
 
-## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Eternity_Devil_Arc" title="Template:Appearance/Eternity Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Eternity_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Eternity_Devil_arc" title="Eternity Devil arc"><span>Eternity Devil arc</span></a></center></th></tr><tr><td>14. <a href="/wiki/Chapter_14" title="Chapter 14">French Kiss</a></td><td><span>Absent</span></td></tr><tr><td>15. <a href="/wiki/Chapter_15" title="Chapter 15">Endless 8th Floor</a></td><td><span>Absent</span></td></tr><tr><td>16. <a href="/wiki/Chapter_16" title="Chapter 16">The First Taste</a></td><td><span>Absent</span></td></tr><tr><td>17. <a href="/wiki/Chapter_17" title="Chapter 17">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>18. <a href="/wiki/Chapter_18" title="Chapter 18">Chainsaw vs. Eternity</a></td><td><span>Absent</span></td></tr><tr><td>19. <a href="/wiki/Chapter_19" title="Chapter 19">Nobel Prize</a></td><td><span>Absent</span></td></tr><tr><td>20. <a href="/wiki/Chapter_20" title="Chapter 20">Drinking</a></td><td><span>Debut</span></td></tr><tr><td>21. <a href="/wiki/Chapter_21" title="Chapter 21">Taste of a Kiss</a></td><td><span>Appears</span></td></tr><tr><td>22. <a href="/wiki/Chapter_22" title="Chapter 22">Cola-Flavor Chupa Chups</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Eternity_Devil_arc" title="Eternity Devil arc"><span>Eternity Devil arc</span></a></center></th></tr><tr><td>14. <a href="/wiki/Chapter_14" title="Chapter 14">French Kiss</a></td><td><span>Absent</span></td></tr><tr><td>15. <a href="/wiki/Chapter_15" title="Chapter 15">Endless 8th Floor</a></td><td><span>Absent</span></td></tr><tr><td>16. <a href="/wiki/Chapter_16" title="Chapter 16">The First Taste</a></td><td><span>Absent</span></td></tr><tr><td>17. <a href="/wiki/Chapter_17" title="Chapter 17">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>18. <a href="/wiki/Chapter_18" title="Chapter 18">Chainsaw vs. Eternity</a></td><td><span>Absent</span></td></tr><tr><td>19. <a href="/wiki/Chapter_19" title="Chapter 19">Nobel Prize</a></td><td><span>Absent</span></td></tr><tr><td>20. <a href="/wiki/Chapter_20" title="Chapter 20">Drinking</a></td><td><span>Debut</span></td></tr><tr><td>21. <a href="/wiki/Chapter_21" title="Chapter 21">Taste of a Kiss</a></td><td><span>Appears</span></td></tr><tr><td>22. <a href="/wiki/Chapter_22" title="Chapter 22">Cola-Flavor Chupa Chups</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Katana_Man_Arc" title="Template:Appearance/Katana Man Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Katana_Man_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Appears</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Absent</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Appears</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Absent</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Anime Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+## Anime Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Season_1" title="Template:Appearance/Season 1"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Season_1?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Debut</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Death</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Debut</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Death</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Reference\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDivision_4_Female_Member%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+## Reference
 
 1.  [↑](#cite_ref-Ep7end_credits_1-0) Chainsaw Man Anime: [Episode 7](/wiki/Episode_7 "Episode 7")
 2.  [↑](#cite_ref-Ch20Pg8_2-0) Chainsaw Man Manga: [Chapter 20](/wiki/Chapter_20 "Chapter 20"), Page 8

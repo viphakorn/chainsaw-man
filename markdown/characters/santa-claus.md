@@ -1,6 +1,69 @@
+---
+titile: Santa Claus
+image: https://static.wikia.nocookie.net/chainsaw-man/images/1/13/Doll_Devil.png
+---
+
 # Santa Claus
 
-![Santa Claus](https://static.wikia.nocookie.net/chainsaw-man/images/1/13/Doll_Devil.png)
+[![](https://static.wikia.nocookie.net/chainsaw-man/images/1/13/Doll_Devil.png/revision/latest/scale-to-width-down/350?cb=20200505105107)](https://static.wikia.nocookie.net/chainsaw-man/images/1/13/Doll_Devil.png/revision/latest?cb=20200505105107)
+
+## Name
+
+### Japanese
+
+サンタクロース
+
+### Romaji
+
+### Alias(es)
+
+Santa Claus  
+Master
+
+## Biological Information
+
+### Species
+
+Human (formerly)  
+[Devil](/wiki/Devil "Devil")
+
+### Gender
+
+Female (presumably)
+
+### Age
+
+Unknown
+
+### Status
+
+## Professional Information
+
+### Occupation
+
+[Private Devil Hunter](/wiki/Devil_Hunter#Private_Sector_Devil_Hunters "Devil Hunter")
+
+### Affiliation
+
+[Germany](/wiki/World#Germany "World") (possible ruse)
+
+### Relatives
+
+-   Santa Claus of Germany (2nd known body)
+-   [Tolka](/wiki/Tolka "Tolka") (former apprentice, 3rd known body)
+
+### Contracted Devils
+
+[Doll Devil](/wiki/Doll_Devil "Doll Devil")  
+[Curse Devil](/wiki/Curse_Devil "Curse Devil")  
+[Hell Devil](/wiki/Hell_Devil "Hell Devil")  
+[Darkness Devil](/wiki/Darkness_Devil "Darkness Devil")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 54](/wiki/Chapter_54 "Chapter 54")
 
 > "_[Tolka](/wiki/Tolka "Tolka"). I'll tell you the secret to making a sophisticated doll. Take the human you'll turn into a doll and add emotions only humans have. Pity. Worship. Adoration. And the secret ingredient: guilt._" ― “My mind is connected to all of my puppets around the world.”
 
@@ -22,7 +85,7 @@ Santa Claus serves as the main antagonist of the [International Assassins arc](/
 -   [7 References](#References)
 -   [8 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 Santa Claus’s main body is presumed to be a dark blue-haired, green eyed woman with a mole under her eye. She wears a dark skirt and a orange sweater.
 
@@ -40,7 +103,7 @@ Darkness Flesh
 
 Darkness Flesh (Night)
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 Santa Claus is a tactical and strategic being. She hid herself in a remote region, while using a perfect doll to bargain and negotiate. When introduced, Santa Claus appear to be a lecherous being who asked for several children of either gender as their reward for bringing in the [Chainsaw Devil](/wiki/Denji "Denji") from Japan, apparently for use in contracts and for pleasure (although this is likely done to instill strong emotions into them and groomed them to be the next perfect doll).[\[1\]](#cite_note-Ch54Pg14_-_16-1) It is later revealed that three of the children are meant to be used for contract with [Hell Devil](/wiki/Hell_Devil "Hell Devil") along with the old man perfect doll.
 
@@ -48,13 +111,13 @@ She has no issues with forcibly recruiting large numbers of civilians to work fo
 
 During battle, Santa Claus displayed a more ruthless tactic by transmitting her pain across puppets all over the world. In order to eliminate [Quanxi](/wiki/Quanxi "Quanxi"), Santa brought back the personalities of some puppets to dishearten and kill Denji.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### History\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### History
 
 At some point of time, Santa Claus made a contract with the [Doll Devil](/wiki/Doll_Devil "Doll Devil") which allowed her to create dolls and perfect dolls, which then spread throughout the world. One of the perfect dolls of Santa Claus is a short, mostly bald elderly man with a thin mustache and beard,[\[3\]](#cite_note-Ch54Pg15-3) which became known as the **Santa Claus of Germany** (ドイツのサンタクロース, _Doitsu no Santa Kurōsu_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")). However, another body of Santa Claus remained residing in the Soviet Union, who is presumably Santa’s true body. She is there to train [Tolka](/wiki/Tolka "Tolka") to become another perfect doll. She is referred to as **Master** (<ruby lang="ja"><rb>師</rb><rp> (</rp><rt>し</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>匠</rb><rp> (</rp><rt>しょう</rt><rp>) </rp></ruby> , _Shishō_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets"), lit. "Teacher") by Tolka. It was also revealed that she only had half a year to live for unknown reasons.
 
-### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")
 
 [![Germany letter](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/chainsaw-man/images/d/de/Germany_letter.jpg/revision/latest?cb=20220814150304)
 
@@ -80,11 +143,11 @@ After Tolka kills Denji, Santa Claus comes to congratulate Tolka and tells him t
 
 Quanxi attempts to help Denji fight against the sapient Dolls, who Quanxi alleges are only imitations of their human selves. Quanxi is seemingly slowed down by Santa Claus as the latter attempted to attack her as she skillfully evaded. However, as nighttime hits, Santa Claus becomes more powerful, and her body becomes increasingly nightmarish. As a result, she is able to attack and temporarily disable Denji. Santa Claus turns two of Quanxi's girlfriends into dolls in order to distract her and leave her open to attack. As Quanxi hugs one of her former girlfriends, she is impaled. Fortunately, Denji comes with the idea to use gasoline to light himself on fire in order to defeat Santa Claus, who is weakened by the light. As she is burned alive, Denji destroys Santa Claus's body by slamming a car into her. After defeating her current body, she claims that she will simply continue to come back in the form of her many dolls. In order to fully defeat her, her consciousness is brought into [Cosmo](/wiki/Cosmo "Cosmo")'s library world, where she is forced to learn all the universe's knowledge. As a result of Cosmo's power, Santa Claus is left incapable of thinking of anything other than Halloween, and her body burns to ashes as all her dolls goes haywire, with all of them saying "Halloween" over and over.
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+## Abilities
 
 Makima and Kishibe hold “him” in high regard as the most dangerous threat towards Denji amongst the world's assassins and devil hunters as they say it will all be over if Santa Claus uses “his” devils against them.[\[5\]](#cite_note-Ch54Pg10_-_13-5)
 
-### Devil Contracts\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+### Devil Contracts
 
 [![Santa Claus and her perfect dolls](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/chainsaw-man/images/e/ea/Santa_Claus_and_her_perfect_dolls.png/revision/latest?cb=20220814144558)
 
@@ -110,11 +173,11 @@ Santa Claus and her perfect dolls.
     -   **Regeneration**: Santa was able to heal her wounds by being in darkness, recovering from fatal injuries in an instant. Once again, she is able to regenerate faster at night.
     -   **Devil Transformation**: Santa became much taller, grew many more arms, and had many other changes to her body that resembled dolls. She grows even more devilish during nights.
 
-## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/International_Assassins_Arc" title="Template:Appearance/International Assassins Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/International_Assassins_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Debut</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Appears</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Absent</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Absent</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Appears</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Flashback</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Appears</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Appears</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Appears</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Appears</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Appears</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Appears</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Debut</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Appears</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Absent</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Absent</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Appears</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Flashback</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Appears</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Appears</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Appears</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Appears</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Appears</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Appears</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   Santa Claus's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
     -   Santa Claus ranked 16th in the First Popularity Poll with 2,608 votes.
@@ -122,7 +185,7 @@ Santa Claus and her perfect dolls.
 -   Santa Claus is the first character seen to have a [devil transformation](/wiki/Contract#Devil_Transformation "Contract").
 -   Given her nature as a hivemind, even if her supposed main body was destroyed, the mind of Santa Claus exists in the other dolls. The reason she is considered incapacitated and not dead is because she is still alive through the dolls but mentally damaged.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+## References
 
 1.  ↑ [1.0](#cite_ref-Ch54Pg14_-_16_1-0) [1.1](#cite_ref-Ch54Pg14_-_16_1-1) Chainsaw Man Manga: [Chapter 54](/wiki/Chapter_54 "Chapter 54"), Pages 14 - 16
 2.  ↑ [2.0](#cite_ref-Ch58Pg18_-_19_2-0) [2.1](#cite_ref-Ch58Pg18_-_19_2-1) [2.2](#cite_ref-Ch58Pg18_-_19_2-2) Chainsaw Man Manga: [Chapter 58](/wiki/Chapter_58 "Chapter 58"), Pages 18 - 19
@@ -136,7 +199,3 @@ Santa Claus and her perfect dolls.
 10.  [↑](#cite_ref-Ch59Pg9_10-0) Chainsaw Man Manga: [Chapter 59](/wiki/Chapter_59 "Chapter 59"), Page 9
 11.  [↑](#cite_ref-Ch59Pg16_-_19_11-0) Chainsaw Man Manga: [Chapter 59](/wiki/Chapter_59 "Chapter 59"), Pages 16 - 19
 12.  [↑](#cite_ref-Ch63Pg4_12-0) Chainsaw Man Manga: [Chapter 63](/wiki/Chapter_63 "Chapter 63"), Page 4
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FSanta_Claus%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devil_Hunters" title="Template:Devil Hunters"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devil_Hunters?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil_Hunter" title="Devil Hunter"><span>Devil Hunters</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Public_Safety_Devil_Hunters" title="Public Safety Devil Hunters"><span>Public Safety Devil Hunters</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Angel_Devil" title="Angel Devil">Angel</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Beam" title="Beam">Beam</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Furuno" title="Furuno">Furuno</a> • <a href="/wiki/Fushi" title="Fushi">Fushi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Galgali" title="Galgali">Galgali</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Himeno" title="Himeno">Himeno</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kato" title="Kato">Kato</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kishibe" title="Kishibe">Kishibe</a> • <a href="/wiki/Kobeni_Higashiyama" title="Kobeni Higashiyama">Kobeni Higashiyama</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Kusakabe" title="Kusakabe">Kusakabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Madoka" title="Madoka">Madoka</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Makima" title="Makima">Makima</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Masaki_Ando" title="Masaki Ando">Masaki Ando</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Michiko_Tendo" title="Michiko Tendo">Michiko Tendo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nakamura" title="Nakamura">Nakamura</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nomo" title="Nomo">Nomo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Power" title="Power">Power</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Princi" title="Princi">Princi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Subaru" title="Subaru">Subaru</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tamaoki" title="Tamaoki">Tamaoki</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tanabe" title="Tanabe">Tanabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Yutaro_Kurose" title="Yutaro Kurose">Yutaro Kurose</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Hirokazu_Arai" title="Hirokazu Arai">Hirokazu Arai</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Civilian Devil Hunters</span></b></small></th><td align="center"><a href="/wiki/Akane_Sawatari" title="Akane Sawatari">Akane Sawatari</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Aldo" title="Aldo">Aldo</a> • <a href="/wiki/Denji" title="Denji">Denji</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Joey" title="Joey">Joey</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <strong>Santa Claus</strong>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Tolka" title="Tolka">Tolka</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Devil Hunter Club</span></b></small></th><td align="center"><a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Fami" title="Fami">Fami</a> • <a href="/wiki/Furio" title="Furio">Furio</a> • <a href="/wiki/Haruka_Iseumi" title="Haruka Iseumi">Haruka Iseumi</a> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Seigi_Akoku" title="Seigi Akoku">Seigi Akoku</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Yuko" title="Yuko">Yuko</a>&nbsp;<sup title="Former">‡</sup></td></tr></tbody></table>

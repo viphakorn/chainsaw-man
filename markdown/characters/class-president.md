@@ -1,6 +1,50 @@
+---
+titile: Class President
+image: https://static.wikia.nocookie.net/chainsaw-man/images/4/4b/Class_president.png
+---
+
 # Class President
 
-![Class President](https://static.wikia.nocookie.net/chainsaw-man/images/4/4b/Class_president.png)
+[![Transformed](https://static.wikia.nocookie.net/chainsaw-man/images/8/80/Justice_devil_infront_of_asa.png/revision/latest/scale-to-width-down/325?cb=20220827183116)](https://static.wikia.nocookie.net/chainsaw-man/images/8/80/Justice_devil_infront_of_asa.png/revision/latest?cb=20220827183116 "Transformed")
+
+## Biological Information
+
+### Species
+
+Human (formerly)  
+[Devil](/wiki/Devil "Devil") (post-transformation)
+
+### Gender
+
+Female
+
+### Age
+
+Teenager
+
+### Status
+
+Deceased
+
+## Professional Information
+
+### Occupation
+
+Student
+
+### Affiliation
+
+[Fourth East High School](/wiki/Fourth_East_High_School "Fourth East High School")
+
+### Contracted Devils
+
+[Justice Devil](/wiki/Justice_Devil "Justice Devil")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 98](/wiki/Chapter_98 "Chapter 98")
 
 An unnamed high school student was the **class president** of [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka")'s class at [Fourth East High School](/wiki/Fourth_East_High_School "Fourth East High School") who made a contract with the [Justice Devil](/wiki/Justice_Devil "Justice Devil") out of jealousy. She was the first major antagonist of the [Justice Devil arc](/wiki/Justice_Devil_arc "Justice Devil arc").
 
@@ -33,6 +77,6 @@ It is possible that, just like with [Yuko](/wiki/Yuko "Yuko"), her personality g
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Justice_Devil_Arc" title="Template:Appearance/Justice Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Justice_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Justice_Devil_arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/wiki/Chapter_98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/wiki/Chapter_99" title="Chapter 99">Two Birds</a></td><td><span>Mentioned</span></td></tr><tr><td>100. <a href="/wiki/Chapter_100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Absent</span></td></tr><tr><td>101. <a href="/wiki/Chapter_101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Absent</span></td></tr><tr><td>102. <a href="/wiki/Chapter_102" title="Chapter 102">Save the Cat</a></td><td><span>Absent</span></td></tr><tr><td>103. <a href="/wiki/Chapter_103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/wiki/Chapter_104" title="Chapter 104">Spoiler</a></td><td><span>Absent</span></td></tr><tr><td>105. <a href="/wiki/Chapter_105" title="Chapter 105">Red Hot</a></td><td><span>Mentioned</span></td></tr><tr><td>106. <a href="/wiki/Chapter_106" title="Chapter 106">Bonfire</a></td><td><span>Absent</span></td></tr><tr><td>107. <a href="/wiki/Chapter_107" title="Chapter 107">School Attacker</a></td><td><span>Absent</span></td></tr><tr><td>108. <a href="/wiki/Chapter_108" title="Chapter 108">Something Important to Asa</a></td><td><span>Absent</span></td></tr><tr><td>109. <a href="/wiki/Chapter_109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Absent</span></td></tr><tr><td>110. <a href="/wiki/Chapter_110" title="Chapter 110">A Ring in the Night</a></td><td><span>Absent</span></td></tr><tr><td>111. <a href="/wiki/Chapter_111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Justice_Devil_arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/wiki/Chapter_98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/wiki/Chapter_99" title="Chapter 99">Two Birds</a></td><td><span>Mentioned</span></td></tr><tr><td>100. <a href="/wiki/Chapter_100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Absent</span></td></tr><tr><td>101. <a href="/wiki/Chapter_101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Absent</span></td></tr><tr><td>102. <a href="/wiki/Chapter_102" title="Chapter 102">Save the Cat</a></td><td><span>Absent</span></td></tr><tr><td>103. <a href="/wiki/Chapter_103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/wiki/Chapter_104" title="Chapter 104">Spoiler</a></td><td><span>Absent</span></td></tr><tr><td>105. <a href="/wiki/Chapter_105" title="Chapter 105">Red Hot</a></td><td><span>Mentioned</span></td></tr><tr><td>106. <a href="/wiki/Chapter_106" title="Chapter 106">Bonfire</a></td><td><span>Absent</span></td></tr><tr><td>107. <a href="/wiki/Chapter_107" title="Chapter 107">School Attacker</a></td><td><span>Absent</span></td></tr><tr><td>108. <a href="/wiki/Chapter_108" title="Chapter 108">Something Important to Asa</a></td><td><span>Absent</span></td></tr><tr><td>109. <a href="/wiki/Chapter_109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Absent</span></td></tr><tr><td>110. <a href="/wiki/Chapter_110" title="Chapter 110">A Ring in the Night</a></td><td><span>Absent</span></td></tr><tr><td>111. <a href="/wiki/Chapter_111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## References

@@ -1,5 +1,9 @@
 import fs from "fs";
 import Markdown from "markdown-to-jsx";
+import { MDXRemote } from "next-mdx-remote/rsc";
+import Image from "next/image";
+import Link from "next/link";
+import probe from "probe-image-size";
 
 type Props = {
   params: {
@@ -14,12 +18,45 @@ const getCharacterInfo = (characterName: string) => {
   return content;
 };
 
-export default function CharacterInfo({ params }: Props) {
+const components = {
+  img: async (props: any) => {
+    const imageSize = await probe(props.src.replace(/\/revision\/.*$/, ""));
+
+    return (
+      <img
+        {...props}
+        src={props.src.replace(/\/revision\/.*$/, "")}
+        // width={imageSize.width}
+        // height={imageSize.height}
+      />
+    );
+  },
+
+  a: (props: any) => {
+    if (props.href.includes("https://static.wikia.nocookie.net/")) {
+      return props.children;
+    }
+    return (
+      <Link
+        {...props}
+        href={props.href
+          .replace(/^\/wiki/, "")
+          .toLowerCase()
+          .replace(/_/g, "-")}
+      >
+        {props.children}
+      </Link>
+    );
+  },
+};
+
+export default async function CharacterInfo({ params }: Props) {
   const content = getCharacterInfo(params?.characterName);
   return (
     <main>
-      <article className="prose prose-invert fluid-container">
-        <Markdown>{content}</Markdown>
+      <article className="prose prose-invert max-w-7xl fluid-container">
+        {/* @ts-ignore */}
+        <MDXRemote source={content} components={{ ...components }} />
       </article>
     </main>
   );

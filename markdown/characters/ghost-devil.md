@@ -1,6 +1,53 @@
+---
+titile: Ghost Devil
+image: https://static.wikia.nocookie.net/chainsaw-man/images/0/01/Ghost_Devil_anime.png
+---
+
 # Ghost Devil
 
-![Ghost Devil](https://static.wikia.nocookie.net/chainsaw-man/images/0/01/Ghost_Devil_anime.png)
+[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/d/de/Ghost_Devil.png/revision/latest/scale-to-width-down/297?cb=20230418181839)](https://static.wikia.nocookie.net/chainsaw-man/images/d/de/Ghost_Devil.png/revision/latest?cb=20230418181839 "Manga")
+
+## Name
+
+### Japanese
+
+<ruby lang="ja"><rb>幽</rb><rp> (</rp><rt>ゆう</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>
+
+### Romaji
+
+Yūrei no Akuma
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil")
+
+### Gender
+
+Unknown
+
+### Status
+
+Deceased
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 15](/wiki/Chapter_15 "Chapter 15") (Mentioned)  
+[Chapter 25](/wiki/Chapter_25 "Chapter 25")
+
+### Anime Debut
+
+[Episode 5](/wiki/Episode_5 "Episode 5") (Mentioned)  
+[Episode 8](/wiki/Episode_8 "Episode 8")
+
+## Portrayal
+
+### Japanese Voice
+
+Hiroko Kiso
 
 The **Ghost Devil** (<ruby lang="ja"><rb>幽</rb><rp> (</rp><rt>ゆう</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>霊</rb><rp> (</rp><rt>れい</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Yūrei no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/wiki/Devil "Devil") that embodies the fear of ghosts.
 
@@ -20,21 +67,21 @@ The **Ghost Devil** (<ruby lang="ja"><rb>幽</rb><rp> (</rp><rt>ゆう</rt><rp>)
 -   [6 References](#References)
 -   [7 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 The Ghost Devil is a large devil with a somewhat cylindrical body; its torso is covered in white flowers with either yellow or pink centers and has several arms instead of legs. In the colored manga it seems to have skin (arms and legs) of a grey hue but change in tint depending on the scene. It's head appears old and desiccated, with long dark wavy or curly hair and sunken cheeks. The Ghost Devil's eyes and mouth are sewn shut.[\[1\]](#cite_note-Ch25Pg6-1) In the anime the flowers are pink on the outside and blue on the inside.
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 The Ghost Devil's personality is largely unknown except that it initially refused to fight against [Katana Man](/wiki/Katana_Man "Katana Man") because it considered [Akane Sawatari](/wiki/Akane_Sawatari "Akane Sawatari") to be scary, but after [Himeno](/wiki/Himeno "Himeno") offered up her entire body as payment to the Ghost Devil, it quickly changed its mind and showed excitement.[\[2\]](#cite_note-Ch25Pg3_-_5-2) During Aki's final confrontation with the Ghost Devil, it is shown to harbor residual sentiment for its previous contract, Himeno, as it carried Aki's first cigarettes with it for years until Aki was ready.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### History\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### History
 
 At some point, the Ghost Devil formed a contract with [Himeno](/wiki/Himeno "Himeno") allowing her to control its right hand in exchange for consuming her right eye.[\[3\]](#cite_note-Ch15Pg5-3)
 
-### [Eternity Devil arc](/wiki/Eternity_Devil_arc "Eternity Devil arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### [Eternity Devil arc](/wiki/Eternity_Devil_arc "Eternity Devil arc")
 
 [![Himeno using Ghost Devil against Eternity Devil](https://static.wikia.nocookie.net/chainsaw-man/images/b/b4/Himeno_using_Ghost_Devil_against_Eternity_Devil.png/revision/latest/scale-to-width-down/220?cb=20221115175914)](https://static.wikia.nocookie.net/chainsaw-man/images/b/b4/Himeno_using_Ghost_Devil_against_Eternity_Devil.png/revision/latest?cb=20221115175914)
 
@@ -50,7 +97,7 @@ When [Aki Hayakawa](/wiki/Aki_Hayakawa "Aki Hayakawa") suggests using his sword 
 
 As [Denji](/wiki/Denji "Denji") battles the Eternity Devil in his transformed state, he is nearly defeated, but Himeno intervenes and uses the Ghost Devil's arm to pull Denji's cord which causes him to regenerate.[\[8\]](#cite_note-Ch19Pg12_-_13-8)
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
 
 [![Ghost Devil appears](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/chainsaw-man/images/b/b9/Ghost_Devil_appears.png/revision/latest?cb=20221129174857)
 
@@ -66,7 +113,7 @@ At a later date, during the raid on the terrorist's hideout, Aki comes across Ak
 
 The Ghost Devil attempts to strike Aki with its many arms, but he uses the future sight gained from the [Future Devil](/wiki/Future_Devil "Future Devil") to evade its attacks and cut off several of its arms.[\[11\]](#cite_note-Ch35Pg1_-_3-11) Aki is quickly overwhelmed by the number of attacks and is eventually caught by the Ghost Devil who begins squeezing the life from him at Akane's command.[\[12\]](#cite_note-Ch35Pg4_-_7-12) Before it can finish killing him, the Ghost Devil drops Aki to the ground and offers him a cigarette with the words "Easy revenge!" written on it.[\[13\]](#cite_note-Ch35Pg9_-_12-13) Remembering a conversation he had with Himeno where she told him that the Ghost Devil can only sense through fear, Aki stops feeling afraid and climbs the Ghost Devil's body. He decapitates it with a blow from his sword, killing the Ghost Devil.[\[14\]](#cite_note-Ch35Pg13_-_17-14)
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+## Abilities
 
 [![Ghost Devil attacks with her hands](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D)](https://static.wikia.nocookie.net/chainsaw-man/images/a/a3/Ghost_Devil_attacks_with_her_hands.png/revision/latest?cb=20221129174914)
 
@@ -80,27 +127,27 @@ As a Devil, the Ghost Devil possesses all of the standard [devil abilities](/wik
 
 The only known contract is the one with [Himeno](/wiki/Himeno "Himeno"); in exchange for her right eye, Himeno can use the power of the Ghost Devil's right arm which stays with her at all times.[\[4\]](#cite_note-Ch15Pg3_-_5-4) The Ghost Devil can communicate with Himeno through its right arm by forming a mouth. Later on, by sacrificing more of her body, Himeno can use the full power of the Ghost Devil's entire body for a brief period of time.[\[2\]](#cite_note-Ch25Pg3_-_5-2)
 
-### Physical Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+### Physical Abilities
 
 -   **Enhanced Strength**: The Ghost Devil has a great deal of physical strength; with just one of its numerous limbs it could hit [Aki Hayakawa](/wiki/Aki_Hayakawa "Aki Hayakawa") hard enough to make him drop his sword and lift him into the air by his neck to choke him.[\[15\]](#cite_note-Ch35Pg4_-_5-15)
 
-### Devil Powers\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+### Devil Powers
 
 -   **Ghost Physiology**: As the embodiment of the fear of ghosts, the Ghost Devil has a body similar to ghosts. Its body is selectively intangible, preventing it from being touched by others, however special weapons can cut it [\[5\]](#cite_note-Ch15Pg7-5)[\[16\]](#cite_note-Ch41Pg5-16) and other devils can attack it. It can also become invisible as [Himeno](/wiki/Himeno "Himeno") could use its right arm to invisibly grab the Eternity Devil without anyone seeing it.[\[4\]](#cite_note-Ch15Pg3_-_5-4)
 
 -   **Fear Perception**: The Ghost Devil has no eyes as it perceives through fear instead; however this can backfire on it as it cannot sense someone approaching who feels no fear.[\[17\]](#cite_note-Ch35Pg13_-_15-17)
 
-### Weaknesses\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+### Weaknesses
 
 -   **Near Lack of Senses**: As mentioned above, the Ghost Devil can perceive through fear, but it seems to lack several other senses. It is unknown how many senses it lacks in total but sight is one primary sense it lacks.
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   The Ghost Devil's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
     -   The Ghost Devil ranked 33rd in the First Popularity Poll with 413 votes.
     -   The Ghost Devil ranked 42nd in the Second Popularity Poll with 646 votes.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")\]
+## References
 
 1.  [↑](#cite_ref-Ch25Pg6_1-0) Chainsaw Man Manga: [Chapter 25](/wiki/Chapter_25 "Chapter 25"), Page 6
 2.  ↑ [2.0](#cite_ref-Ch25Pg3_-_5_2-0) [2.1](#cite_ref-Ch25Pg3_-_5_2-1) [2.2](#cite_ref-Ch25Pg3_-_5_2-2) Chainsaw Man Manga: [Chapter 25](/wiki/Chapter_25 "Chapter 25"), Pages 3 - 5
@@ -119,7 +166,3 @@ The only known contract is the one with [Himeno](/wiki/Himeno "Himeno"); in exch
 15.  [↑](#cite_ref-Ch35Pg4_-_5_15-0) Chainsaw Man Manga: [Chapter 35](/wiki/Chapter_35 "Chapter 35"), Pages 4 - 5
 16.  [↑](#cite_ref-Ch41Pg5_16-0) Chainsaw Man Manga: [Chapter 41](/wiki/Chapter_41 "Chapter 41"), Page 5
 17.  [↑](#cite_ref-Ch35Pg13_-_15_17-0) Chainsaw Man Manga: [Chapter 35](/wiki/Chapter_35 "Chapter 35"), Pages 13 - 15
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FGhost_Devil%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <strong>Ghost Devil</strong> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>

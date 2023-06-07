@@ -1,6 +1,74 @@
+---
+titile: Beam
+image: https://static.wikia.nocookie.net/chainsaw-man/images/d/de/Beam_anime_design.png
+---
+
 # Beam
 
-![Beam](https://static.wikia.nocookie.net/chainsaw-man/images/d/de/Beam_anime_design.png)
+[![Anime](https://static.wikia.nocookie.net/chainsaw-man/images/d/de/Beam_anime_design.png/revision/latest/scale-to-width-down/300?cb=20221007101449)](https://static.wikia.nocookie.net/chainsaw-man/images/d/de/Beam_anime_design.png/revision/latest?cb=20221007101449 "Anime")
+
+[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/f/f6/Shark_Fiend.png/revision/latest/scale-to-width-down/284?cb=20220806080827)](https://static.wikia.nocookie.net/chainsaw-man/images/f/f6/Shark_Fiend.png/revision/latest?cb=20220806080827 "Manga")
+
+## Name
+
+### Japanese
+
+ビーム
+
+### Romaji
+
+Bīmu
+
+### Alias(es)
+
+Shark Fiend  
+Shark Devil
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil") (formerly)  
+[Fiend](/wiki/Fiend "Fiend")
+
+### Gender
+
+Male
+
+### Status
+
+Deceased
+
+## Professional Information
+
+### Occupation
+
+[Public Safety Devil Hunter](/wiki/Devil_Hunter#Public_Safety_Devil_Hunters "Devil Hunter")
+
+### Affiliation
+
+-   [Public Safety Devil Hunters](/wiki/Devil_Hunter#Public_Safety_Devil_Hunters "Devil Hunter")
+    -   [Tokyo Special Division 4](/wiki/Tokyo_Special_Division_4 "Tokyo Special Division 4")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 34](/wiki/Chapter_34 "Chapter 34")
+
+### Anime Debut
+
+[Episode 11](/wiki/Episode_11 "Episode 11")
+
+## Portrayal
+
+### Japanese Voice
+
+[Natsuki Hanae](http://en.wikipedia.org/wiki/Natsuki_Hanae "wikipedia:Natsuki Hanae")
+
+### English Voice
+
+[Derick Snow](http://en.wikipedia.org/wiki/Derick_Snow "wikipedia:Derick Snow")
 
 > "_That's my [Lord Chainsaw!!](/wiki/Denji "Denji") He's the badass-est!!_"
 
@@ -25,7 +93,7 @@
 -   [8 References](#References)
 -   [9 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 Beam possesses the body of a muscular young man and as a fiend his shark's snout and fin replace of the top half of his head; he has no visible eyes. He has short, spiky black hair and very sharp teeth.[\[1\]](#cite_note-Ch34Pg3-1) He exclusively wears swimming trunks.
 
@@ -35,7 +103,7 @@ When he partially transforms into his devil form, his head becomes a massive sha
 
 Devil Form
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 Beam is very eccentric, naive and innocent. He often goes along with Denji's plans no matter how crazy they are due to having a lot of respect for the Chainsaw Devil.[\[3\]](#cite_note-Ch49Pg11_-_21-3) His devotion to the Chainsaw Man is such that he always tries to protect Denji personally and will offer his blood to revive him, even if ends up severely hurting or killing him.
 
@@ -43,15 +111,15 @@ He is shown to greatly enjoy fighting, eagerly diving into packs of zombies and 
 
 Though he was greatly afraid of having to fight against [Bomb](/wiki/Reze "Reze") to the point of fleeing, he showed no hesitation in trying to fight back against her when cornered.[\[5\]](#cite_note-Ch45Pg3_-_9-5)
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
 
 Beam is among the fighters from the Special Division 4 that are tasked with invading [Akane Sawatari](/wiki/Akane_Sawatari "Akane Sawatari")'s hideout. He emerges from the wall below ground and dives into the pack of zombies, partially transforming his head into a shark's head and kills several of them with ease.[\[4\]](#cite_note-Ch34Pg3_-_4-4) He almost accidentally bites through the [Violence Fiend](/wiki/Violence_Fiend "Violence Fiend") but is punched back by him and reverts to his original self.[\[6\]](#cite_note-Ch34Pg5-6)
 
 After [Power](/wiki/Power "Power") drinks too much blood in the attack on [Akane Sawatari](/wiki/Akane_Sawatari "Akane Sawatari")'s hideout and has to be taken away temporarily, Beam is assigned to be [Denji](/wiki/Denji "Denji")'s partner at his own request.[\[7\]](#cite_note-Ch39Pg1_-_2-7) He is very happy to be partnered with Denji and calls him Lord Chainsaw continuously while Makima introduces him to Denji.[\[8\]](#cite_note-Ch39Pg3_-_4-8)
 
-### [Bomb Girl arc](/wiki/Bomb_Girl_arc "Bomb Girl arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### [Bomb Girl arc](/wiki/Bomb_Girl_arc "Bomb Girl arc")
 
 He follows Denji around by swimming through the floor when they're out on patrol and is overjoyed when it rains. Denji tells him to stay out of sight because he'll cause a scene otherwise.[\[9\]](#cite_note-Ch40Pg1_-_5-9)
 
@@ -67,7 +135,7 @@ They manage to wound Reze who recovers after drinking blood, and kill the [Typho
 
 After Denji dives into the water to defeat Reze, Beam later dives in after him and rescues both of them by taking them to the beach.[\[15\]](#cite_note-Ch51Pg6_-_11-15) When Reze breaks Denji's neck and leaves, Denji begs Beam to rev his engine and heal him.[\[16\]](#cite_note-Ch51Pg16_-_18-16)
 
-### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")
 
 Beam assists Makima and the [Spider Devil](/wiki/Spider_Devil "Spider Devil") in cleaning up several doll puppets controlled by [Santa Claus](/wiki/Santa_Claus "Santa Claus"). Makima states she'll continue to clean up the situation and orders Beam to go assist Denji which he enthusiastically agrees to.[\[17\]](#cite_note-Ch59Pg5_-_6-17)
 
@@ -79,41 +147,41 @@ When he wakes up, Beam senses the presence of the [Darkness Devil](/wiki/Darknes
 
 As the Darkness Devil begins slaughtering all of the humans, fiends and devils present, Beam picks himself up and feeds blood from his stumps into Denji's mouth. He pulls on Denji's chainsaw cord to revive him and begs him to grant their wish, moments before the Darkness Devil points in his direction and cuts Beam into pieces, killing him instantly.[\[23\]](#cite_note-Ch65Pg4_-_6-23)
 
-### [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+### [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc")
 
 Beam is mentioned during the news broadcast by an interviewed woman who said she saw Denji riding him during the fight with the [Typhoon Devil](/wiki/Typhoon_Devil "Typhoon Devil").[\[24\]](#cite_note-Ch89Pg9-24)
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+## Abilities
 
 As a [fiend](/wiki/Fiend "Fiend"), Beam can't make [contracts](/wiki/Contract "Contract") and his powers are considerably weaker than those of his devil form. However, he still has all the other standard [devil abilities](/wiki/Devil#General_Abilities "Devil").
 
-### Physical Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+### Physical Abilities
 
 -   **Enhanced Durability**: Beam is very durable for a fiend, able to survive point-blank explosions caused by [Bomb Girl](/wiki/Reze "Reze") multiple times and still have enough mobility to escape afterwards.[\[3\]](#cite_note-Ch49Pg11_-_21-3)[\[14\]](#cite_note-Ch50Pg2_-_19-14)
 
-### Devil Powers\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+### Devil Powers
 
 -   **Intangibility**: Beam has the ability to swim through solid objects, allowing him to pass through walls and the floor with ease.[\[1\]](#cite_note-Ch34Pg3-1) He doesn't seem to able to bring others with him or bring large objects through.
 
 -   **Devil Transformation**: Beam can transform his head into an enormous shark's head with multiple eyes and great biting power.[\[4\]](#cite_note-Ch34Pg3_-_4-4) With his full transformation, Beam's entire body transforms into his Shark Devil form.[\[2\]](#cite_note-Ch49-2)
 
-### Other Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
+### Other Abilities
 
 -   **Enhanced Smell:** Fitting for a shark fiend, Beam has a strong sense of smell. He was able to recognize and correctly assume that Reze was a Bomb Devil hybrid based on her scent.
 
-## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")\]
+## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Katana_Man_Arc" title="Template:Appearance/Katana Man Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Katana_Man_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Debut</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Appears</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Debut</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Appears</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Bomb_Girl_Arc" title="Template:Appearance/Bomb Girl Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Bomb_Girl_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Bomb_Girl_arc" title="Bomb Girl arc"><span>Bomb Girl arc</span></a></center></th></tr><tr><td>40. <a href="/wiki/Chapter_40" title="Chapter 40">Love, Flower, Chainsaw</a></td><td><span>Appears</span></td></tr><tr><td>41. <a href="/wiki/Chapter_41" title="Chapter 41">Before the Storm</a></td><td><span>Absent</span></td></tr><tr><td>42. <a href="/wiki/Chapter_42" title="Chapter 42">Teach Me How to Swim</a></td><td><span>Absent</span></td></tr><tr><td>43. <a href="/wiki/Chapter_43" title="Chapter 43">Jane Fell Asleep in the Church</a></td><td><span>Absent</span></td></tr><tr><td>44. <a href="/wiki/Chapter_44" title="Chapter 44">Boom Boom Boom</a></td><td><span>Appears</span></td></tr><tr><td>45. <a href="/wiki/Chapter_45" title="Chapter 45">A Fine Day for Explosions</a></td><td><span>Appears</span></td></tr><tr><td>46. <a href="/wiki/Chapter_46" title="Chapter 46">The Melody of a Massacre</a></td><td><span>Appears</span></td></tr><tr><td>47. <a href="/wiki/Chapter_47" title="Chapter 47">Luck With Women</a></td><td><span>Appears</span></td></tr><tr><td>48. <a href="/wiki/Chapter_48" title="Chapter 48">Kaboom Kaboom Kaboom</a></td><td><span>Absent</span></td></tr><tr><td>49. <a href="/wiki/Chapter_49" title="Chapter 49">Shark Hurricane</a></td><td><span>Appears</span></td></tr><tr><td>50. <a href="/wiki/Chapter_50" title="Chapter 50">Sharknado</a></td><td><span>Appears</span></td></tr><tr><td>51. <a href="/wiki/Chapter_51" title="Chapter 51">Dark Diving</a></td><td><span>Appears</span></td></tr><tr><td>52. <a href="/wiki/Chapter_52" title="Chapter 52">Lost Love, Flower, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Bomb_Girl_arc" title="Bomb Girl arc"><span>Bomb Girl arc</span></a></center></th></tr><tr><td>40. <a href="/wiki/Chapter_40" title="Chapter 40">Love, Flower, Chainsaw</a></td><td><span>Appears</span></td></tr><tr><td>41. <a href="/wiki/Chapter_41" title="Chapter 41">Before the Storm</a></td><td><span>Absent</span></td></tr><tr><td>42. <a href="/wiki/Chapter_42" title="Chapter 42">Teach Me How to Swim</a></td><td><span>Absent</span></td></tr><tr><td>43. <a href="/wiki/Chapter_43" title="Chapter 43">Jane Fell Asleep in the Church</a></td><td><span>Absent</span></td></tr><tr><td>44. <a href="/wiki/Chapter_44" title="Chapter 44">Boom Boom Boom</a></td><td><span>Appears</span></td></tr><tr><td>45. <a href="/wiki/Chapter_45" title="Chapter 45">A Fine Day for Explosions</a></td><td><span>Appears</span></td></tr><tr><td>46. <a href="/wiki/Chapter_46" title="Chapter 46">The Melody of a Massacre</a></td><td><span>Appears</span></td></tr><tr><td>47. <a href="/wiki/Chapter_47" title="Chapter 47">Luck With Women</a></td><td><span>Appears</span></td></tr><tr><td>48. <a href="/wiki/Chapter_48" title="Chapter 48">Kaboom Kaboom Kaboom</a></td><td><span>Absent</span></td></tr><tr><td>49. <a href="/wiki/Chapter_49" title="Chapter 49">Shark Hurricane</a></td><td><span>Appears</span></td></tr><tr><td>50. <a href="/wiki/Chapter_50" title="Chapter 50">Sharknado</a></td><td><span>Appears</span></td></tr><tr><td>51. <a href="/wiki/Chapter_51" title="Chapter 51">Dark Diving</a></td><td><span>Appears</span></td></tr><tr><td>52. <a href="/wiki/Chapter_52" title="Chapter 52">Lost Love, Flower, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/International_Assassins_Arc" title="Template:Appearance/International Assassins Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/International_Assassins_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Absent</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Absent</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Absent</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Appears</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Appears</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Appears</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Death</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Absent</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Absent</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Absent</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Absent</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Absent</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Absent</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Absent</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Appears</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Appears</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Appears</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Death</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Absent</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Absent</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Absent</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Absent</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Anime Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")\]
+## Anime Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Season_1" title="Template:Appearance/Season 1"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Season_1?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Debut</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Debut</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D14&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   His name is originated from **Cherubim** (ケルビム _Kerubimu_), an angel from the highest order of Christian [angelic hierarchy](http://c2.com/cgi/wiki?Hierarchy_of_angels "wiki:Hierarchy of angels") along with Seraphim and Thrones.
     -   Other followers of Chainsaw Man were Power, [Angel Devil](/wiki/Angel_Devil "Angel Devil"), [Galgali](/wiki/Galgali "Galgali"), [Princi](/wiki/Princi "Princi"), **Seraphim**, **Dominion** and **Virtue**.
@@ -122,7 +190,7 @@ As a [fiend](/wiki/Fiend "Fiend"), Beam can't make [contracts](/wiki/Contract "C
     -   Beam ranked 12th in the First Popularity Poll with 5,847 votes.
     -   Beam ranked 12th in the Second Popularity Poll with 17,741 votes.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D15&uselang=en "Sign in to edit")\]
+## References
 
 1.  ↑ [1.0](#cite_ref-Ch34Pg3_1-0) [1.1](#cite_ref-Ch34Pg3_1-1) Chainsaw Man Manga: [Chapter 34](/wiki/Chapter_34 "Chapter 34"), Page 3
 2.  ↑ [2.0](#cite_ref-Ch49_2-0) [2.1](#cite_ref-Ch49_2-1) Chainsaw Man Manga: [Chapter 49](/wiki/Chapter_49 "Chapter 49")
@@ -148,9 +216,3 @@ As a [fiend](/wiki/Fiend "Fiend"), Beam can't make [contracts](/wiki/Contract "C
 22.  [↑](#cite_ref-Ch64Pg12_-_14_22-0) Chainsaw Man Manga: [Chapter 64](/wiki/Chapter_64 "Chapter 64"), Pages 12 - 14
 23.  [↑](#cite_ref-Ch65Pg4_-_6_23-0) Chainsaw Man Manga: [Chapter 65](/wiki/Chapter_65 "Chapter 65"), Pages 4 - 6
 24.  [↑](#cite_ref-Ch89Pg9_24-0) Chainsaw Man Manga: [Chapter 89](/wiki/Chapter_89 "Chapter 89"), Page 9
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FBeam%3Fveaction%3Dedit%26section%3D16&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <strong>Shark Devil</strong> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <strong>Beam</strong> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devil_Hunters" title="Template:Devil Hunters"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devil_Hunters?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil_Hunter" title="Devil Hunter"><span>Devil Hunters</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Public_Safety_Devil_Hunters" title="Public Safety Devil Hunters"><span>Public Safety Devil Hunters</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Angel_Devil" title="Angel Devil">Angel</a>&nbsp;<sup title="Deceased">†</sup> • <strong>Beam</strong>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Furuno" title="Furuno">Furuno</a> • <a href="/wiki/Fushi" title="Fushi">Fushi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Galgali" title="Galgali">Galgali</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Himeno" title="Himeno">Himeno</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kato" title="Kato">Kato</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kishibe" title="Kishibe">Kishibe</a> • <a href="/wiki/Kobeni_Higashiyama" title="Kobeni Higashiyama">Kobeni Higashiyama</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Kusakabe" title="Kusakabe">Kusakabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Madoka" title="Madoka">Madoka</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Makima" title="Makima">Makima</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Masaki_Ando" title="Masaki Ando">Masaki Ando</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Michiko_Tendo" title="Michiko Tendo">Michiko Tendo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nakamura" title="Nakamura">Nakamura</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nomo" title="Nomo">Nomo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Power" title="Power">Power</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Princi" title="Princi">Princi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Subaru" title="Subaru">Subaru</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tamaoki" title="Tamaoki">Tamaoki</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tanabe" title="Tanabe">Tanabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Yutaro_Kurose" title="Yutaro Kurose">Yutaro Kurose</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Hirokazu_Arai" title="Hirokazu Arai">Hirokazu Arai</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Civilian Devil Hunters</span></b></small></th><td align="center"><a href="/wiki/Akane_Sawatari" title="Akane Sawatari">Akane Sawatari</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Aldo" title="Aldo">Aldo</a> • <a href="/wiki/Denji" title="Denji">Denji</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Joey" title="Joey">Joey</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Santa_Claus" title="Santa Claus">Santa Claus</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Tolka" title="Tolka">Tolka</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Devil Hunter Club</span></b></small></th><td align="center"><a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Fami" title="Fami">Fami</a> • <a href="/wiki/Furio" title="Furio">Furio</a> • <a href="/wiki/Haruka_Iseumi" title="Haruka Iseumi">Haruka Iseumi</a> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Seigi_Akoku" title="Seigi Akoku">Seigi Akoku</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Yuko" title="Yuko">Yuko</a>&nbsp;<sup title="Former">‡</sup></td></tr></tbody></table>

@@ -1,6 +1,57 @@
+---
+titile: Darkness Devil
+image: https://static.wikia.nocookie.net/chainsaw-man/images/6/62/Darkness_Devil.png
+---
+
 # Darkness Devil
 
-![Darkness Devil](https://static.wikia.nocookie.net/chainsaw-man/images/6/62/Darkness_Devil.png)
+[![](https://static.wikia.nocookie.net/chainsaw-man/images/6/62/Darkness_Devil.png/revision/latest/scale-to-width-down/338?cb=20230114131607)](https://static.wikia.nocookie.net/chainsaw-man/images/6/62/Darkness_Devil.png/revision/latest?cb=20230114131607)
+
+## Name
+
+### Japanese
+
+<ruby lang="ja"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>
+
+### Romaji
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil")
+
+### Gender
+
+Unknown
+
+### Age
+
+Possibly just as old as humanity, if not older
+
+### Birthplace
+
+[Hell](/wiki/Hell "Hell")
+
+### Status
+
+## Professional Information
+
+### Occupation
+
+Primal Fear  
+Wild Devil  
+Contract Devil
+
+### Contracted Humans
+
+[Santa Claus](/wiki/Santa_Claus "Santa Claus")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 64](/wiki/Chapter_64 "Chapter 64")
 
 The **Darkness Devil** (<ruby lang="ja"><rb>闇</rb><rp> (</rp><rt>やみ</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Yami no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/wiki/Devil "Devil") that embodies the primal fear of the dark and the unknown.
 
@@ -21,17 +72,17 @@ It serves as the secondary antagonist of the [International Assassins arc](/wiki
 -   [8 References](#References)
 -   [9 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 The Darkness Devil's body is made up of many emaciated human bodies, with two bodies acting as its legs and four other human bodies acting as its torso, each having a unique face: the one immediately below the neck has no eyes, nose and a vertical mouth, the second head has open eyes and a stitched mouth, the third one has no nose, an open mouth and stitched eyes, and the fourth one has no eyes and a somber expression. Its head akin to that of a pterodactyl with curved horns. The first human body has its arms stretching outwards holding what seems to be a cape of darkness.[\[1\]](#cite_note-Ch64Pg12_-_13-1)
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 Nothing is currently known about the Darkness Devil's personality, except that it will attack anything it perceives as a threat.[\[2\]](#cite_note-Ch64Pg6-2) Even though it is almost entirely silent, it is shown to be intelligent and capable of reasoning, as a human can make a contract with it. Like other devils, it displays high animosity towards Chainsaw Man because of the threat he poses.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")
 
 The Darkness Devil appears shortly after [Denji](/wiki/Denji "Denji") along with several other [Devil Hunters](/wiki/Devil_Hunter "Devil Hunter") and assassins are transported to Hell by the [Hell Devil](/wiki/Hell_Devil "Hell Devil"). It emerges out of a door in the sky and immediately attacks, overpowering the entire group. The [Doll Devil](/wiki/Doll_Devil "Doll Devil"), through [Tolka](/wiki/Tolka "Tolka"), offers the Chainsaw Devil's heart in order to gain the power to kill [Makima](/wiki/Makima "Makima"). The Darkness Devil fulfills its end of the request by feeding a piece of its flesh to Santa Clause on Earth.[\[3\]](#cite_note-Ch64Pg8_-_19-3)
 
@@ -51,17 +102,17 @@ The Darkness Devil looks at the [Angel Devil](/wiki/Angel_Devil "Angel Devil") a
 
 The two of them point at each other; Makima's finger breaks and the Darkness Devil begins to bleed and stoops over. As Makima's arm contorts and breaks, she offers Tolka's body to Hell Devil in return for bringing them back to Earth. The Darkness Devil conjures its black blade once more and pierces Makima with it just as everyone is transported back to the department store.[\[10\]](#cite_note-Ch66Pg7_-_13-10)
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+## Abilities
 
 The Darkness Devil is described as being a transcendent being; one of the devils embodying a primal fear and has never experienced death due to being so powerful.[\[11\]](#cite_note-Ch64Pg6_-_7-11) As a devil that embodies a primal fear, it can be assumed that the Darkness Devil is almost as old as humanity itself. The Darkness Devil possesses all of the standard [devil abilities](/wiki/Devil#General_Abilities "Devil") such as blood consumption, contract creation etc. The only contract with it seen so far is with [Santa Claus](/wiki/Santa_Claus "Santa Claus"), in exchange for bringing the [heart](/wiki/Pochita "Pochita") of [Denji](/wiki/Denji "Denji") to [Hell](/wiki/Hell "Hell"), Santa Claus gained a small portion of the devils flesh which allowed the assassin to manipulate their body in darkness and amplifies their total power.[\[12\]](#cite_note-Ch64Pg18_-_19-12)
 
-### Physical Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+### Physical Abilities
 
 -   **Immense Speed**: The Darkness Devil can travel and attack at high speeds. It was able to appear in the midst of several devil hunters, including [Quanxi](/wiki/Quanxi "Quanxi") without any of them being able to perceive its movements.[\[3\]](#cite_note-Ch64Pg8_-_19-3) By using its multiple arms it could slice through several fighters before they could react, and dodged or otherwise counteracted attacks with ease.
 -   **Immense Strength**: The Darkness Devil has shown to be able to lift its targets with great ease and damage them easily by swinging its arms around.
 -   **Immense Healing Factor**: While in the dark, the Darkness Devil can rapidly regenerate from a powerful attack from [Makima](/wiki/Makima "Makima").[\[13\]](#cite_note-Ch66Pg8-13)
 
-### Devil Powers\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+### Devil Powers
 
 -   **Nigh-Absolute Immortality**: As revealed by the [Falling Devil](/wiki/Falling_Devil "Falling Devil"), a primal fear cannot be killed with any conventional means.
 
@@ -79,19 +130,19 @@ Darkness Devil summoning the dark blade.
 
 -   **Devil Manifestation**: The Darkness Devil appears to be able to forcefully manifest other devils and kill them instantly. In the case of the Stone Devil, this also resulted in the death of the human they contracted with, [Kusakabe](/wiki/Kusakabe "Kusakabe").[\[4\]](#cite_note-Ch65Pg1_-_4-4)
 
-## Weaknesses\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+## Weaknesses
 
 -   **Light**: Because Denji was able to overpower and damage a Darkness-empowered Santa Claus by lighting himself on fire (thus producing light and weakening the powers given to her by the Devil), it can be inferred that the Darkness Devil's powers can be counteracted with light. However, as a Primal Devil, it would likely be insufficient to kill them.
 
-## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/International_Assassins_Arc" title="Template:Appearance/International Assassins Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/International_Assassins_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Absent</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Absent</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Absent</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Absent</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Absent</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Absent</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Debut</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Appears</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Appears</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Mentioned</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Mentioned</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Mentioned</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Mentioned</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Absent</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Absent</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Absent</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Absent</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Absent</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Absent</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Debut</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Appears</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Appears</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Mentioned</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Mentioned</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Mentioned</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Mentioned</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Gun_Devil_Arc" title="Template:Appearance/Gun Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Gun_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Gun_Devil_arc" title="Gun Devil arc"><span>Gun Devil arc</span></a></center></th></tr><tr><td>72. <a href="/wiki/Chapter_72" title="Chapter 72">All Together</a></td><td><span>Mentioned</span></td></tr><tr><td>73. <a href="/wiki/Chapter_73" title="Chapter 73">Everyday Life No More</a></td><td><span>Mentioned</span></td></tr><tr><td>74. <a href="/wiki/Chapter_74" title="Chapter 74">What the Waves Say</a></td><td><span>Absent</span></td></tr><tr><td>75. <a href="/wiki/Chapter_75" title="Chapter 75">9,12</a></td><td><span>Absent</span></td></tr><tr><td>76. <a href="/wiki/Chapter_76" title="Chapter 76">Don't Open It</a></td><td><span>Absent</span></td></tr><tr><td>77. <a href="/wiki/Chapter_77" title="Chapter 77">Ring Ring Ring</a></td><td><span>Absent</span></td></tr><tr><td>78. <a href="/wiki/Chapter_78" title="Chapter 78">Snowball Fight</a></td><td><span>Absent</span></td></tr><tr><td>79. <a href="/wiki/Chapter_79" title="Chapter 79">Play Catch</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Gun_Devil_arc" title="Gun Devil arc"><span>Gun Devil arc</span></a></center></th></tr><tr><td>72. <a href="/wiki/Chapter_72" title="Chapter 72">All Together</a></td><td><span>Mentioned</span></td></tr><tr><td>73. <a href="/wiki/Chapter_73" title="Chapter 73">Everyday Life No More</a></td><td><span>Mentioned</span></td></tr><tr><td>74. <a href="/wiki/Chapter_74" title="Chapter 74">What the Waves Say</a></td><td><span>Absent</span></td></tr><tr><td>75. <a href="/wiki/Chapter_75" title="Chapter 75">9,12</a></td><td><span>Absent</span></td></tr><tr><td>76. <a href="/wiki/Chapter_76" title="Chapter 76">Don't Open It</a></td><td><span>Absent</span></td></tr><tr><td>77. <a href="/wiki/Chapter_77" title="Chapter 77">Ring Ring Ring</a></td><td><span>Absent</span></td></tr><tr><td>78. <a href="/wiki/Chapter_78" title="Chapter 78">Snowball Fight</a></td><td><span>Absent</span></td></tr><tr><td>79. <a href="/wiki/Chapter_79" title="Chapter 79">Play Catch</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Control_Devil_Arc" title="Template:Appearance/Control Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Control_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Absent</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Flashback</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Absent</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Flashback</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   The Darkness Devil's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
     -   The Darkness Devil ranked 27th in the Second Popularity Poll with 1,575 votes.
@@ -101,7 +152,7 @@ Darkness Devil summoning the dark blade.
     -   The astronauts lacking legs may represent the inescapability of darkness.
     -   Frogs (one of which is seen croaking during the Devil's appearance), tend to be more active and thus more vocal at night.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
+## References
 
 1.  ↑ [1.0](#cite_ref-Ch64Pg12_-_13_1-0) [1.1](#cite_ref-Ch64Pg12_-_13_1-1) Chainsaw Man Manga: [Chapter 64](/wiki/Chapter_64 "Chapter 64"), Pages 12 - 13
 2.  [↑](#cite_ref-Ch64Pg6_2-0) Chainsaw Man Manga: [Chapter 64](/wiki/Chapter_64 "Chapter 64"), Page 6
@@ -123,7 +174,3 @@ Darkness Devil summoning the dark blade.
 18.  [↑](#cite_ref-Ch66Pg1_18-0) Chainsaw Man Manga: [Chapter 66](/wiki/Chapter_66 "Chapter 66"), Page 1
 19.  [↑](#cite_ref-Ch66Pg7_-_8_19-0) Chainsaw Man Manga: [Chapter 66](/wiki/Chapter_66 "Chapter 66"), Pages 7 - 8
 20.  [↑](#cite_ref-Ch66Pg9_-_10_20-0) Chainsaw Man Manga: [Chapter 66](/wiki/Chapter_66 "Chapter 66"), Pages 9 - 10
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDarkness_Devil%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <strong>Darkness Devil</strong></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>

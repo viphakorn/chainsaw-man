@@ -1,6 +1,39 @@
+---
+titile: Kobeni's car
+image: https://static.wikia.nocookie.net/chainsaw-man/images/3/3c/Kobeni%27s_car.png
+---
+
 # Kobeni's car
 
-![Kobeni's car](https://static.wikia.nocookie.net/chainsaw-man/images/3/3c/Kobeni%27s_car.png)
+[![](https://static.wikia.nocookie.net/chainsaw-man/images/3/3c/Kobeni%27s_car.png/revision/latest?cb=20220821140641)](https://static.wikia.nocookie.net/chainsaw-man/images/3/3c/Kobeni%27s_car.png/revision/latest?cb=20220821140641)
+
+## Name
+
+### Japanese
+
+コベニの<ruby lang="ja"><rb>愛</rb><rp> (</rp><rt>あい</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>車</rb><rp> (</rp><rt>しゃ</rt><rp>)</rp></ruby>
+
+### Romaji
+
+## Biological Information
+
+### Species
+
+Mechanical Vehicle
+
+### Status
+
+## Professional Information
+
+### Relatives
+
+[Kobeni Higashiyama](/wiki/Kobeni_Higashiyama "Kobeni Higashiyama") (owner)
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 57](/wiki/Chapter_57 "Chapter 57")
 
 > "_This looks like **my** car... Isn't this my car? Are you a thief?_" ― [Power](/wiki/Power "Power") to Kobeni while stealing her car
 
@@ -14,13 +47,13 @@
 -   [3 Trivia](#Trivia)
 -   [4 References](#References)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FKobeni%2527s_car%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 Kobeni's car is small, with a roundish roof, small wheels, a boxy front, a rectangular window shield, two doors and an older fashioned steering wheel. Kobeni's car is seen painted a bright yellow, leaning more towards pastel than vibrant.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FKobeni%2527s_car%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Plot
 
-### [International Assassins Arc](/wiki/International_Assassins_arc "International Assassins arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FKobeni%2527s_car%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+### [International Assassins Arc](/wiki/International_Assassins_arc "International Assassins arc")
 
 Kobeni bought this car with her own money to chauffeur her family.
 
@@ -28,7 +61,7 @@ Kobeni bought this car with her own money to chauffeur her family.
 
 Later on, inside the department store, Kobeni observes in horror as both [Kishibe](/wiki/Kishibe "Kishibe") and [Aldo](/wiki/Aldo "Aldo") land on top of her car, crushing the roof in and leaving her in shock.[\[3\]](#cite_note-Ch62Pg1-7-3)
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FKobeni%2527s_car%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   Kobeni's car's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
     -   Kobeni's car ranked 7th in the First Popularity Poll with 9,878 votes.
@@ -36,7 +69,7 @@ Later on, inside the department store, Kobeni observes in horror as both [Kishib
 -   Its name is not revealed, in the Character Popularity Poll it was referred to simply as "Kobeni's car".
 -   Kobeni's car seems to resemble either a [Fiat](http://en.wikipedia.org/wiki/Fiat_500 "wikipedia:Fiat 500") or [Puch 500](http://en.wikipedia.org/wiki/Puch_500 "wikipedia:Puch 500"), an Italian economy car manufactured from 1957 to 1975.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FKobeni%2527s_car%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+## References
 
 1.  [↑](#cite_ref-Ch57Pg1-15_1-0) Chainsaw Man Manga: [Chapter 57](/wiki/Chapter_57 "Chapter 57"), Pages 1-15
 2.  [↑](#cite_ref-Ch59Pg1-22_2-0) Chainsaw Man Manga: [Chapter 59](/wiki/Chapter_59 "Chapter 59"), Pages 1-22

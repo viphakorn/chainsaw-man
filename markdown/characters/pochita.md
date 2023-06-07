@@ -1,6 +1,83 @@
+---
+titile: Pochita
+image: https://static.wikia.nocookie.net/chainsaw-man/images/5/54/Pochita_anime_design.png
+---
+
 # Pochita
 
-![Pochita](https://static.wikia.nocookie.net/chainsaw-man/images/5/54/Pochita_anime_design.png)
+[![Anime](https://static.wikia.nocookie.net/chainsaw-man/images/5/54/Pochita_anime_design.png/revision/latest/scale-to-width-down/300?cb=20220919121110)](https://static.wikia.nocookie.net/chainsaw-man/images/5/54/Pochita_anime_design.png/revision/latest?cb=20220919121110 "Anime")
+
+[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/1/1b/Pochita.PNG/revision/latest/scale-to-width-down/350?cb=20220827190948)](https://static.wikia.nocookie.net/chainsaw-man/images/1/1b/Pochita.PNG/revision/latest?cb=20220827190948 "Manga")
+
+## Name
+
+### Japanese
+
+ポチタ
+
+### Romaji
+
+Pochita
+
+### Alias(es)
+
+Chainsaw Devil  
+Chainsaw Man  
+Hero of Hell
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil") (formerly)  
+[Hybrid](/wiki/Hybrid "Hybrid")
+
+### Gender
+
+Male
+
+### Status
+
+Alive
+
+## Professional Information
+
+### Occupation
+
+Wild Devil (formerly)  
+Contract Devil  
+Denji's Heart
+
+### Affiliation
+
+-   [Yakuza](/wiki/Yakuza "Yakuza") (formerly)
+-   [Denji](/wiki/Denji "Denji")
+
+### Contracted Humans
+
+[Denji](/wiki/Denji "Denji")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 1](/wiki/Chapter_1 "Chapter 1")
+
+### Anime Debut
+
+[Episode 1](/wiki/Episode_1 "Episode 1")
+
+## Portrayal
+
+### Japanese Voice
+
+[Shiori Izawa](http://en.wikipedia.org/wiki/Shiori_Izawa "wikipedia:Shiori Izawa")
+
+### English Voice
+
+[Lindsay Seidel](http://en.wikipedia.org/wiki/Lindsay_Seidel "wikipedia:Lindsay Seidel")
+
+[Image Gallery](/wiki/Pochita/Image_Gallery "Pochita/Image Gallery")
 
 > "_I've always... loved listening to you talk about your dreams. This is a contract. I'll give you my heart. In exchange... **show me your dreams.**_"
 
@@ -22,19 +99,19 @@
 -   [6 References](#References)
 -   [7 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
-### Devil Form\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+### Devil Form
 
-#### Near-death State\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+#### Near-death State
 
 After disappearing from his battle with the [Four Horsemen](/wiki/Four_Horsemen "Four Horsemen") and [Weapon Devils](/wiki/Weapon_Devils "Weapon Devils"), Pochita is reduced to a “near-death state”. In this state, he appears to be a small orange canine-like Devil with a chainsaw-like appendage protruding from the center of his head. Handles emerge from his body allowing him to be wielded like a chainsaw, and his short tail is in the shape of a chainsaw's pull cord.[\[1\]](#cite_note-Ch1Pg1_-_3-1)
 
-#### Normal\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+#### Normal
 
 His true Devil form is of a large, humanoid Devil with four arms and a chainsaw protruding from each, with another chainsaw coming from the front of his head, similar to Denji's hybrid form. An intestine still connected to his stomach is wrapped around his neck, resembling a scarf or a collar.[\[2\]](#cite_note-Ch83Pg16_-_19-2)
 
-### Hybrid Form\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### Hybrid Form
 
 After making a contract with Denji, Pochita assimilates himself with him, fusing with his heart and becoming part of Denji's anatomy, thus creating a hybrid. This allows Denji to become [Chainsaw Man](/wiki/Denji#Transformed "Denji") by pulling the chainsaw cord in his chest. In this state, Pochita is smaller, has lost the chainsaw on his head, all his appendages and both handles. Pochita also has blood vessels connected to Denji. Pochita however still retains his trademark cute canine face. Denji's chainsaw cord is also directly connected to the top of Pochita's head.
 
@@ -46,7 +123,7 @@ Pochita as Denji's heart
 
 Un-weakened Devil Form
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+## Personality
 
 Unlike most Devils Pochita communicated solely through barks and whines like an actual dog.[\[3\]](#cite_note-Ch1Pg10_-_17-3) However, after fusing with Denji, he is able to communicate telepathically with him. He continuously communicates with Denji through dreams, warning him to not 'open the door'.
 
@@ -56,7 +133,7 @@ Pochita exhibits a more erratic personality when in his true Devil form, as show
 
 He also seems to answer the calls of help from humans and Devils alike, proven when he saved both [Makima](/wiki/Makima "Makima") and [Kobeni](/wiki/Kobeni_Higashiyama "Kobeni Higashiyama") from their problematic situations, though he later brutally assaulted the former after completing his task.[\[6\]](#cite_note-Ch86-6)[\[7\]](#cite_note-Ch86Pg8-7) Despite this, his love for Denji remained, as he was keen to fulfill his friend's dreams, and later even sacrificed himself to save Kobeni.[\[8\]](#cite_note-Ch86Pg16-8)[\[9\]](#cite_note-Ch89Pg18-9)
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+## Abilities
 
 Being regarded as the Devil that Devils fear the most, The Chainsaw Devil is considered one the most powerful entities in the series after the [Primordial Devils](/wiki/Darkness_Devil "Darkness Devil"), being able to fend off hordes of Devils in Hell unscathed. The hunt for his heart alone was enough to cause an international conflict, and even Makima, one of the Four Horsemen, considered herself inferior to him, needing the public's adoration to weaken and defeat him.
 
@@ -64,7 +141,7 @@ As a Devil, the Chainsaw Devil possesses all of the standard [Devil abilities](/
 
 His first contract with Denji was that, in exchange for consuming his blood, Pochita assists him to pay his debts. It is confirmed later on as a real contract rather than the "promise" presented by a young Denji. Later on, after Denji is fatally injured by the Zombie Devil, Pochita became the heart of Denji in exchange for Denji living a "normal life."[\[10\]](#cite_note-Ch82-10)
 
-### Physical Prowess\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+### Physical Prowess
 
 -   **Immense Speed:** As noted by [Beam](/wiki/Beam "Beam"), the Chainsaw Devil was renowned for his amazing speed. When fighting Makima and the hybrids, he effortlessly assaulted them before they could even react. He moves almost instantly, making it look like he is teleporting to his opponents. When the [Hell Devil](/wiki/Hell_Devil "Hell Devil") was summoned to defeat Chainsaw Man, it couldn't even attack before being effortlessly dismembered.
 
@@ -94,7 +171,7 @@ Chainsaw Man destroys multiple buildings while fighting the hybrids.
 
 Chainsaw Man regenerates his body from just a heart.
 
-### Devil Powers\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+### Devil Powers
 
 -   **Devil Erasure**: The Chainsaw Devil is infamously able to consume other Devils, causing the "name" they represent to vanish from public consciousness while also erasing their physical existence. Kishibe was unable to recall historical events or things such as the Holocaust, Nazis or nuclear weapons, meaning that the Chainsaw Devil at some point consumed their respective Devils.[\[12\]](#cite_note-Ch84Pg11-12-12) The specifics of this ability are unclear; Makima was able to recall numerous erased names, and the [War Devil](/wiki/Yoru "Yoru") wanted to make the Chainsaw Devil "puke" the Nuclear Weapons Devil up. The erasure process can be partial: after the War Devil was partially devoured, the concept of "war" has remained, but no more wars have broken out in the human world.[\[13\]](#cite_note-Ch104Pg3-13)
 
@@ -112,11 +189,11 @@ Chainsaw Man using his chains.
 -   **Body Assimilation**: Pochita can fuse with a human body, restoring it to full health in the process. It was done on Denji, turning him into a hybrid. It is later revealed by [Makima](/wiki/Makima "Makima") that this fusion occurred as a result of the contract. In exchange for Denji living a "normal life", Pochita becomes the heart of Denji.[\[10\]](#cite_note-Ch82-10)
     -   **Devil Transformation**: Should Denji's contract with Pochita ever be broken, Pochita can possess Denji's body and return to his original form. Makima stated that he has killed her 26 times in this state. The form seems to be under the control of Pochita as it is shown that he remembers Denji's dreams and tries to fulfill the requirements of their contract by eating a hamburger and going on a date with a girl. After being defeated by Makima to save Kobeni and later being rescued by Power, Denji's contract was restored and Pochita reverted back to his heart form while Denji transformed back into his normal hybrid. Pochita still can transform into his Devil form if Denji removes the heart from his body, in this form Pochita has retain a calmer personality and has two arms similar to Denji\`s hybrid form, however his arms are still covered with an armor.
 
-## Anime Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+## Anime Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Season_1" title="Template:Appearance/Season 1"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Season_1?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Mentioned</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Flashback</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Flashback</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Flashback</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Flashback</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Mentioned</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Flashback</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Flashback</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Flashback</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Flashback</span></td></tr></tbody></table>
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   Pochita's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
     -   Pochita ranked 9th in the First Popularity Poll with 9,527 votes.
@@ -140,7 +217,7 @@ The Chainsaw Devil and the Black Gauna.
 
 -   Angel Devil's conversation with Aki implies that all of the Public Safety Devils and Fiends (at least the ones who work as Devil Hunters) were all killed by the Chainsaw Man.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")\]
+## References
 
 1.  ↑ [1.0](#cite_ref-Ch1Pg1_-_3_1-0) [1.1](#cite_ref-Ch1Pg1_-_3_1-1) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Pages 1 - 3
 2.  [↑](#cite_ref-Ch83Pg16_-_19_2-0) Chainsaw Man Manga: [Chapter 83](/wiki/Chapter_83 "Chapter 83"), Pages 16 - 19
@@ -156,7 +233,3 @@ The Chainsaw Devil and the Black Gauna.
 12.  [↑](#cite_ref-Ch84Pg11-12_12-0) Chainsaw Man Manga: [Chapter 84](/wiki/Chapter_84 "Chapter 84"), Pages 11-12
 13.  [↑](#cite_ref-Ch104Pg3_13-0) Chainsaw Man Manga: [Chapter 104](/wiki/Chapter_104 "Chapter 104"), Page 3
 14.  [↑](#cite_ref-14) [https://www.crunchyroll.com/pt-br/anime-news/2020/08/03-1/chainsaw-man-manga-shreds-through-3-million-copies-in-circulation](https://www.crunchyroll.com/pt-br/anime-news/2020/08/03-1/chainsaw-man-manga-shreds-through-3-million-copies-in-circulation)
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FPochita%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <strong>Chainsaw Devil</strong> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>

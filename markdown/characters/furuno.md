@@ -1,6 +1,70 @@
+---
+titile: Furuno
+image: https://static.wikia.nocookie.net/chainsaw-man/images/9/97/Furuno_anime.png
+---
+
 # Furuno
 
-![Furuno](https://static.wikia.nocookie.net/chainsaw-man/images/9/97/Furuno_anime.png)
+[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/e/e4/Furuno.png/revision/latest?cb=20200508092643)](https://static.wikia.nocookie.net/chainsaw-man/images/e/e4/Furuno.png/revision/latest?cb=20200508092643 "Manga")
+
+## Name
+
+### Japanese
+
+<ruby lang="ja"><rb>古</rb><rp> (</rp><rt>ふる</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>野</rb><rp> (</rp><rt>の</rt><rp>)</rp></ruby>
+
+### Romaji
+
+Furuno
+
+## Biological Information
+
+### Species
+
+Human
+
+### Gender
+
+Male
+
+### Birthplace
+
+[Japan](/wiki/World#Japan "World")
+
+### Status
+
+Alive
+
+## Professional Information
+
+### Occupation
+
+[Public Safety Devil Hunter](/wiki/Devil_Hunter#Public_Safety_Devil_Hunters "Devil Hunter")
+
+### Affiliation
+
+-   [Public Safety Devil Hunters](/wiki/Devil_Hunter#Public_Safety_Devil_Hunters "Devil Hunter")
+    -   Tokyo Division 2
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 34](/wiki/Chapter_34 "Chapter 34")
+
+### Anime Debut
+
+[Episode 11](/wiki/Episode_11 "Episode 11")
+
+## Portrayal
+
+### Japanese Voice
+
+Sondo
+
+### English Voice
+
+Anthony DiMascio
 
 **Furuno** (<ruby lang="ja"><rb>古</rb><rp> (</rp><rt>ふる</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>野</rb><rp> (</rp><rt>の</rt><rp>) </rp></ruby> , _****Furuno****_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil hunter](/wiki/Devil_Hunter "Devil Hunter") from Tokyo 2nd Division.
 
@@ -32,11 +96,11 @@ Furuno, along with [Shiina](/wiki/Shiina "Shiina"), is seen talking to [Kishibe]
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Katana_Man_Arc" title="Template:Appearance/Katana Man Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Katana_Man_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Debut</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Absent</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Debut</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Anime Appearances
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Season_1" title="Template:Appearance/Season 1"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Season_1?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Debut</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Appears</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Debut</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Appears</span></td></tr></tbody></table>
 
 ## Etymology
 
@@ -45,7 +109,3 @@ Furuno, along with [Shiina](/wiki/Shiina "Shiina"), is seen talking to [Kishibe]
 ## References
 
 1.  ↑ [1.0](#cite_ref-Ch34Pg1_1-0) [1.1](#cite_ref-Ch34Pg1_1-1) Chainsaw Man Manga: [Chapter 34](/wiki/Chapter_34 "Chapter 34"), Page 1
-
-## Site Navigation
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devil_Hunters" title="Template:Devil Hunters"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devil_Hunters?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil_Hunter" title="Devil Hunter"><span>Devil Hunters</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Public_Safety_Devil_Hunters" title="Public Safety Devil Hunters"><span>Public Safety Devil Hunters</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Angel_Devil" title="Angel Devil">Angel</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Beam" title="Beam">Beam</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Denji" title="Denji">Denji</a> • <strong>Furuno</strong> • <a href="/wiki/Fushi" title="Fushi">Fushi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Galgali" title="Galgali">Galgali</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Himeno" title="Himeno">Himeno</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kato" title="Kato">Kato</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kishibe" title="Kishibe">Kishibe</a> • <a href="/wiki/Kobeni_Higashiyama" title="Kobeni Higashiyama">Kobeni Higashiyama</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Kusakabe" title="Kusakabe">Kusakabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Madoka" title="Madoka">Madoka</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Makima" title="Makima">Makima</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Masaki_Ando" title="Masaki Ando">Masaki Ando</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Michiko_Tendo" title="Michiko Tendo">Michiko Tendo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nakamura" title="Nakamura">Nakamura</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nomo" title="Nomo">Nomo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Power" title="Power">Power</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Princi" title="Princi">Princi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Subaru" title="Subaru">Subaru</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tamaoki" title="Tamaoki">Tamaoki</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tanabe" title="Tanabe">Tanabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Yutaro_Kurose" title="Yutaro Kurose">Yutaro Kurose</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Hirokazu_Arai" title="Hirokazu Arai">Hirokazu Arai</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Civilian Devil Hunters</span></b></small></th><td align="center"><a href="/wiki/Akane_Sawatari" title="Akane Sawatari">Akane Sawatari</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Aldo" title="Aldo">Aldo</a> • <a href="/wiki/Denji" title="Denji">Denji</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Joey" title="Joey">Joey</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Santa_Claus" title="Santa Claus">Santa Claus</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Tolka" title="Tolka">Tolka</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Devil Hunter Club</span></b></small></th><td align="center"><a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Fami" title="Fami">Fami</a> • <a href="/wiki/Furio" title="Furio">Furio</a> • <a href="/wiki/Haruka_Iseumi" title="Haruka Iseumi">Haruka Iseumi</a> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Seigi_Akoku" title="Seigi Akoku">Seigi Akoku</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Yuko" title="Yuko">Yuko</a>&nbsp;<sup title="Former">‡</sup></td></tr></tbody></table>

@@ -1,6 +1,51 @@
+---
+titile: Death Devil
+image: https://static.wikia.nocookie.net/chainsaw-man/images/d/d5/NoPicAvailable.png
+---
+
 # Death Devil
 
-![Death Devil](https://static.wikia.nocookie.net/chainsaw-man/images/d/d5/NoPicAvailable.png)
+[![](https://static.wikia.nocookie.net/chainsaw-man/images/d/d5/NoPicAvailable.png/revision/latest/scale-to-width-down/350?cb=20200105143306)](https://static.wikia.nocookie.net/chainsaw-man/images/d/d5/NoPicAvailable.png/revision/latest?cb=20200105143306)
+
+## Name
+
+### Japanese
+
+<ruby lang="ja"><rb>死</rb><rp> (</rp><rt>し</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>)</rp></ruby>
+
+### Romaji
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil") (presumably)
+
+### Gender
+
+Unknown
+
+### Age
+
+Unknown
+
+### Status
+
+## Professional Information
+
+### Occupation
+
+Unknown
+
+### Affiliation
+
+[Four Horsemen](/wiki/Four_Horsemen "Four Horsemen")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 84](/wiki/Chapter_84 "Chapter 84") (mentioned)
 
 The **Death Devil** (<ruby lang="ja"><rb>死</rb><rp> (</rp><rt>し</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Shi no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is the [Devil](/wiki/Devil "Devil") that embodies the fear of death and a member of the [Four Horsemen](/wiki/Four_Horsemen "Four Horsemen"). It was mentioned by [Makima](/wiki/Makima "Makima"), who sought to eradicate the other Horsemen, and later mentioned again by [Hirofumi Yoshida](/wiki/Hirofumi_Yoshida "Hirofumi Yoshida").
 
@@ -17,36 +62,32 @@ The **Death Devil** (<ruby lang="ja"><rb>死</rb><rp> (</rp><rt>し</rt><rp>) </
 -   [5 References](#References)
 -   [6 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 The Death Devil's appearance is currently unknown.
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 The Death Devil's personality is currently unknown.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### History\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### History
 
 The Four Horsemen and the [Weapon Devils](/wiki/Weapon_Devils "Weapon Devils") once engaged in a brutal battle against [Pochita](/wiki/Pochita "Pochita") in [Hell](/wiki/Hell "Hell"). However, in the midst of the battle, Pochita mysteriously vanished. Despite searches by the [Control Devil](/wiki/Control_Devil "Control Devil"), Pochita could not be found. Unbeknownst to the Four Horsemen, this was because Pochita had changed forms on the verge of death and escaped to Earth.
 
-### [Dating Denji arc](/wiki/Dating_Denji_arc "Dating Denji arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### [Dating Denji arc](/wiki/Dating_Denji_arc "Dating Denji arc")
 
 [Hirofumi Yoshida](/wiki/Hirofumi_Yoshida "Hirofumi Yoshida") knew of the Death Devil's existence, and how by swallowing Devils [Pochita](/wiki/Pochita "Pochita") could erase their presence from the world. While trapped in the aquarium, he wondered to [Denji](/wiki/Denji "Denji") if Chainsaw Man would be willing to eat the Death Devil for humanity.
 
-## Chapter Appearances\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+## Chapter Appearances
 
-### [Public Safety Saga](/wiki/Public_Safety_Saga "Public Safety Saga")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+### [Public Safety Saga](/wiki/Public_Safety_Saga "Public Safety Saga")
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Control_Devil_Arc" title="Template:Appearance/Control Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Control_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Mentioned</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Absent</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Mentioned</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Absent</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-### [Academy Saga](/wiki/Academy_Saga "Academy Saga")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+### [Academy Saga](/wiki/Academy_Saga "Academy Saga")
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Dating_Denji_Arc" title="Template:Appearance/Dating Denji Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Dating_Denji_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Dating_Denji_arc" title="Dating Denji arc"><span>Dating Denji arc</span></a></center></th></tr><tr><td>112. <a href="/wiki/Chapter_112" title="Chapter 112">Between Cat and Criminal</a></td><td><span>Absent</span></td></tr><tr><td>113. <a href="/wiki/Chapter_113" title="Chapter 113">I Wanna See Penguins!</a></td><td><span>Absent</span></td></tr><tr><td>114. <a href="/wiki/Chapter_114" title="Chapter 114">Endless Aquarium</a></td><td><span>Absent</span></td></tr><tr><td>115. <a href="/wiki/Chapter_115" title="Chapter 115">High Schoolers These Days</a></td><td><span>Mentioned</span></td></tr><tr><td>116. <a href="/wiki/Chapter_116" title="Chapter 116">Taste of Starfish</a></td><td><span>Absent</span></td></tr><tr><td>117. <a href="/wiki/Chapter_117" title="Chapter 117">Penguin and Weapon</a></td><td><span>Absent</span></td></tr><tr><td>118. <a href="/wiki/Chapter_118" title="Chapter 118">Saying Goodbye</a></td><td><span>Absent</span></td></tr><tr><td>119. <a href="/wiki/Chapter_119" title="Chapter 119">Thief</a></td><td><span>Absent</span></td></tr><tr><td>120. <a href="/wiki/Chapter_120" title="Chapter 120">Triangle</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Dating_Denji_arc" title="Dating Denji arc"><span>Dating Denji arc</span></a></center></th></tr><tr><td>112. <a href="/wiki/Chapter_112" title="Chapter 112">Between Cat and Criminal</a></td><td><span>Absent</span></td></tr><tr><td>113. <a href="/wiki/Chapter_113" title="Chapter 113">I Wanna See Penguins!</a></td><td><span>Absent</span></td></tr><tr><td>114. <a href="/wiki/Chapter_114" title="Chapter 114">Endless Aquarium</a></td><td><span>Absent</span></td></tr><tr><td>115. <a href="/wiki/Chapter_115" title="Chapter 115">High Schoolers These Days</a></td><td><span>Mentioned</span></td></tr><tr><td>116. <a href="/wiki/Chapter_116" title="Chapter 116">Taste of Starfish</a></td><td><span>Absent</span></td></tr><tr><td>117. <a href="/wiki/Chapter_117" title="Chapter 117">Penguin and Weapon</a></td><td><span>Absent</span></td></tr><tr><td>118. <a href="/wiki/Chapter_118" title="Chapter 118">Saying Goodbye</a></td><td><span>Absent</span></td></tr><tr><td>119. <a href="/wiki/Chapter_119" title="Chapter 119">Thief</a></td><td><span>Absent</span></td></tr><tr><td>120. <a href="/wiki/Chapter_120" title="Chapter 120">Triangle</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDeath_Devil%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>
+## References

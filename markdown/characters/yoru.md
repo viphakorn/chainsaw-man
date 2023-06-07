@@ -1,6 +1,88 @@
+---
+titile: Yoru
+image: https://static.wikia.nocookie.net/chainsaw-man/images/9/90/Volume_12_%28Textless%29.png
+---
+
 # Yoru
 
-![Yoru](https://static.wikia.nocookie.net/chainsaw-man/images/9/90/Volume_12_%28Textless%29.png)
+[![Fiend](https://static.wikia.nocookie.net/chainsaw-man/images/9/90/Volume_12_%28Textless%29.png/revision/latest/scale-to-width-down/317?cb=20230405234930)](https://static.wikia.nocookie.net/chainsaw-man/images/9/90/Volume_12_%28Textless%29.png/revision/latest?cb=20230405234930 "Fiend")
+
+[![Devil](https://static.wikia.nocookie.net/chainsaw-man/images/7/73/War_Devil_bird_form.png/revision/latest/scale-to-width-down/350?cb=20220827183358)](https://static.wikia.nocookie.net/chainsaw-man/images/7/73/War_Devil_bird_form.png/revision/latest?cb=20220827183358 "Devil")
+
+## Name
+
+### Japanese
+
+ヨル
+
+### Romaji
+
+Yoru
+
+### Alias(es)
+
+War Fiend
+
+War Devil
+
+## Biological Information
+
+### Species
+
+[Devil](/wiki/Devil "Devil") (formerly)
+
+[Fiend](/wiki/Fiend "Fiend")
+
+### Gender
+
+Female
+
+### Age
+
+Unknown  
+Teenager (body)
+
+### Birthday
+
+Unknown
+
+### Birthplace
+
+[Hell](/wiki/Hell "Hell")
+
+### Status
+
+Alive
+
+## Professional Information
+
+### Occupation
+
+High School Student (cover)  
+Wild Fiend
+
+### Affiliation
+
+-   [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka") (via coercion)
+-   [Four Horsemen](/wiki/Four_Horsemen "Four Horsemen")
+-   [Nuclear Weapons Devil](/wiki/Nuclear_Weapons_Devil "Nuclear Weapons Devil") †
+-   [Fourth East High School](/wiki/Fourth_East_High_School "Fourth East High School")
+    -   [Devil Hunter Club](/wiki/Devil_Hunter "Devil Hunter")
+
+### Relatives
+
+[Fami](/wiki/Fami "Fami") (proclaimed "big sister")  
+[Nayuta](/wiki/Nayuta "Nayuta") (sister)
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 84](/wiki/Chapter_84 "Chapter 84") (Mentioned)  
+
+[Chapter 98](/wiki/Chapter_98 "Chapter 98") (Debut)
+
+[Image Gallery](/wiki/Yoru/Image_Gallery "Yoru/Image Gallery")
 
 > "_Just you wait, [Chainsaw Man](/wiki/Denji "Denji")! I'll make you vomit [Nuclear Weapons](/wiki/Nuclear_Weapons_Devil "Nuclear Weapons Devil") back up!_"
 
@@ -30,17 +112,17 @@
 -   [8 References](#References)
 -   [9 Site Navigation](#Site_Navigation)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
-### Near-death State\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+### Near-death State
 
 Following the battle with the [Four Horsemen](/wiki/Four_Horsemen "Four Horsemen") and [Weapon Devils](/wiki/Weapon_Devils "Weapon Devils"), Yoru was also reduced to a “near-death state”, due to Pochita consuming most of her body. In this state, she appears to have a bird-like body, similar to a dark colored owl or potoo. While her bird form is similar to [Pochita](/wiki/Pochita "Pochita")'s dog form, her true form is still unknown.
 
-### Fiend\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+### Fiend
 
 After taking over Asa's body and occupying half of her brain, the War Devil took on her appearance, but with added facial scars across her the center of her face and left cheek, which are in the same location where Mitaka's face was slashed by the [Class President](/wiki/Class_President "Class President"). In this form, Yoru's eyes have multiple rings, similar to [Makima](/wiki/Makima "Makima"), who was another Horseman. Her hair is also usually worn loose rather than in twin tails like Mitaka. Yoru always wears the same clothes as Asa, most commonly a school uniform.
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+## Personality
 
 Yoru is first shown to be very confident and prideful, treating her opponents as mere warm-ups and confidently vowing to take back [nuclear weapons](/wiki/Nuclear_Weapons_Devil "Nuclear Weapons Devil") from [Chainsaw Man](/wiki/Pochita "Pochita"). This might be a sign of her over-confidence as she lost to him previously while at full strength and is significantly weaker now. However she is aware of her limitations and will back down from a fight if she believes the odds are against her.[\[1\]](#cite_note-Ch112Pg8-1)[\[2\]](#cite_note-Ch122Pg16-2) Yoru holds little sentimental value or attachments to humans, and is mostly uncaring of Mitaka's feelings, as evidenced by her blatant disregard for Mitaka's feeling of friendship for Yuko, repeatedly asking Mitaka to kill Yuko to use as a weapon or when she goes as far as to physically hurt Asa herself to forcefully regain control albeit with the intention of saving them both. She's been shown to be very cold and logical which clashes with Asa's highly emotional personality. Since she's completely unaffected by the [Falling Devil](/wiki/Falling_Devil "Falling Devil"), that means she easily gets over highly traumatic events such as being almost killed by Pochita and losing her power. Due to her predisposed nature as the War Devil, she keeps getting into conflicts with everyone around her, sometimes intentionally sometimes not. Ironically these conflicts usually serve to hurt her.
 
@@ -48,9 +130,9 @@ Unlike her fellow Horseman [Makima](/wiki/Makima "Makima"), who was almost alway
 
 She does not have a good understanding of human society or relationships and takes things at face value, is easy to provoke and often threatens [Mitaka](/wiki/Asa_Mitaka "Asa Mitaka") with death. Though over time she grows closer to her and seems to understand and adapt to human society more, albeit she's still quite inept and will often unintentionally worsen her relationship with Asa because of that. Despite her apparent social-ineptitude she is very cunning in dangerous situations such as when fighting Devils and is easily able to keep a cool head unlike Asa. Though in the most extreme of circumstances Yoru will panic and scream out in fright, such as when Asa was caught by the Falling Devil.
 
-## Relationships\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+## Relationships
 
-### [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+### [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka")
 
 Yoru resurrected and inhabits Asa's body, turning her into the War Fiend, but left half of Asa's brain intact, keeping Asa alive. With the two now sharing one body, Yoru was originally planning to use Mitaka as a way to blend into human society as she's unfamiliar with it. At first she is very hostile, threatening to kill Mitaka if she doesn't cooperate. However, she did not go through with her threat of killing Mitaka when Mitaka refused to go into school,[\[6\]](#cite_note-Ch99Pg11-6) and despite making such threats several more times through the story all of them seemed to be no more than saber rattling without any real weight behind them. Yoru is tolerant of Asa's antics, frequently compromising with her and has offered to do favors for Mitaka, such as "take care of" the kids who were bullying her and provided the easier name of "Yoru" when Mitaka complained that "War Devil" was too difficult to use as a name. Her vendetta against Chainsaw Man means that she will tolerate anything so long as her goal is ultimately still being worked towards.
 
@@ -62,7 +144,7 @@ In tense moments Yoru, particularly if Asa's fear is preventing her from taking 
 
 Yoru will occasionally mention when she thinks Asa is being too self-deprecating and will half heartedly try to comfort her which could be signs of genuine sympathy.[\[10\]](#cite_note-Ch121Pg14-10) However, Yoru could simply be putting on a mask to make Asa more likely to continue cooperating with her. Yoru still values her own goals greatly over Asa's feelings as shown by her deciding to kill Yuko despite Asa's protest or trying to turn [Denji](/wiki/Denji "Denji") into a weapon after Asa falls in love with him. She has also been shown to be manipulative towards Asa, such as trying to gaslight her into killing Yuko[\[11\]](#cite_note-Ch102Pg6-11) or morally justifying murder as a "necessary evil".[\[12\]](#cite_note-Ch112Pg22-12)
 
-### [Denji](/wiki/Denji "Denji")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D7&uselang=en "Sign in to edit")\]
+### [Denji](/wiki/Denji "Denji")
 
 Yoru and Asa decided Denji would be their target to be turned into a weapon. Despite not getting involved directly Yoru will push Asa to continue her date with him even if things don't go her way.[\[13\]](#cite_note-Ch113Pg12-13) She views him as a punk and is annoyed at her feelings of affection for him due to sharing Asa's brain. However her feelings for him are very shallow as she immediately tries using these feelings to turn him into a weapon, albeit unsuccessfully.
 
@@ -70,35 +152,35 @@ Later during his movie date with Asa, she tries to push him away presumably to k
 
 Though she doesn't know it yet, Denji is her fabled arch-nemesis Chainsaw Man, who she eventually hopes to defeat in order to regain Nuclear Weapons and get revenge. She despises [him](/wiki/Pochita "Pochita") for defeating and weakening her which caused wars to cease and in turn reduced her to a shadow of her former self. Furthermore because of him she is currently on track to be forgotten about and stop existing which she's afraid of. She hates him to the point where she had a meltdown after she's unintentionally saved by him from the [Bat Devil](/wiki/Bat_Devil "Bat Devil"). To her dismay the situation repeats itself as they are saved by him once more during the [Falling Devil](/wiki/Falling_Devil "Falling Devil") fight.
 
-### [Fami](/wiki/Fami "Fami")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D8&uselang=en "Sign in to edit")\]
+### [Fami](/wiki/Fami "Fami")
 
 Fami, who views Yoru as her "little sister", claims to be willing to do anything to help her often without Yoru's own consent such as when she trapped Asa and Denji in the aquarium. Despite her apparent affection for her, Yoru doesn't reciprocate those feelings, as she describes her as insane and wants to stay away from her. Fami's contradictory behavior described below could be the reason why Yoru called her insane.
 
 Despite her apparent care for Yoru, she contradictorily doesn't seem to care about her safety and often puts her in harms way, such as when she got her under attack by the [Eternity Devil](/wiki/Eternity_Devil "Eternity Devil") or later when she sent the [Falling Devil](/wiki/Falling_Devil "Falling Devil") after her. As it turns out Famis main goal is to starve Yoru so that she may brainwash her and use her to stop the [Nostradamus Prophecy](/wiki/The_Prophecy "The Prophecy").
 
-## Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D9&uselang=en "Sign in to edit")\]
+## Abilities
 
 As a Fiend, Yoru can not make [contracts](/wiki/Contract "Contract"). However, she still has all the other standard [Devil abilities](/wiki/Devil#General_Abilities "Devil"), such as reviving in Hell after being killed, restoring her health by consuming blood, fear empowerment and enhanced physical prowess.
 
-### Unique\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D10&uselang=en "Sign in to edit")\]
+### Unique
 
 Currently, Yoru has taken possession of Asa Mitaka's body, after her head got sliced in half by the [Class President](/wiki/Class_President "Class President"). The War Devil, however, only took over half of her brain, leaving Mitaka’s consciousness intact while still being able to take control over Mitaka’s body anytime she wants to unless Asa is stricken with fear. [\[14\]](#cite_note-Ch101Pg17-14)[\[15\]](#cite_note-Ch99Pg13-14-15) Adding to that if Yoru is already in control but Asa get's frightened she'll lose control and be unable to regain it until Asa calms down.[\[16\]](#cite_note-Ch123Pg18-16)
 
 -   Thanks to this unusual circumstance Yoru is able to feel human emotions despite being a Devil.[\[17\]](#cite_note-Ch117Pg15-17)[\[18\]](#cite_note-Ch63Pg4-18) Whoever isn’t in control of the body will appear as a hallucination to the other and can even communicate to them.[\[19\]](#cite_note-Ch99Pg5-19) In addition Yoru is able to read Mitaka’s thoughts and access her memories while the latter is unable to do the same.[\[20\]](#cite_note-Ch99Pg21-20)[\[21\]](#cite_note-Ch124Pg10-21)
 
-### Supernatural Abilities\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D11&uselang=en "Sign in to edit")\]
+### Supernatural Abilities
 
 Although part of the [Four Horsemen](/wiki/Four_Horsemen "Four Horsemen"), Yoru claims that her Devil power weakened after her body was partially devoured by Chainsaw Man. This, combined with the long absence of wars in the human world (the concept of which is only been relegated to movies and videogames), has greatly diminished her original strength.[\[22\]](#cite_note-Ch104Pg3-22) Adding to that her strength was reduced even further by becoming a [Fiend](/wiki/Fiend "Fiend").
 
 -   Combining all of these factors her current strength is a mere fraction of her full power and is by far the weakest horsemen.
 
-#### Physical Prowess\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D12&uselang=en "Sign in to edit")\]
+#### Physical Prowess
 
 -   **Enhanced Speed**: Yoru is able to move very quickly, easily jumping around and dodging attacks from the contracted Class President and Yuko's Devil form.
 -   **Enhanced Strength**: Yoru was able to pull Tanaka's head off his shoulders and spinal cord out of his body, requiring a great deal of force, and is able to easily carry objects as big as herself with one arm over her head.
 -   **Enhanced Durability**: Yoru is able to take hits that would kill an ordinary person, such as during her battle with Yuko she took a serious hit that flung her across a classroom and into a wall, but was able to get up moments later without any injuries.
 
-#### Weapon Creation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D13&uselang=en "Sign in to edit")\]
+#### Weapon Creation
 
 Yoru has the power to make anything that belongs to her into a weapon. This includes both objects and living beings. In order to activate the weapon transformation, Yoru must touch what belongs to her and call out its weapon name. The strength of the weapon is proportional to the amount of guilt Yoru and/or Asa feel about creating said weapon. There is no objective measure of when something belongs to Asa or Yoru, it relies entirely on their own perception and logic as shown when Asa paid 1 million yen to "buy" an entire aquarium and despite it being nowhere near enough money, it still qualified to be turned into a weapon.
 
@@ -132,32 +214,32 @@ Yoru creates a sword from Yuko's severed legs
 
 Yoru creates a sword from a measuring ruler
 
-### Skillset\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D14&uselang=en "Sign in to edit")\]
+### Skillset
 
 -   **Swordsmanship**: Yoru is a skilled swordswoman, being able to easily take down the contracted Class President with her sword.[\[24\]](#cite_note-Ch98Pg46-24)
 -   **Spearmanship**: Yoru also demonstrates her skills on using a spear during her fight against the reincarnated [Eternity Devil](/wiki/Eternity_Devil "Eternity Devil").
 -   **Strategic Intelligence**: Yoru prepared quite an elaborate setup in preparation for fighting Yuko, such as setting up traps and hiding weapons all around the school. This however wasn't of much use due to contracted Yuko's mind reading ability.[\[28\]](#cite_note-Ch107Pg17-28)
 
-## Chapter Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D15&uselang=en "Sign in to edit")\]
+## Chapter Appearance
 
-### [Public Safety Saga](/wiki/Public_Safety_Saga "Public Safety Saga")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D16&uselang=en "Sign in to edit")\]
+### [Public Safety Saga](/wiki/Public_Safety_Saga "Public Safety Saga")
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Control_Devil_Arc" title="Template:Appearance/Control Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Control_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Mentioned</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Absent</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Mentioned</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Absent</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Absent</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-### [Academy Saga](/wiki/Academy_Saga "Academy Saga")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D17&uselang=en "Sign in to edit")\]
+### [Academy Saga](/wiki/Academy_Saga "Academy Saga")
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Justice_Devil_Arc" title="Template:Appearance/Justice Devil Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Justice_Devil_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Justice_Devil_arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/wiki/Chapter_98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/wiki/Chapter_99" title="Chapter 99">Two Birds</a></td><td><span>Appears</span></td></tr><tr><td>100. <a href="/wiki/Chapter_100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Appears</span></td></tr><tr><td>101. <a href="/wiki/Chapter_101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Appears</span></td></tr><tr><td>102. <a href="/wiki/Chapter_102" title="Chapter 102">Save the Cat</a></td><td><span>Appears</span></td></tr><tr><td>103. <a href="/wiki/Chapter_103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/wiki/Chapter_104" title="Chapter 104">Spoiler</a></td><td><span>Appears</span></td></tr><tr><td>105. <a href="/wiki/Chapter_105" title="Chapter 105">Red Hot</a></td><td><span>Appears</span></td></tr><tr><td>106. <a href="/wiki/Chapter_106" title="Chapter 106">Bonfire</a></td><td><span>Appears</span></td></tr><tr><td>107. <a href="/wiki/Chapter_107" title="Chapter 107">School Attacker</a></td><td><span>Appears</span></td></tr><tr><td>108. <a href="/wiki/Chapter_108" title="Chapter 108">Something Important to Asa</a></td><td><span>Appears</span></td></tr><tr><td>109. <a href="/wiki/Chapter_109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Appears</span></td></tr><tr><td>110. <a href="/wiki/Chapter_110" title="Chapter 110">A Ring in the Night</a></td><td><span>Appears</span></td></tr><tr><td>111. <a href="/wiki/Chapter_111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Justice_Devil_arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/wiki/Chapter_98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/wiki/Chapter_99" title="Chapter 99">Two Birds</a></td><td><span>Appears</span></td></tr><tr><td>100. <a href="/wiki/Chapter_100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Appears</span></td></tr><tr><td>101. <a href="/wiki/Chapter_101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Appears</span></td></tr><tr><td>102. <a href="/wiki/Chapter_102" title="Chapter 102">Save the Cat</a></td><td><span>Appears</span></td></tr><tr><td>103. <a href="/wiki/Chapter_103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/wiki/Chapter_104" title="Chapter 104">Spoiler</a></td><td><span>Appears</span></td></tr><tr><td>105. <a href="/wiki/Chapter_105" title="Chapter 105">Red Hot</a></td><td><span>Appears</span></td></tr><tr><td>106. <a href="/wiki/Chapter_106" title="Chapter 106">Bonfire</a></td><td><span>Appears</span></td></tr><tr><td>107. <a href="/wiki/Chapter_107" title="Chapter 107">School Attacker</a></td><td><span>Appears</span></td></tr><tr><td>108. <a href="/wiki/Chapter_108" title="Chapter 108">Something Important to Asa</a></td><td><span>Appears</span></td></tr><tr><td>109. <a href="/wiki/Chapter_109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Appears</span></td></tr><tr><td>110. <a href="/wiki/Chapter_110" title="Chapter 110">A Ring in the Night</a></td><td><span>Appears</span></td></tr><tr><td>111. <a href="/wiki/Chapter_111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Appearance/Dating_Denji_Arc" title="Template:Appearance/Dating Denji Arc"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Dating_Denji_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Dating_Denji_arc" title="Dating Denji arc"><span>Dating Denji arc</span></a></center></th></tr><tr><td>112. <a href="/wiki/Chapter_112" title="Chapter 112">Between Cat and Criminal</a></td><td><span>Appears</span></td></tr><tr><td>113. <a href="/wiki/Chapter_113" title="Chapter 113">I Wanna See Penguins!</a></td><td><span>Appears</span></td></tr><tr><td>114. <a href="/wiki/Chapter_114" title="Chapter 114">Endless Aquarium</a></td><td><span>Mentioned</span></td></tr><tr><td>115. <a href="/wiki/Chapter_115" title="Chapter 115">High Schoolers These Days</a></td><td><span>Absent</span></td></tr><tr><td>116. <a href="/wiki/Chapter_116" title="Chapter 116">Taste of Starfish</a></td><td><span>Absent</span></td></tr><tr><td>117. <a href="/wiki/Chapter_117" title="Chapter 117">Penguin and Weapon</a></td><td><span>Appears</span></td></tr><tr><td>118. <a href="/wiki/Chapter_118" title="Chapter 118">Saying Goodbye</a></td><td><span>Appears</span></td></tr><tr><td>119. <a href="/wiki/Chapter_119" title="Chapter 119">Thief</a></td><td><span>Appears</span></td></tr><tr><td>120. <a href="/wiki/Chapter_120" title="Chapter 120">Triangle</a></td><td><span>Appears</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Dating_Denji_arc" title="Dating Denji arc"><span>Dating Denji arc</span></a></center></th></tr><tr><td>112. <a href="/wiki/Chapter_112" title="Chapter 112">Between Cat and Criminal</a></td><td><span>Appears</span></td></tr><tr><td>113. <a href="/wiki/Chapter_113" title="Chapter 113">I Wanna See Penguins!</a></td><td><span>Appears</span></td></tr><tr><td>114. <a href="/wiki/Chapter_114" title="Chapter 114">Endless Aquarium</a></td><td><span>Mentioned</span></td></tr><tr><td>115. <a href="/wiki/Chapter_115" title="Chapter 115">High Schoolers These Days</a></td><td><span>Absent</span></td></tr><tr><td>116. <a href="/wiki/Chapter_116" title="Chapter 116">Taste of Starfish</a></td><td><span>Absent</span></td></tr><tr><td>117. <a href="/wiki/Chapter_117" title="Chapter 117">Penguin and Weapon</a></td><td><span>Appears</span></td></tr><tr><td>118. <a href="/wiki/Chapter_118" title="Chapter 118">Saying Goodbye</a></td><td><span>Appears</span></td></tr><tr><td>119. <a href="/wiki/Chapter_119" title="Chapter 119">Thief</a></td><td><span>Appears</span></td></tr><tr><td>120. <a href="/wiki/Chapter_120" title="Chapter 120">Triangle</a></td><td><span>Appears</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><span><span title="Template:Appearance/Current Arc (page does not exist)" data-uncrawlable-url="L3dpa2kvVGVtcGxhdGU6QXBwZWFyYW5jZS9DdXJyZW50X0FyYz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE="><span title="View this template">v</span></span>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Appearance/Current_Arc?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Current_arc" title="Current arc"><span>Current arc</span></a></center></th></tr><tr><td>121. <a href="/wiki/Chapter_121" title="Chapter 121">Theory of Happiness</a></td><td><span>Appears</span></td></tr><tr><td>122. <a href="/wiki/Chapter_122" title="Chapter 122">The Prophecies</a></td><td><span>Appears</span></td></tr><tr><td>123. <a href="/wiki/Chapter_123" title="Chapter 123">Hors D'oeuvre</a></td><td><span>Appears</span></td></tr><tr><td>124. <a href="/wiki/Chapter_124" title="Chapter 124">Soup</a></td><td><span>Appears</span></td></tr><tr><td>125. <a href="/wiki/Chapter_125" title="Chapter 125">Apple Thief</a></td><td><span>Absent</span></td></tr><tr><td>126. <a href="/wiki/Chapter_126" title="Chapter 126">Food Fight</a></td><td><span>Mentioned</span></td></tr><tr><td>127. <a href="/wiki/Chapter_127" title="Chapter 127">Save the Asa</a></td><td><span>Appears</span></td></tr><tr><td>128. <a href="/wiki/Chapter_128" title="Chapter 128">Main Dish</a></td><td><span>Absent</span></td></tr><tr><td>129. <a href="/wiki/Chapter_129" title="Chapter 129">Save Me, Chainsaw Man</a></td><td><span>Appears</span></td></tr><tr><td>130. <a href="/wiki/Chapter_130" title="Chapter 130">Kill Building</a></td><td><span>Absent</span></td></tr><tr><td>131. <a href="/wiki/Chapter_131" title="Chapter 131">Taste of Crap</a></td><td><span>Mentioned</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/wiki/Current_arc" title="Current arc"><span>Current arc</span></a></center></th></tr><tr><td>121. <a href="/wiki/Chapter_121" title="Chapter 121">Theory of Happiness</a></td><td><span>Appears</span></td></tr><tr><td>122. <a href="/wiki/Chapter_122" title="Chapter 122">The Prophecies</a></td><td><span>Appears</span></td></tr><tr><td>123. <a href="/wiki/Chapter_123" title="Chapter 123">Hors D'oeuvre</a></td><td><span>Appears</span></td></tr><tr><td>124. <a href="/wiki/Chapter_124" title="Chapter 124">Soup</a></td><td><span>Appears</span></td></tr><tr><td>125. <a href="/wiki/Chapter_125" title="Chapter 125">Apple Thief</a></td><td><span>Absent</span></td></tr><tr><td>126. <a href="/wiki/Chapter_126" title="Chapter 126">Food Fight</a></td><td><span>Mentioned</span></td></tr><tr><td>127. <a href="/wiki/Chapter_127" title="Chapter 127">Save the Asa</a></td><td><span>Appears</span></td></tr><tr><td>128. <a href="/wiki/Chapter_128" title="Chapter 128">Main Dish</a></td><td><span>Absent</span></td></tr><tr><td>129. <a href="/wiki/Chapter_129" title="Chapter 129">Save Me, Chainsaw Man</a></td><td><span>Appears</span></td></tr><tr><td>130. <a href="/wiki/Chapter_130" title="Chapter 130">Kill Building</a></td><td><span>Absent</span></td></tr><tr><td>131. <a href="/wiki/Chapter_131" title="Chapter 131">Taste of Crap</a></td><td><span>Mentioned</span></td></tr></tbody></table>
 
-## Etymology\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D18&uselang=en "Sign in to edit")\]
+## Etymology
 
 -   Yoru could be translated as "night" (<ruby lang="ja"><rb>夜</rb><rp> (</rp><rt>よる</rt><rp>) </rp></ruby> , _Yoru_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) as a counterpart to Asa, which could be translated as "morning" (<ruby lang="ja"><rb>朝</rb><rp> (</rp><rt>あさ</rt><rp>) </rp></ruby> , _Asa_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")).
 -   Yoru's scar is similar to the simplified version of the kanji radical (<ruby lang="ja"><rb>戈</rb><rp> (</rp><rt>ほこ</rt><rp>) </rp></ruby> , _hoko_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), which means "halberd" or "arms". The same radical is used in the kanji (<ruby lang="ja"><rb>戦</rb><rp> (</rp><rt>せん</rt><rp>) </rp></ruby> , _sen_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), which means "war".
 
-## Trivia\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D19&uselang=en "Sign in to edit")\]
+## Trivia
 
 -   The War Devil's bird-like appearance is that of a bird of prey, which often symbolize war or warriors. In politics, a war hawk or hawk is someone who favors war.
 -   Yoru's predilection for making swords or edged weapons may be a reference to the depiction of the Horseman of War in the Book of Revelation, where he is depicted holding a sword.
@@ -165,7 +247,7 @@ Yoru creates a sword from a measuring ruler
 -   Yoru and Asa's exact species or "type" hasn’t been confirmed or explicitly stated in the manga as of currently, which has lead to much debate about their species, but for simplicity of the wiki and until else is confirmed, Yoru will be referred to as a fiend with Asa as her living host.
 -   The text on the back cover of [Volume 12](/wiki/Volume_12 "Volume 12") foresees that Yoru will unleash a great calamity upon the entire world.
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D20&uselang=en "Sign in to edit")\]
+## References
 
 1.  [↑](#cite_ref-Ch112Pg8_1-0) Chainsaw Man Manga: [Chapter 112](/wiki/Chapter_112 "Chapter 112"), Page 8
 2.  [↑](#cite_ref-Ch122Pg16_2-0) Chainsaw Man Manga: [Chapter 122](/wiki/Chapter_122 "Chapter 122"), Page 16
@@ -195,9 +277,3 @@ Yoru creates a sword from a measuring ruler
 26.  [↑](#cite_ref-Ch98Pg47_26-0) Chainsaw Man Manga: [Chapter 98](/wiki/Chapter_98 "Chapter 98"), Page 47
 27.  [↑](#cite_ref-Ch110Pg1_27-0) Chainsaw Man Manga: [Chapter 110](/wiki/Chapter_110 "Chapter 110"), Page 1
 28.  [↑](#cite_ref-Ch107Pg17_28-0) Chainsaw Man Manga: [Chapter 107](/wiki/Chapter_107 "Chapter 107"), Page 17
-
-## Site Navigation\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FYoru%3Fveaction%3Dedit%26section%3D21&uselang=en "Sign in to edit")\]
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devils" title="Template:Devils"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devils?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"><span>Primal Fears</span></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmos Devil</a> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <strong>War Devil</strong> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"><span>Fiends</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <strong>Yoru</strong> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <a href="/wiki/Cosmo" title="Cosmo">Cosmo</a> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"><span>Hybrids</span></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><span><a href="/wiki/Template:Devil_Hunters" title="Template:Devil Hunters"><span title="View this template">v</span></a>&nbsp;<span>•</span>&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://chainsaw-man.fandom.com/wiki/Template:Devil_Hunters?action=edit"><span title="You can edit this template. Please use the preview button before saving.">e</span></a></span><center><a href="/wiki/Devil_Hunter" title="Devil Hunter"><span>Devil Hunters</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Public_Safety_Devil_Hunters" title="Public Safety Devil Hunters"><span>Public Safety Devil Hunters</span></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Angel_Devil" title="Angel Devil">Angel</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Beam" title="Beam">Beam</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Furuno" title="Furuno">Furuno</a> • <a href="/wiki/Fushi" title="Fushi">Fushi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Galgali" title="Galgali">Galgali</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Himeno" title="Himeno">Himeno</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kato" title="Kato">Kato</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Kishibe" title="Kishibe">Kishibe</a> • <a href="/wiki/Kobeni_Higashiyama" title="Kobeni Higashiyama">Kobeni Higashiyama</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Kusakabe" title="Kusakabe">Kusakabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Madoka" title="Madoka">Madoka</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Makima" title="Makima">Makima</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Masaki_Ando" title="Masaki Ando">Masaki Ando</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Michiko_Tendo" title="Michiko Tendo">Michiko Tendo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nakamura" title="Nakamura">Nakamura</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Nomo" title="Nomo">Nomo</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Power" title="Power">Power</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Princi" title="Princi">Princi</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Subaru" title="Subaru">Subaru</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tamaoki" title="Tamaoki">Tamaoki</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Tanabe" title="Tanabe">Tanabe</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Yutaro_Kurose" title="Yutaro Kurose">Yutaro Kurose</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Hirokazu_Arai" title="Hirokazu Arai">Hirokazu Arai</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Civilian Devil Hunters</span></b></small></th><td align="center"><a href="/wiki/Akane_Sawatari" title="Akane Sawatari">Akane Sawatari</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Aldo" title="Aldo">Aldo</a> • <a href="/wiki/Denji" title="Denji">Denji</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Joey" title="Joey">Joey</a>&nbsp;<sup title="Deceased">†</sup> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Santa_Claus" title="Santa Claus">Santa Claus</a>&nbsp;<sup title="Former">‡</sup> • <a href="/wiki/Tolka" title="Tolka">Tolka</a>&nbsp;<sup title="Deceased">†</sup></td></tr><tr><th><small><b><span>Devil Hunter Club</span></b></small></th><td align="center"><a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Fami" title="Fami">Fami</a> • <a href="/wiki/Furio" title="Furio">Furio</a> • <a href="/wiki/Haruka_Iseumi" title="Haruka Iseumi">Haruka Iseumi</a> • <a href="/wiki/Hirofumi_Yoshida" title="Hirofumi Yoshida">Hirofumi Yoshida</a> • <a href="/wiki/Seigi_Akoku" title="Seigi Akoku">Seigi Akoku</a> • <strong>Yoru</strong> • <a href="/wiki/Yuko" title="Yuko">Yuko</a>&nbsp;<sup title="Former">‡</sup></td></tr></tbody></table>

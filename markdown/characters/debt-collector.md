@@ -1,6 +1,63 @@
+---
+titile: Debt Collector
+image: https://static.wikia.nocookie.net/chainsaw-man/images/f/f3/Mob_boss_anime.png
+---
+
 # Debt Collector
 
-![Debt Collector](https://static.wikia.nocookie.net/chainsaw-man/images/f/f3/Mob_boss_anime.png)
+[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/6/66/Mob_boss_manga.jpeg/revision/latest/scale-to-width-down/350?cb=20221211070228)](https://static.wikia.nocookie.net/chainsaw-man/images/6/66/Mob_boss_manga.jpeg/revision/latest?cb=20221211070228 "Manga")
+
+## Biological Information
+
+### Species
+
+Human
+
+### Gender
+
+Male
+
+### Birthplace
+
+[Japan](/wiki/World#Japan "World")
+
+### Status
+
+Deceased
+
+## Professional Information
+
+### Occupation
+
+[Yakuza Boss](/wiki/Yakuza "Yakuza")
+
+### Affiliation
+
+[Yakuza](/wiki/Yakuza "Yakuza")
+
+### Relatives
+
+[Katana Man](/wiki/Katana_Man "Katana Man") (grandson)
+
+### Contracted Devils
+
+[Zombie Devil](/wiki/Zombie_Devil "Zombie Devil")
+
+## First Appearance
+
+### Manga Debut
+
+[Chapter 1](/wiki/Chapter_1 "Chapter 1")
+
+### Anime Debut
+
+[Episode 1](/wiki/Episode_1 "Episode 1")
+
+## Portrayal
+
+### Japanese Voice
+
+Kosei Hirota
 
   
 **Debt Collector** (_real name unknown_) was a [yakuza](/wiki/Yakuza "Yakuza") leader, who took young [Denji](/wiki/Denji "Denji") after [his father](/wiki/Denji%27s_Father "Denji's Father")'s death and forced him into paying off his debt. He was also the beloved grandfather of [Katana Man](/wiki/Katana_Man "Katana Man").
@@ -16,18 +73,18 @@ He was the main antagonist of the [Introduction arc](/wiki/Introduction_arc "Int
     -   [3.2 Katana Man arc](#Katana_Man_arc)
 -   [4 References](#References)
 
-## Appearance\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDebt_Collector%3Fveaction%3Dedit%26section%3D1&uselang=en "Sign in to edit")\]
+## Appearance
 
 He is an elderly man with a scruffy grey beard and mustache. He wears a hat, suit and glasses.
 
-## Personality\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDebt_Collector%3Fveaction%3Dedit%26section%3D2&uselang=en "Sign in to edit")\]
+## Personality
 
 He is very cruel and uncaring and does not care about hurting, abusing or killing even children. He seems to be only kind to close associates such as family members.
 
-## Plot\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDebt_Collector%3Fveaction%3Dedit%26section%3D3&uselang=en "Sign in to edit")\]
+## Plot
 
-### [Introduction arc](/wiki/Introduction_arc "Introduction arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDebt_Collector%3Fveaction%3Dedit%26section%3D4&uselang=en "Sign in to edit")\]
+### [Introduction arc](/wiki/Introduction_arc "Introduction arc")
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDebt_Collector%3Fveaction%3Dedit%26section%3D5&uselang=en "Sign in to edit")\]
+### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
 
-## References\[[](https://auth.fandom.com/signin?redirect=https%3A%2F%2Fchainsaw-man.fandom.com%2Fwiki%2FDebt_Collector%3Fveaction%3Dedit%26section%3D6&uselang=en "Sign in to edit")\]
+## References
