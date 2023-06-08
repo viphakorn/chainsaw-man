@@ -4,6 +4,7 @@ import { MDXRemote } from "next-mdx-remote/rsc";
 import Link from "next/link";
 import matter from "gray-matter";
 import { Metadata } from "next";
+import { getCharacters } from "../characters/page";
 
 type Props = {
   params: {
@@ -11,13 +12,13 @@ type Props = {
   };
 };
 
-const getCharacterInfo = (characterSlug: string) => {
-  const folder = "markdown/characters/";
-  const file = path.join(process.cwd(), `${folder}${characterSlug}.md`);
-  const markdown = fs.readFileSync(file, "utf8");
-  const { data, content } = matter(markdown);
-  return { data, content };
-};
+// const getCharacterInfo = (characterSlug: string) => {
+//   const folder = "markdown/characters/";
+//   const file = path.join(process.cwd(), `${folder}${characterSlug}.md`);
+//   const markdown = fs.readFileSync(file, "utf8");
+//   const { data, content } = matter(markdown);
+//   return { data, content };
+// };
 
 const components = {
   img: async (props: any) => {
@@ -29,21 +30,25 @@ const components = {
   },
 };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { data } = getCharacterInfo(params.characterSlug);
-
+  const characters = getCharacters();
+  const character = characters.find(
+    ({ data }) => data.slug === params.characterSlug
+  );
   return {
-    title: data.name,
+    title: character?.data.name,
   };
 }
 
 export default function CharacterInfo({ params }: Props) {
-  const { data, content } = getCharacterInfo(params.characterSlug);
-
+  const characters = getCharacters();
+  const character = characters.find(
+    ({ data }) => data.slug === params.characterSlug
+  );
   return (
     <main>
       <article className="prose prose-invert max-w-7xl fluid-container">
         {/* @ts-ignore */}
-        <MDXRemote source={content} components={{ ...components }} />
+        <MDXRemote source={character?.content} components={{ ...components }} />
       </article>
     </main>
   );
