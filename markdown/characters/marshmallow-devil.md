@@ -1,11 +1,12 @@
 ---
-titile: Marshmallow Devil
+name: Marshmallow Devil
 image: https://static.wikia.nocookie.net/chainsaw-man/images/e/e8/Marshmallow_Devil_anime.png
+slug: marshmallow-devil
 ---
 
 # Marshmallow Devil
 
-[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/a/a7/Smalldevil.PNG/revision/latest/scale-to-width-down/350?cb=20220814155227)](https://static.wikia.nocookie.net/chainsaw-man/images/a/a7/Smalldevil.PNG/revision/latest?cb=20220814155227 "Manga")
+![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/a/a7/Smalldevil.PNG "Smalldevil.PNG")
 
 ## Name
 
@@ -21,7 +22,7 @@ Mashumaro no Akuma
 
 ### Species
 
-[Devil](/wiki/Devil "Devil")
+[Devil](/devil "Devil")
 
 ### Gender
 
@@ -35,13 +36,13 @@ Deceased
 
 ### Manga Debut
 
-[Chapter 1](/wiki/Chapter_1 "Chapter 1")
+[Chapter 1](/chapter-1 "Chapter 1")
 
 ### Anime Debut
 
-[Episode 1](/wiki/Episode_1 "Episode 1")
+[Episode 1](/episode-1 "Episode 1")
 
-The **Marshmallow Devil** (マシュマロの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Mashumaro no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/wiki/Devil "Devil") who embodies the fear of marshmallows.
+The **Marshmallow Devil** (マシュマロの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Mashumaro no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/devil "Devil") who embodies the fear of marshmallows.
 
 ## Contents
 
@@ -55,7 +56,6 @@ The **Marshmallow Devil** (マシュマロの<ruby lang="ja"><rb>悪</rb><rp> (<
 -   [7 Gallery](#Gallery)
 -   [8 Trivia](#Trivia)
 -   [9 References](#References)
--   [10 Site Navigation](#Site_Navigation)
 
 ## Appearance
 
@@ -67,25 +67,27 @@ Nothing is currently known about the Marshmallow Devil's personality except it p
 
 ## Plot
 
-### [Introduction arc](/wiki/Introduction_arc "Introduction arc")
+### [Introduction arc](/introduction-arc "Introduction arc")
 
-The Marshmallow Devil is the first known devil to be killed by [Denji](/wiki/Denji "Denji").
+The Marshmallow Devil is the first known devil to be killed by [Denji](/denji "Denji").
 
 ## Abilities
 
-As a Devil, the Marshmallow Devil possesses all of the standard [devil abilities](/wiki/Devil#General_Abilities "Devil"). However, since marshmallows are not very frightening to humans, it must be quite incredibly weak.
+As a Devil, the Marshmallow Devil possesses all of the standard [devil abilities](/devil#general-abilities "Devil"). However, since marshmallows are not very frightening to humans, it must be quite incredibly weak.
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Intro_arc" title="Intro arc"><span>Intro arc</span></a></center></th></tr><tr><td>1. <a href="/wiki/Chapter_1" title="Chapter 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/wiki/Chapter_2" title="Chapter 2">The Place Where Pochita Is</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Chapter_3" title="Chapter 3">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Chapter_4" title="Chapter 4">Power</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/intro-arc" title="Intro arc"><span>Intro arc</span></a></center></th></tr><tr><td>1. <a href="/chapter-1" title="Chapter 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/chapter-2" title="Chapter 2">The Place Where Pochita Is</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/chapter-3" title="Chapter 3">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/chapter-4" title="Chapter 4">Power</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Anime Appearances
 
-<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/episode-1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/episode-2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/episode-3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/episode-4" title="Episode 4">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>5. <a href="/episode-5" title="Episode 5">Gun Devil</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/episode-6" title="Episode 6">Kill Denji</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/episode-7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/episode-8" title="Episode 8">Gunfire</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/episode-9" title="Episode 9">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/episode-10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/episode-11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/episode-12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Gallery
 
--   Concept Art of the Marshmallow Devil according to the _TV Animation Chainsaw Man Official Start Guide_
+-   ![Concept Art of the Marshmallow Devil according to the TV Animation Chainsaw Man Official Start Guide](https://static.wikia.nocookie.net/chainsaw-man/images/a/ae/Marshmallow_Devil_Concept_Art.png "Marshmallow Devil Concept Art.png")
+    
+    Concept Art of the Marshmallow Devil according to the _TV Animation Chainsaw Man Official Start Guide_
     
 
 1/1

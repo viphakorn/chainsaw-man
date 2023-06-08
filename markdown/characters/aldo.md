@@ -1,11 +1,12 @@
 ---
-titile: Aldo
+name: Aldo
 image: https://static.wikia.nocookie.net/chainsaw-man/images/b/b2/Aldo.png
+slug: aldo
 ---
 
 # Aldo
 
-[![](https://static.wikia.nocookie.net/chainsaw-man/images/b/b2/Aldo.png/revision/latest?cb=20200412235212)](https://static.wikia.nocookie.net/chainsaw-man/images/b/b2/Aldo.png/revision/latest?cb=20200412235212)
+![](https://static.wikia.nocookie.net/chainsaw-man/images/b/b2/Aldo.png "Aldo.png")
 
 ## Name
 
@@ -27,7 +28,7 @@ Male
 
 ### Birthplace
 
-[USA](/wiki/World#United_States_of_America "World")
+[USA](/world#united-states-of-america "World")
 
 ### Status
 
@@ -35,32 +36,32 @@ Male
 
 ### Occupation
 
-[Private Devil Hunter](/wiki/Devil_Hunter#Private_Sector_Devil_Hunters "Devil Hunter")
+[Private Devil Hunter](/devil-hunter#private-sector-devil-hunters "Devil Hunter")
 
 ### Affiliation
 
--   [United States of America](/wiki/World#United_States_of_America "World")
-    -   [American Thugs](/wiki/American_Thugs "American Thugs")
+-   [United States of America](/world#united-states-of-america "World")
+    -   [American Thugs](/american-thugs "American Thugs")
 
 ### Relatives
 
-[Joey](/wiki/Joey "Joey") (brother) (_deceased_)  
+[Joey](/joey "Joey") (brother) (_deceased_)  
 Unnamed Brother (_deceased_)  
 Unnamed Parents (_deceased_)  
 Unnamed Grandmother (_deceased_)
 
 ### Contracted Devils
 
-[Skin Devil](/wiki/Skin_Devil "Skin Devil")
+[Skin Devil](/skin-devil "Skin Devil")
 
 ## First Appearance
 
 ### Manga Debut
 
-[Chapter 53](/wiki/Chapter_53 "Chapter 53")
+[Chapter 53](/chapter-53 "Chapter 53")
 
   
-**Aldo** (アルド, _Arudo_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [private devil hunter](/wiki/Devil_Hunter "Devil Hunter") from the [United States](/wiki/World#United_States_of_America "World").
+**Aldo** (アルド, _Arudo_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [private devil hunter](/devil-hunter "Devil Hunter") from the [United States](/world#united-states-of-america "World").
 
 ## Contents
 
@@ -75,7 +76,6 @@ Unnamed Grandmother (_deceased_)
 -   [5 Chapter Appearances](#Chapter_Appearances)
 -   [6 Trivia](#Trivia)
 -   [7 References](#References)
--   [8 Site Navigation](#Site_Navigation)
 
 ## Appearance
 
@@ -93,7 +93,7 @@ Overall, Aldo acts as a coward and acts only when he thinks the situation is saf
 
 ## Plot
 
-### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")
+### [International Assassins arc](/international-assassins-arc "International Assassins arc")
 
 _TBA._
 
@@ -106,19 +106,19 @@ _TBA._
 
 ### Devil Contracts
 
--   **Skin Devil Contract**: Aldo has a contract with the [Skin Devil](/wiki/Skin_Devil "Skin Devil"). Upon touching a corpse of someone, Aldo can change his appearance into that person.
+-   **Skin Devil Contract**: Aldo has a contract with the [Skin Devil](/skin-devil "Skin Devil"). Upon touching a corpse of someone, Aldo can change his appearance into that person.
 
 ### Skillset
 
--   **Proficient Gunmanship:** Being a hitman, Aldo showcases his proficiency with a gun multiple times, he shoots and kills [Subaru](/wiki/Subaru "Subaru"), and manages to shoot Long twice, once while moving.
+-   **Proficient Gunmanship:** Being a hitman, Aldo showcases his proficiency with a gun multiple times, he shoots and kills [Subaru](/subaru "Subaru"), and manages to shoot Long twice, once while moving.
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Debut</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Absent</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Appears</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Appears</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Appears</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Appears</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Appears</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Appears</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Absent</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Absent</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Absent</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Absent</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Absent</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Appears</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/international-assassins-arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/chapter-53" title="Chapter 53">In a Dream</a></td><td><span>Debut</span></td></tr><tr><td>54. <a href="/chapter-54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Absent</span></td></tr><tr><td>55. <a href="/chapter-55" title="Chapter 55">Let's Go</a></td><td><span>Appears</span></td></tr><tr><td>56. <a href="/chapter-56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/chapter-57" title="Chapter 57">Suddenly</a></td><td><span>Appears</span></td></tr><tr><td>58. <a href="/chapter-58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Appears</span></td></tr><tr><td>59. <a href="/chapter-59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/chapter-60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Absent</span></td></tr><tr><td>61. <a href="/chapter-61" title="Chapter 61">News Reporter</a></td><td><span>Appears</span></td></tr><tr><td>62. <a href="/chapter-62" title="Chapter 62">Super Mess</a></td><td><span>Appears</span></td></tr><tr><td>63. <a href="/chapter-63" title="Chapter 63">Trip To Hell</a></td><td><span>Appears</span></td></tr><tr><td>64. <a href="/chapter-64" title="Chapter 64">Welcome To Hell</a></td><td><span>Absent</span></td></tr><tr><td>65. <a href="/chapter-65" title="Chapter 65">The Darkness Devil</a></td><td><span>Absent</span></td></tr><tr><td>66. <a href="/chapter-66" title="Chapter 66">Woof!</a></td><td><span>Absent</span></td></tr><tr><td>67. <a href="/chapter-67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/chapter-68" title="Chapter 68">Dark Power</a></td><td><span>Absent</span></td></tr><tr><td>69. <a href="/chapter-69" title="Chapter 69">Shining Power</a></td><td><span>Absent</span></td></tr><tr><td>70. <a href="/chapter-70" title="Chapter 70">Pinch</a></td><td><span>Appears</span></td></tr><tr><td>71. <a href="/chapter-71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Trivia
 
--   Aldo's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
+-   Aldo's rankings in the [Popularity Polls](/popularity-polls "Popularity Polls") are as follows:
     -   Aldo ranked 22nd in the First Popularity Poll with 1,772 votes.
     -   Aldo ranked 35th in the Second Popularity Poll with 897 votes.
 

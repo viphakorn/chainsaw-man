@@ -1,13 +1,14 @@
 ---
-titile: Hirokazu Arai
+name: Hirokazu Arai
 image: https://static.wikia.nocookie.net/chainsaw-man/images/3/37/Arai_anime_design.png
+slug: hirokazu-arai
 ---
 
 # Hirokazu Arai
 
-[![Anime](https://static.wikia.nocookie.net/chainsaw-man/images/3/37/Arai_anime_design.png/revision/latest/scale-to-width-down/300?cb=20220919121155)](https://static.wikia.nocookie.net/chainsaw-man/images/3/37/Arai_anime_design.png/revision/latest?cb=20220919121155 "Anime")
+![Anime](https://static.wikia.nocookie.net/chainsaw-man/images/3/37/Arai_anime_design.png "Arai anime design.png")
 
-[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/6/6e/Arai.png/revision/latest?cb=20190324082629)](https://static.wikia.nocookie.net/chainsaw-man/images/6/6e/Arai.png/revision/latest?cb=20190324082629 "Manga")
+![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/6/6e/Arai.png "Arai.png")
 
 ## Name
 
@@ -39,7 +40,7 @@ Male
 
 ### Birthplace
 
-[Japan](/wiki/World#Japan "World")
+[Japan](/world#japan "World")
 
 ### Status
 
@@ -49,12 +50,12 @@ Deceased
 
 ### Occupation
 
-[Public Safety Devil Hunter](/wiki/Devil_Hunter#Public_Safety_Devil_Hunters "Devil Hunter")
+[Public Safety Devil Hunter](/devil-hunter#public-safety-devil-hunters "Devil Hunter")
 
 ### Affiliation
 
--   [Public Safety Devil Hunters](/wiki/Devil_Hunter#Public_Safety_Devil_Hunters "Devil Hunter")
-    -   [Tokyo Special Division 4](/wiki/Tokyo_Special_Division_4 "Tokyo Special Division 4")
+-   [Public Safety Devil Hunters](/devil-hunter#public-safety-devil-hunters "Devil Hunter")
+    -   [Tokyo Special Division 4](/tokyo-special-division-4 "Tokyo Special Division 4")
 
 ### Relatives
 
@@ -62,13 +63,13 @@ Unnamed mother
 
 ### Contracted Devils
 
-[Fox Devil](/wiki/Fox_Devil "Fox Devil")
+[Fox Devil](/fox-devil "Fox Devil")
 
 ## First Appearance
 
 ### Manga Debut
 
-[Chapter 10](/wiki/Chapter_10 "Chapter 10")
+[Chapter 10](/chapter-10 "Chapter 10")
 
 ## Portrayal
 
@@ -80,9 +81,9 @@ Unnamed mother
 
 Jarrod Greene
 
-[Image Gallery](/wiki/Hirokazu_Arai/Image_Gallery "Hirokazu Arai/Image Gallery")
+[Image Gallery](/hirokazu-arai/image-gallery "Hirokazu Arai/Image Gallery")
 
-**Hirokazu Arai** (<ruby lang="ja"><rb>荒</rb><rp> (</rp><rt>あら</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>井</rb><rp> (</rp><rt>い</rt><rp>) </rp></ruby> ヒロカズ, _Arai Hirokazu_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) was a [Public Safety Devil Hunter](/wiki/Devil_Hunter "Devil Hunter"). He was a new recruit working under [Makima](/wiki/Makima "Makima")'s [special squad](/wiki/Tokyo_Special_Division_4 "Tokyo Special Division 4") paired up with [Kobeni Higashiyama](/wiki/Kobeni_Higashiyama "Kobeni Higashiyama").
+**Hirokazu Arai** (<ruby lang="ja"><rb>荒</rb><rp> (</rp><rt>あら</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>井</rb><rp> (</rp><rt>い</rt><rp>) </rp></ruby> ヒロカズ, _Arai Hirokazu_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) was a [Public Safety Devil Hunter](/devil-hunter "Devil Hunter"). He was a new recruit working under [Makima](/makima "Makima")'s [special squad](/tokyo-special-division-4 "Tokyo Special Division 4") paired up with [Kobeni Higashiyama](/kobeni-higashiyama "Kobeni Higashiyama").
 
 ## Contents
 
@@ -100,7 +101,6 @@ Jarrod Greene
 -   [7 Etymology](#Etymology)
 -   [8 Trivia](#Trivia)
 -   [9 References](#References)
--   [10 Site Navigation](#Site_Navigation)
 
 ## Appearance
 
@@ -126,13 +126,13 @@ His hobby is haiku.[\[8\]](#cite_note-Ch20Pg14-8)
 
 Hirokazu was trained for half a year by Himeno.[\[9\]](#cite_note-Ch14Pg12-9)
 
-### [Bat Devil arc](/wiki/Bat_Devil_arc "Bat Devil arc")
+### [Bat Devil arc](/bat-devil-arc "Bat Devil arc")
 
-Hirokazu was one of the devil hunters accompanying [Aki Hayakawa](/wiki/Aki_Hayakawa "Aki Hayakawa") as he saved [Denji](/wiki/Denji "Denji") from the [Leech Devil](/wiki/Leech_Devil "Leech Devil"). Aki told him and Kobeni to evacuate the survivors.[\[10\]](#cite_note-Ch10Pg17_-_18-10)
+Hirokazu was one of the devil hunters accompanying [Aki Hayakawa](/aki-hayakawa "Aki Hayakawa") as he saved [Denji](/denji "Denji") from the [Leech Devil](/leech-devil "Leech Devil"). Aki told him and Kobeni to evacuate the survivors.[\[10\]](#cite_note-Ch10Pg17_-_18-10)
 
-Hirokazu was one of the six devil hunters, alongside Aki, Himeno, Denji, [Power](/wiki/Power "Power") and Kobeni, assigned to the mission of tracking down a devil in the Morino Hotel.[\[11\]](#cite_note-Ch13Pg18_-_19-11)
+Hirokazu was one of the six devil hunters, alongside Aki, Himeno, Denji, [Power](/power "Power") and Kobeni, assigned to the mission of tracking down a devil in the Morino Hotel.[\[11\]](#cite_note-Ch13Pg18_-_19-11)
 
-### [Eternity Devil arc](/wiki/Eternity_Devil_arc "Eternity Devil arc")
+### [Eternity Devil arc](/eternity-devil-arc "Eternity Devil arc")
 
 He questioned Aki on Denji and Power and wondered if they could be trusted to guard their backs but Aki assured him that they'll generally be taking point and if do betray them then he'll exterminate them.[\[12\]](#cite_note-Ch14Pg3-12) When Himeno announced that the person who kills the devil will receive a kiss on the cheek from her as a reward Hirokazu became flustered.[\[3\]](#cite_note-Ch14Pg5-3)
 
@@ -142,11 +142,11 @@ After the group kills what appears to be a devil, they continue moving upward th
 
 Hirokazu starts helping Aki in hunting the devil down but started freaking out and shut himself in a room.[\[17\]](#cite_note-Ch16Pg2-17)
 
-After the [Eternity Devil](/wiki/Eternity_Devil "Eternity Devil") offers a contract to release the trapped devil hunters in exchange for Denji's life, Hirokazu emerges from his room and suggests handing Denji over since it is legal to make contracts with devils and they'll starve to death if they can't escape the hotel but Aki refuses his suggestion.[\[5\]](#cite_note-Ch17Pg6_-_7-5)
+After the [Eternity Devil](/eternity-devil "Eternity Devil") offers a contract to release the trapped devil hunters in exchange for Denji's life, Hirokazu emerges from his room and suggests handing Denji over since it is legal to make contracts with devils and they'll starve to death if they can't escape the hotel but Aki refuses his suggestion.[\[5\]](#cite_note-Ch17Pg6_-_7-5)
 
 Later Hirokazu discovers that all of the food they had collected has been eaten by Power who tells a blatant lie to cover it up. Kobeni begins to panic and blame Power for their situation and when Hirokazu steps in to defend the fiend Kobeni turns on him in her paranoia and calls him a spy for the devils while threatening him with a knife. Their combined fear fuels the Eternity Devil's growth as it expands into the rest of the hotel floor.[\[18\]](#cite_note-Ch17Pg11_-_17-18)
 
-Hirokazu and Kobeni beg for Aki to kill Denji to hand him over to the devil, but Aki refuses again. He rushes Denji while Aki is restrained by Himeno's [Ghost Devil](/wiki/Ghost_Devil "Ghost Devil") and holds him still so that Kobeni can stab Denji, however Aki throws himself in the way of the knife.[\[19\]](#cite_note-Ch18Pg1_-_5-19) When Denji willingly throws himself into the mouth of the Eternity Devil and transforms into his Chainsaw Man for, Hirokazu looks on in shock.[\[20\]](#cite_note-Ch18Pg10_-_15-20)
+Hirokazu and Kobeni beg for Aki to kill Denji to hand him over to the devil, but Aki refuses again. He rushes Denji while Aki is restrained by Himeno's [Ghost Devil](/ghost-devil "Ghost Devil") and holds him still so that Kobeni can stab Denji, however Aki throws himself in the way of the knife.[\[19\]](#cite_note-Ch18Pg1_-_5-19) When Denji willingly throws himself into the mouth of the Eternity Devil and transforms into his Chainsaw Man for, Hirokazu looks on in shock.[\[20\]](#cite_note-Ch18Pg10_-_15-20)
 
 After waiting over the course of three days for the battle between Denji and the Eternity Devil to be over, Hirokazu sits in the corner in an exhausted state.[\[21\]](#cite_note-Ch19Pg16_-_17-21)
 
@@ -154,7 +154,7 @@ Once they leave the Morino Hotel, Himeno orders Hirokazu and Kobeni to report th
 
 After Denji's vomit-filled kiss with Himeno, Hirokazu helped him to the bathroom and took care of him while stating his envy of Denji.[\[6\]](#cite_note-Ch21Pg12_-_13-6)
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
+### [Katana Man arc](/katana-man-arc "Katana Man arc")
 
 Hirokazu was among the devil hunters targeted during the Gun Devil's plot to assassinate the Special Divisions of Public Safety. An elderly lady pulled out a pistol and shot at him in broad daylight alongside Kobeni.[\[23\]](#cite_note-Ch23Pg4_-_9-23)
 
@@ -166,19 +166,19 @@ According to Himeno what Hirokazu lacks in actual ability, he makes up for in dr
 
 ### Devil Contract
 
--   **Fox Devil Contract**: Hirokazu had a contract with the [Fox Devil](/wiki/Fox_Devil "Fox Devil"), presumably allowing him to summon a part of its body during battle in exchange for feeding it parts of his body.[\[8\]](#cite_note-Ch20Pg14-8)
+-   **Fox Devil Contract**: Hirokazu had a contract with the [Fox Devil](/fox-devil "Fox Devil"), presumably allowing him to summon a part of its body during battle in exchange for feeding it parts of his body.[\[8\]](#cite_note-Ch20Pg14-8)
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Bat_Devil_arc" title="Bat Devil arc"><span>Bat Devil arc</span></a></center></th></tr><tr><td>5. <a href="/wiki/Chapter_5" title="Chapter 5">A Way to Touch Some Boobs</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/wiki/Chapter_6" title="Chapter 6">Service</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/wiki/Chapter_7" title="Chapter 7">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/wiki/Chapter_8" title="Chapter 8">Chainsaw vs. Bat</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/wiki/Chapter_9" title="Chapter 9">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/wiki/Chapter_10" title="Chapter 10">Kon</a></td><td><span>Debut</span></td></tr><tr><td>11. <a href="/wiki/Chapter_11" title="Chapter 11">Compromise</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Chapter_12" title="Chapter 12">Squeeze</a></td><td><span>Absent</span></td></tr><tr><td>13. <a href="/wiki/Chapter_13" title="Chapter 13">Gun Devil</a></td><td><span>Appears</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/bat-devil-arc" title="Bat Devil arc"><span>Bat Devil arc</span></a></center></th></tr><tr><td>5. <a href="/chapter-5" title="Chapter 5">A Way to Touch Some Boobs</a></td><td><span>Absent</span></td></tr><tr><td>6. <a href="/chapter-6" title="Chapter 6">Service</a></td><td><span>Absent</span></td></tr><tr><td>7. <a href="/chapter-7" title="Chapter 7">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>8. <a href="/chapter-8" title="Chapter 8">Chainsaw vs. Bat</a></td><td><span>Absent</span></td></tr><tr><td>9. <a href="/chapter-9" title="Chapter 9">Rescue</a></td><td><span>Absent</span></td></tr><tr><td>10. <a href="/chapter-10" title="Chapter 10">Kon</a></td><td><span>Debut</span></td></tr><tr><td>11. <a href="/chapter-11" title="Chapter 11">Compromise</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/chapter-12" title="Chapter 12">Squeeze</a></td><td><span>Absent</span></td></tr><tr><td>13. <a href="/chapter-13" title="Chapter 13">Gun Devil</a></td><td><span>Appears</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Eternity_Devil_arc" title="Eternity Devil arc"><span>Eternity Devil arc</span></a></center></th></tr><tr><td>14. <a href="/wiki/Chapter_14" title="Chapter 14">French Kiss</a></td><td><span>Appears</span></td></tr><tr><td>15. <a href="/wiki/Chapter_15" title="Chapter 15">Endless 8th Floor</a></td><td><span>Appears</span></td></tr><tr><td>16. <a href="/wiki/Chapter_16" title="Chapter 16">The First Taste</a></td><td><span>Appears</span></td></tr><tr><td>17. <a href="/wiki/Chapter_17" title="Chapter 17">Kill Denji</a></td><td><span>Appears</span></td></tr><tr><td>18. <a href="/wiki/Chapter_18" title="Chapter 18">Chainsaw vs. Eternity</a></td><td><span>Appears</span></td></tr><tr><td>19. <a href="/wiki/Chapter_19" title="Chapter 19">Nobel Prize</a></td><td><span>Appears</span></td></tr><tr><td>20. <a href="/wiki/Chapter_20" title="Chapter 20">Drinking</a></td><td><span>Appears</span></td></tr><tr><td>21. <a href="/wiki/Chapter_21" title="Chapter 21">Taste of a Kiss</a></td><td><span>Appears</span></td></tr><tr><td>22. <a href="/wiki/Chapter_22" title="Chapter 22">Cola-Flavor Chupa Chups</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/eternity-devil-arc" title="Eternity Devil arc"><span>Eternity Devil arc</span></a></center></th></tr><tr><td>14. <a href="/chapter-14" title="Chapter 14">French Kiss</a></td><td><span>Appears</span></td></tr><tr><td>15. <a href="/chapter-15" title="Chapter 15">Endless 8th Floor</a></td><td><span>Appears</span></td></tr><tr><td>16. <a href="/chapter-16" title="Chapter 16">The First Taste</a></td><td><span>Appears</span></td></tr><tr><td>17. <a href="/chapter-17" title="Chapter 17">Kill Denji</a></td><td><span>Appears</span></td></tr><tr><td>18. <a href="/chapter-18" title="Chapter 18">Chainsaw vs. Eternity</a></td><td><span>Appears</span></td></tr><tr><td>19. <a href="/chapter-19" title="Chapter 19">Nobel Prize</a></td><td><span>Appears</span></td></tr><tr><td>20. <a href="/chapter-20" title="Chapter 20">Drinking</a></td><td><span>Appears</span></td></tr><tr><td>21. <a href="/chapter-21" title="Chapter 21">Taste of a Kiss</a></td><td><span>Appears</span></td></tr><tr><td>22. <a href="/chapter-22" title="Chapter 22">Cola-Flavor Chupa Chups</a></td><td><span>Absent</span></td></tr></tbody></table>
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Katana_Man_arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/wiki/Chapter_23" title="Chapter 23">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>24. <a href="/wiki/Chapter_24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/wiki/Chapter_25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/wiki/Chapter_26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/wiki/Chapter_27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/wiki/Chapter_28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Death</span></td></tr><tr><td>29. <a href="/wiki/Chapter_29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/wiki/Chapter_30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/wiki/Chapter_31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/wiki/Chapter_32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/wiki/Chapter_33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/wiki/Chapter_34" title="Chapter 34">Full Team</a></td><td><span>Absent</span></td></tr><tr><td>35. <a href="/wiki/Chapter_35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/wiki/Chapter_36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/wiki/Chapter_37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/wiki/Chapter_38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/wiki/Chapter_39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/katana-man-arc" title="Katana Man arc"><span>Katana Man arc</span></a></center></th></tr><tr><td>23. <a href="/chapter-23" title="Chapter 23">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>24. <a href="/chapter-24" title="Chapter 24">Curse</a></td><td><span>Absent</span></td></tr><tr><td>25. <a href="/chapter-25" title="Chapter 25">Ghost, Snake, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>26. <a href="/chapter-26" title="Chapter 26">The Gun is Mightier</a></td><td><span>Absent</span></td></tr><tr><td>27. <a href="/chapter-27" title="Chapter 27">From Kyoto</a></td><td><span>Absent</span></td></tr><tr><td>28. <a href="/chapter-28" title="Chapter 28">Secrets &amp; Lies</a></td><td><span>Death</span></td></tr><tr><td>29. <a href="/chapter-29" title="Chapter 29">Perfect Score</a></td><td><span>Absent</span></td></tr><tr><td>30. <a href="/chapter-30" title="Chapter 30">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>31. <a href="/chapter-31" title="Chapter 31">The Future Rules</a></td><td><span>Absent</span></td></tr><tr><td>32. <a href="/chapter-32" title="Chapter 32">Over and Over Again</a></td><td><span>Absent</span></td></tr><tr><td>33. <a href="/chapter-33" title="Chapter 33">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>34. <a href="/chapter-34" title="Chapter 34">Full Team</a></td><td><span>Absent</span></td></tr><tr><td>35. <a href="/chapter-35" title="Chapter 35">Minor</a></td><td><span>Absent</span></td></tr><tr><td>36. <a href="/chapter-36" title="Chapter 36">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>37. <a href="/chapter-37" title="Chapter 37">Train, Head, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>38. <a href="/chapter-38" title="Chapter 38">Easy Revenge!</a></td><td><span>Absent</span></td></tr><tr><td>39. <a href="/chapter-39" title="Chapter 39">Tearjerker</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Anime Appearances
 
-<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/wiki/Episode_1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/wiki/Episode_2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Episode_3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Episode_4" title="Episode 4">Rescue</a></td><td><span>Debut</span></td></tr><tr><td>5. <a href="/wiki/Episode_5" title="Episode 5">Gun Devil</a></td><td><span>Appears</span></td></tr><tr><td>6. <a href="/wiki/Episode_6" title="Episode 6">Kill Denji</a></td><td><span>Appears</span></td></tr><tr><td>7. <a href="/wiki/Episode_7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Appears</span></td></tr><tr><td>8. <a href="/wiki/Episode_8" title="Episode 8">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>9. <a href="/wiki/Episode_9" title="Episode 9">From Kyoto</a></td><td><span>Death</span></td></tr><tr><td>10. <a href="/wiki/Episode_10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/wiki/Episode_11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/wiki/Episode_12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><span title="Season 1 (page does not exist)" data-uncrawlable-url="L3dpa2kvU2Vhc29uXzE/YWN0aW9uPWVkaXQmcmVkbGluaz0x"><span>Season 1</span></span></center></th></tr><tr><td>1. <a href="/episode-1" title="Episode 1">Dog &amp; Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>2. <a href="/episode-2" title="Episode 2">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/episode-3" title="Episode 3">Meowy's Whereabouts</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/episode-4" title="Episode 4">Rescue</a></td><td><span>Debut</span></td></tr><tr><td>5. <a href="/episode-5" title="Episode 5">Gun Devil</a></td><td><span>Appears</span></td></tr><tr><td>6. <a href="/episode-6" title="Episode 6">Kill Denji</a></td><td><span>Appears</span></td></tr><tr><td>7. <a href="/episode-7" title="Episode 7">The Taste of a Kiss</a></td><td><span>Appears</span></td></tr><tr><td>8. <a href="/episode-8" title="Episode 8">Gunfire</a></td><td><span>Appears</span></td></tr><tr><td>9. <a href="/episode-9" title="Episode 9">From Kyoto</a></td><td><span>Death</span></td></tr><tr><td>10. <a href="/episode-10" title="Episode 10">Bruised &amp; Battered</a></td><td><span>Absent</span></td></tr><tr><td>11. <a href="/episode-11" title="Episode 11">Mission Start</a></td><td><span>Absent</span></td></tr><tr><td>12. <a href="/episode-12" title="Episode 12">Katana vs. Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Etymology
 
@@ -186,33 +186,33 @@ According to Himeno what Hirokazu lacks in actual ability, he makes up for in dr
 
 ## Trivia
 
--   Arai's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
+-   Arai's rankings in the [Popularity Polls](/popularity-polls "Popularity Polls") are as follows:
     -   Arai ranked 35th in the First Popularity Poll with 340 votes.
     -   Arai ranked 47th in the Second Popularity Poll with 538 votes.
 
 ## References
 
-1.  [↑](#cite_ref-Ch10Pg17_1-0) Chainsaw Man Manga: [Chapter 10](/wiki/Chapter_10 "Chapter 10"), Page 17
-2.  ↑ [2.0](#cite_ref-Ch20Pg8_-_9_2-0) [2.1](#cite_ref-Ch20Pg8_-_9_2-1) Chainsaw Man Manga: [Chapter 20](/wiki/Chapter_20 "Chapter 20"), Pages 8 - 9
-3.  ↑ [3.0](#cite_ref-Ch14Pg5_3-0) [3.1](#cite_ref-Ch14Pg5_3-1) Chainsaw Man Manga: [Chapter 14](/wiki/Chapter_14 "Chapter 14"), Page 5
-4.  [↑](#cite_ref-Ch15Pg17_-_18_4-0) Chainsaw Man Manga: [Chapter 15](/wiki/Chapter_15 "Chapter 15"), Pages 17 - 18
-5.  ↑ [5.0](#cite_ref-Ch17Pg6_-_7_5-0) [5.1](#cite_ref-Ch17Pg6_-_7_5-1) Chainsaw Man Manga: [Chapter 17](/wiki/Chapter_17 "Chapter 17"), Pages 6 - 7
-6.  ↑ [6.0](#cite_ref-Ch21Pg12_-_13_6-0) [6.1](#cite_ref-Ch21Pg12_-_13_6-1) Chainsaw Man Manga: [Chapter 21](/wiki/Chapter_21 "Chapter 21"), Pages 12 - 13
-7.  [↑](#cite_ref-Ch21Pg13_7-0) Chainsaw Man Manga: [Chapter 21](/wiki/Chapter_21 "Chapter 21"), Page 13
-8.  ↑ [8.0](#cite_ref-Ch20Pg14_8-0) [8.1](#cite_ref-Ch20Pg14_8-1) [8.2](#cite_ref-Ch20Pg14_8-2) Chainsaw Man Manga: [Chapter 20](/wiki/Chapter_20 "Chapter 20"), Page 14
-9.  [↑](#cite_ref-Ch14Pg12_9-0) Chainsaw Man Manga: [Chapter 14](/wiki/Chapter_14 "Chapter 14"), Page 12
-10.  [↑](#cite_ref-Ch10Pg17_-_18_10-0) Chainsaw Man Manga: [Chapter 10](/wiki/Chapter_10 "Chapter 10"), Pages 17 - 18
-11.  [↑](#cite_ref-Ch13Pg18_-_19_11-0) Chainsaw Man Manga: [Chapter 13](/wiki/Chapter_13 "Chapter 13"), Pages 18 - 19
-12.  [↑](#cite_ref-Ch14Pg3_12-0) Chainsaw Man Manga: [Chapter 14](/wiki/Chapter_14 "Chapter 14"), Page 3
-13.  [↑](#cite_ref-Ch14Pg10_-_12_13-0) Chainsaw Man Manga: [Chapter 14](/wiki/Chapter_14 "Chapter 14"), Pages 10 - 12
-14.  ↑ [14.0](#cite_ref-Ch14Pg13_14-0) [14.1](#cite_ref-Ch14Pg13_14-1) Chainsaw Man Manga: [Chapter 14](/wiki/Chapter_14 "Chapter 14"), Page 13
-15.  [↑](#cite_ref-Ch15Pg8_-_10_15-0) Chainsaw Man Manga: [Chapter 15](/wiki/Chapter_15 "Chapter 15"), Pages 8 - 10
-16.  [↑](#cite_ref-Ch15Pg17_-_21_16-0) Chainsaw Man Manga: [Chapter 15](/wiki/Chapter_15 "Chapter 15"), Pages 17 - 21
-17.  [↑](#cite_ref-Ch16Pg2_17-0) Chainsaw Man Manga: [Chapter 16](/wiki/Chapter_16 "Chapter 16"), Page 2
-18.  [↑](#cite_ref-Ch17Pg11_-_17_18-0) Chainsaw Man Manga: [Chapter 17](/wiki/Chapter_17 "Chapter 17"), Pages 11 - 17
-19.  [↑](#cite_ref-Ch18Pg1_-_5_19-0) Chainsaw Man Manga: [Chapter 18](/wiki/Chapter_18 "Chapter 18"), Pages 1 - 5
-20.  [↑](#cite_ref-Ch18Pg10_-_15_20-0) Chainsaw Man Manga: [Chapter 18](/wiki/Chapter_18 "Chapter 18"), Pages 10 - 15
-21.  [↑](#cite_ref-Ch19Pg16_-_17_21-0) Chainsaw Man Manga: [Chapter 19](/wiki/Chapter_19 "Chapter 19"), Pages 16 - 17
-22.  [↑](#cite_ref-Ch20Pg3_22-0) Chainsaw Man Manga: [Chapter 20](/wiki/Chapter_20 "Chapter 20"), Page 3
-23.  [↑](#cite_ref-Ch23Pg4_-_9_23-0) Chainsaw Man Manga: [Chapter 23](/wiki/Chapter_23 "Chapter 23"), Pages 4 - 9
-24.  [↑](#cite_ref-Ch28Pg2_-_13_24-0) Chainsaw Man Manga: [Chapter 28](/wiki/Chapter_28 "Chapter 28"), Pages 2 - 13
+1.  [↑](#cite_ref-Ch10Pg17_1-0) Chainsaw Man Manga: [Chapter 10](/chapter-10 "Chapter 10"), Page 17
+2.  ↑ [2.0](#cite_ref-Ch20Pg8_-_9_2-0) [2.1](#cite_ref-Ch20Pg8_-_9_2-1) Chainsaw Man Manga: [Chapter 20](/chapter-20 "Chapter 20"), Pages 8 - 9
+3.  ↑ [3.0](#cite_ref-Ch14Pg5_3-0) [3.1](#cite_ref-Ch14Pg5_3-1) Chainsaw Man Manga: [Chapter 14](/chapter-14 "Chapter 14"), Page 5
+4.  [↑](#cite_ref-Ch15Pg17_-_18_4-0) Chainsaw Man Manga: [Chapter 15](/chapter-15 "Chapter 15"), Pages 17 - 18
+5.  ↑ [5.0](#cite_ref-Ch17Pg6_-_7_5-0) [5.1](#cite_ref-Ch17Pg6_-_7_5-1) Chainsaw Man Manga: [Chapter 17](/chapter-17 "Chapter 17"), Pages 6 - 7
+6.  ↑ [6.0](#cite_ref-Ch21Pg12_-_13_6-0) [6.1](#cite_ref-Ch21Pg12_-_13_6-1) Chainsaw Man Manga: [Chapter 21](/chapter-21 "Chapter 21"), Pages 12 - 13
+7.  [↑](#cite_ref-Ch21Pg13_7-0) Chainsaw Man Manga: [Chapter 21](/chapter-21 "Chapter 21"), Page 13
+8.  ↑ [8.0](#cite_ref-Ch20Pg14_8-0) [8.1](#cite_ref-Ch20Pg14_8-1) [8.2](#cite_ref-Ch20Pg14_8-2) Chainsaw Man Manga: [Chapter 20](/chapter-20 "Chapter 20"), Page 14
+9.  [↑](#cite_ref-Ch14Pg12_9-0) Chainsaw Man Manga: [Chapter 14](/chapter-14 "Chapter 14"), Page 12
+10.  [↑](#cite_ref-Ch10Pg17_-_18_10-0) Chainsaw Man Manga: [Chapter 10](/chapter-10 "Chapter 10"), Pages 17 - 18
+11.  [↑](#cite_ref-Ch13Pg18_-_19_11-0) Chainsaw Man Manga: [Chapter 13](/chapter-13 "Chapter 13"), Pages 18 - 19
+12.  [↑](#cite_ref-Ch14Pg3_12-0) Chainsaw Man Manga: [Chapter 14](/chapter-14 "Chapter 14"), Page 3
+13.  [↑](#cite_ref-Ch14Pg10_-_12_13-0) Chainsaw Man Manga: [Chapter 14](/chapter-14 "Chapter 14"), Pages 10 - 12
+14.  ↑ [14.0](#cite_ref-Ch14Pg13_14-0) [14.1](#cite_ref-Ch14Pg13_14-1) Chainsaw Man Manga: [Chapter 14](/chapter-14 "Chapter 14"), Page 13
+15.  [↑](#cite_ref-Ch15Pg8_-_10_15-0) Chainsaw Man Manga: [Chapter 15](/chapter-15 "Chapter 15"), Pages 8 - 10
+16.  [↑](#cite_ref-Ch15Pg17_-_21_16-0) Chainsaw Man Manga: [Chapter 15](/chapter-15 "Chapter 15"), Pages 17 - 21
+17.  [↑](#cite_ref-Ch16Pg2_17-0) Chainsaw Man Manga: [Chapter 16](/chapter-16 "Chapter 16"), Page 2
+18.  [↑](#cite_ref-Ch17Pg11_-_17_18-0) Chainsaw Man Manga: [Chapter 17](/chapter-17 "Chapter 17"), Pages 11 - 17
+19.  [↑](#cite_ref-Ch18Pg1_-_5_19-0) Chainsaw Man Manga: [Chapter 18](/chapter-18 "Chapter 18"), Pages 1 - 5
+20.  [↑](#cite_ref-Ch18Pg10_-_15_20-0) Chainsaw Man Manga: [Chapter 18](/chapter-18 "Chapter 18"), Pages 10 - 15
+21.  [↑](#cite_ref-Ch19Pg16_-_17_21-0) Chainsaw Man Manga: [Chapter 19](/chapter-19 "Chapter 19"), Pages 16 - 17
+22.  [↑](#cite_ref-Ch20Pg3_22-0) Chainsaw Man Manga: [Chapter 20](/chapter-20 "Chapter 20"), Page 3
+23.  [↑](#cite_ref-Ch23Pg4_-_9_23-0) Chainsaw Man Manga: [Chapter 23](/chapter-23 "Chapter 23"), Pages 4 - 9
+24.  [↑](#cite_ref-Ch28Pg2_-_13_24-0) Chainsaw Man Manga: [Chapter 28](/chapter-28 "Chapter 28"), Pages 2 - 13

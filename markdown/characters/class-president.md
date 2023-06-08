@@ -1,18 +1,19 @@
 ---
-titile: Class President
+name: Class President
 image: https://static.wikia.nocookie.net/chainsaw-man/images/4/4b/Class_president.png
+slug: class-president
 ---
 
 # Class President
 
-[![Transformed](https://static.wikia.nocookie.net/chainsaw-man/images/8/80/Justice_devil_infront_of_asa.png/revision/latest/scale-to-width-down/325?cb=20220827183116)](https://static.wikia.nocookie.net/chainsaw-man/images/8/80/Justice_devil_infront_of_asa.png/revision/latest?cb=20220827183116 "Transformed")
+![Transformed](https://static.wikia.nocookie.net/chainsaw-man/images/8/80/Justice_devil_infront_of_asa.png "Justice devil infront of asa.png")
 
 ## Biological Information
 
 ### Species
 
 Human (formerly)  
-[Devil](/wiki/Devil "Devil") (post-transformation)
+[Devil](/devil "Devil") (post-transformation)
 
 ### Gender
 
@@ -34,19 +35,19 @@ Student
 
 ### Affiliation
 
-[Fourth East High School](/wiki/Fourth_East_High_School "Fourth East High School")
+[Fourth East High School](/fourth-east-high-school "Fourth East High School")
 
 ### Contracted Devils
 
-[Justice Devil](/wiki/Justice_Devil "Justice Devil")
+[Justice Devil](/justice-devil "Justice Devil")
 
 ## First Appearance
 
 ### Manga Debut
 
-[Chapter 98](/wiki/Chapter_98 "Chapter 98")
+[Chapter 98](/chapter-98 "Chapter 98")
 
-An unnamed high school student was the **class president** of [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka")'s class at [Fourth East High School](/wiki/Fourth_East_High_School "Fourth East High School") who made a contract with the [Justice Devil](/wiki/Justice_Devil "Justice Devil") out of jealousy. She was the first major antagonist of the [Justice Devil arc](/wiki/Justice_Devil_arc "Justice Devil arc").
+An unnamed high school student was the **class president** of [Asa Mitaka](/asa-mitaka "Asa Mitaka")'s class at [Fourth East High School](/fourth-east-high-school "Fourth East High School") who made a contract with the [Justice Devil](/justice-devil "Justice Devil") out of jealousy. She was the first major antagonist of the [Justice Devil arc](/justice-devil-arc "Justice Devil arc").
 
 ## Contents
 
@@ -65,18 +66,18 @@ Her contract with the Justice Devil allows her to transform into a towering, blo
 
 ## Personality
 
-Originally, she appeared to be mild-mannered and supportive, such as when she sought out and consoled [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka") after their class was given [Bucky](/wiki/Bucky "Bucky"). In reality, she was delusional, presumptuous and narcissistic, believing that Asa was having a sexual relationship with their teacher, [Mr. Tanaka](/wiki/Tanaka "Tanaka"), whom she herself had been having a sexual relationship with.
+Originally, she appeared to be mild-mannered and supportive, such as when she sought out and consoled [Asa Mitaka](/asa-mitaka "Asa Mitaka") after their class was given [Bucky](/bucky "Bucky"). In reality, she was delusional, presumptuous and narcissistic, believing that Asa was having a sexual relationship with their teacher, [Mr. Tanaka](/tanaka "Tanaka"), whom she herself had been having a sexual relationship with.
 
-It is possible that, just like with [Yuko](/wiki/Yuko "Yuko"), her personality got warped by the Justice Devil and that her original personality was quite different.
+It is possible that, just like with [Yuko](/yuko "Yuko"), her personality got warped by the Justice Devil and that her original personality was quite different.
 
 ## Abilities
 
 ### Devil Contracts
 
-**Justice Devil Contract**: The class president had a contract with the [Justice Devil](/wiki/Justice_Devil "Justice Devil") for an unknown price. This contract granted her super strength and super speed in combination with a transformed form with claws and tentacles. This would make her the second character to have a devil [transformation](/wiki/Contract#Devil_Transformation "Contract").  
+**Justice Devil Contract**: The class president had a contract with the [Justice Devil](/justice-devil "Justice Devil") for an unknown price. This contract granted her super strength and super speed in combination with a transformed form with claws and tentacles. This would make her the second character to have a devil [transformation](/contract#devil-transformation "Contract").  
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Justice_Devil_arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/wiki/Chapter_98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/wiki/Chapter_99" title="Chapter 99">Two Birds</a></td><td><span>Mentioned</span></td></tr><tr><td>100. <a href="/wiki/Chapter_100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Absent</span></td></tr><tr><td>101. <a href="/wiki/Chapter_101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Absent</span></td></tr><tr><td>102. <a href="/wiki/Chapter_102" title="Chapter 102">Save the Cat</a></td><td><span>Absent</span></td></tr><tr><td>103. <a href="/wiki/Chapter_103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/wiki/Chapter_104" title="Chapter 104">Spoiler</a></td><td><span>Absent</span></td></tr><tr><td>105. <a href="/wiki/Chapter_105" title="Chapter 105">Red Hot</a></td><td><span>Mentioned</span></td></tr><tr><td>106. <a href="/wiki/Chapter_106" title="Chapter 106">Bonfire</a></td><td><span>Absent</span></td></tr><tr><td>107. <a href="/wiki/Chapter_107" title="Chapter 107">School Attacker</a></td><td><span>Absent</span></td></tr><tr><td>108. <a href="/wiki/Chapter_108" title="Chapter 108">Something Important to Asa</a></td><td><span>Absent</span></td></tr><tr><td>109. <a href="/wiki/Chapter_109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Absent</span></td></tr><tr><td>110. <a href="/wiki/Chapter_110" title="Chapter 110">A Ring in the Night</a></td><td><span>Absent</span></td></tr><tr><td>111. <a href="/wiki/Chapter_111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/justice-devil-arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/chapter-98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/chapter-99" title="Chapter 99">Two Birds</a></td><td><span>Mentioned</span></td></tr><tr><td>100. <a href="/chapter-100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Absent</span></td></tr><tr><td>101. <a href="/chapter-101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Absent</span></td></tr><tr><td>102. <a href="/chapter-102" title="Chapter 102">Save the Cat</a></td><td><span>Absent</span></td></tr><tr><td>103. <a href="/chapter-103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/chapter-104" title="Chapter 104">Spoiler</a></td><td><span>Absent</span></td></tr><tr><td>105. <a href="/chapter-105" title="Chapter 105">Red Hot</a></td><td><span>Mentioned</span></td></tr><tr><td>106. <a href="/chapter-106" title="Chapter 106">Bonfire</a></td><td><span>Absent</span></td></tr><tr><td>107. <a href="/chapter-107" title="Chapter 107">School Attacker</a></td><td><span>Absent</span></td></tr><tr><td>108. <a href="/chapter-108" title="Chapter 108">Something Important to Asa</a></td><td><span>Absent</span></td></tr><tr><td>109. <a href="/chapter-109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Absent</span></td></tr><tr><td>110. <a href="/chapter-110" title="Chapter 110">A Ring in the Night</a></td><td><span>Absent</span></td></tr><tr><td>111. <a href="/chapter-111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## References

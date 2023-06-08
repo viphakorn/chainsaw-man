@@ -2,14 +2,14 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main>
-      <section className="grid items-center px-2 grid-stack fluid-container">
-        <img
-          src="/images/banner.png"
-          alt=""
-          className="max-h-[40rem] w-full select-none object-cover object-top opacity-50 drag-none"
-        />
-        <div className="z-10 max-w-xl space-y-2 px-8">
+    <main className="grid grid-stack">
+      <img
+        src="/images/banner.png"
+        alt=""
+        className="h-full w-full select-none object-cover object-top opacity-50 drag-none"
+      />
+      <section className="grid items-center px-2 fluid-container">
+        <div className="z-10 max-w-xl space-y-2">
           <img src="/images/logo-large.png" alt="" width={400} />
           <h1 className="text-4xl font-bold">Chainsaw Man</h1>
           <p>

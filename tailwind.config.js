@@ -45,6 +45,12 @@ export const plugins = [
       },
     }),
       addUtilities({
+        ".grid-fluid": {
+          "grid-template-columns":
+            "repeat(auto-fill, minmax(min(100%,10rem), 1fr))",
+        },
+      }),
+      addUtilities({
         ".drag-none": {
           "-webkit-user-drag": "none",
           "-khtml-user-drag": "none",

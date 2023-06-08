@@ -3,14 +3,16 @@ import Link from "next/link";
 export default function Header() {
   return (
     <header className="bg-slate-900">
-      <nav className="container mx-auto flex h-20 items-center px-2">
+      <nav className="container mx-auto flex h-20 flex-wrap items-center justify-between px-2">
         <Link href={"/"}>
           <img src="/images/logo.png" alt="Chainsaw Man Logo" width={256} />
           <span className="sr-only">Go to Home</span>
         </Link>
         <ul>
           <li>
-            <Link href={"/characters"}>Characters</Link>
+            <Link href={"/characters"} className="font-bold hover:underline">
+              Characters
+            </Link>
           </li>
           {/* <li>
             <Link href={""}></Link>

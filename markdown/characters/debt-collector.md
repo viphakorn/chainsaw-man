@@ -1,11 +1,12 @@
 ---
-titile: Debt Collector
+name: Debt Collector
 image: https://static.wikia.nocookie.net/chainsaw-man/images/f/f3/Mob_boss_anime.png
+slug: debt-collector
 ---
 
 # Debt Collector
 
-[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/6/66/Mob_boss_manga.jpeg/revision/latest/scale-to-width-down/350?cb=20221211070228)](https://static.wikia.nocookie.net/chainsaw-man/images/6/66/Mob_boss_manga.jpeg/revision/latest?cb=20221211070228 "Manga")
+![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/6/66/Mob_boss_manga.jpeg "Mob boss manga.jpeg")
 
 ## Biological Information
 
@@ -19,7 +20,7 @@ Male
 
 ### Birthplace
 
-[Japan](/wiki/World#Japan "World")
+[Japan](/world#japan "World")
 
 ### Status
 
@@ -29,29 +30,29 @@ Deceased
 
 ### Occupation
 
-[Yakuza Boss](/wiki/Yakuza "Yakuza")
+[Yakuza Boss](/yakuza "Yakuza")
 
 ### Affiliation
 
-[Yakuza](/wiki/Yakuza "Yakuza")
+[Yakuza](/yakuza "Yakuza")
 
 ### Relatives
 
-[Katana Man](/wiki/Katana_Man "Katana Man") (grandson)
+[Katana Man](/katana-man "Katana Man") (grandson)
 
 ### Contracted Devils
 
-[Zombie Devil](/wiki/Zombie_Devil "Zombie Devil")
+[Zombie Devil](/zombie-devil "Zombie Devil")
 
 ## First Appearance
 
 ### Manga Debut
 
-[Chapter 1](/wiki/Chapter_1 "Chapter 1")
+[Chapter 1](/chapter-1 "Chapter 1")
 
 ### Anime Debut
 
-[Episode 1](/wiki/Episode_1 "Episode 1")
+[Episode 1](/episode-1 "Episode 1")
 
 ## Portrayal
 
@@ -60,9 +61,9 @@ Deceased
 Kosei Hirota
 
   
-**Debt Collector** (_real name unknown_) was a [yakuza](/wiki/Yakuza "Yakuza") leader, who took young [Denji](/wiki/Denji "Denji") after [his father](/wiki/Denji%27s_Father "Denji's Father")'s death and forced him into paying off his debt. He was also the beloved grandfather of [Katana Man](/wiki/Katana_Man "Katana Man").
+**Debt Collector** (_real name unknown_) was a [yakuza](/yakuza "Yakuza") leader, who took young [Denji](/denji "Denji") after [his father](/denji%27s-father "Denji's Father")'s death and forced him into paying off his debt. He was also the beloved grandfather of [Katana Man](/katana-man "Katana Man").
 
-He was the main antagonist of the [Introduction arc](/wiki/Introduction_arc "Introduction arc").
+He was the main antagonist of the [Introduction arc](/introduction-arc "Introduction arc").
 
 ## Contents
 
@@ -83,8 +84,8 @@ He is very cruel and uncaring and does not care about hurting, abusing or killin
 
 ## Plot
 
-### [Introduction arc](/wiki/Introduction_arc "Introduction arc")
+### [Introduction arc](/introduction-arc "Introduction arc")
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
+### [Katana Man arc](/katana-man-arc "Katana Man arc")
 
 ## References

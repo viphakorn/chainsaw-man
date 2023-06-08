@@ -1,11 +1,12 @@
 ---
-titile: Tomato Devil
+name: Tomato Devil
 image: https://static.wikia.nocookie.net/chainsaw-man/images/6/6e/Tomato_Devil_anime.png
+slug: tomato-devil
 ---
 
 # Tomato Devil
 
-[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/d/d1/Tomato_Devil.png/revision/latest/scale-to-width-down/322?cb=20230420064751)](https://static.wikia.nocookie.net/chainsaw-man/images/d/d1/Tomato_Devil.png/revision/latest?cb=20230420064751 "Manga")
+![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/d/d1/Tomato_Devil.png "Tomato Devil.png")
 
 ## Name
 
@@ -21,7 +22,7 @@ Tomato no Akuma
 
 ### Species
 
-[Devil](/wiki/Devil "Devil")
+[Devil](/devil "Devil")
 
 ### Gender
 
@@ -41,13 +42,13 @@ Wild Devil
 
 ### Manga Debut
 
-[Chapter 1](/wiki/Chapter_1 "Chapter 1")
+[Chapter 1](/chapter-1 "Chapter 1")
 
 ### Anime Debut
 
-[Episode 1](/wiki/Episode_1 "Episode 1")
+[Episode 1](/episode-1 "Episode 1")
 
-The **Tomato Devil** (トマトの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Tomato no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/wiki/Devil "Devil") that embodies the fear of tomatoes.
+The **Tomato Devil** (トマトの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Tomato no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/devil "Devil") that embodies the fear of tomatoes.
 
 ## Contents
 
@@ -61,7 +62,6 @@ The **Tomato Devil** (トマトの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あ
 -   [6 Gallery](#Gallery)
 -   [7 Trivia](#Trivia)
 -   [8 References](#References)
--   [9 Site Navigation](#Site_Navigation)
 
 ## Appearance
 
@@ -73,19 +73,19 @@ Not much is known about the Tomato Devil's personality but presumably like all n
 
 ## Plot
 
-### [Intro arc](/wiki/Intro_arc "Intro arc")
+### [Intro arc](/intro-arc "Intro arc")
 
-[![Denji kills the Tomato Devil](https://static.wikia.nocookie.net/chainsaw-man/images/a/a4/Denji_kills_the_Tomato_Devil.png/revision/latest/scale-to-width-down/220?cb=20221011171157)](https://static.wikia.nocookie.net/chainsaw-man/images/a/a4/Denji_kills_the_Tomato_Devil.png/revision/latest?cb=20221011171157)
+![Denji kills the Tomato Devil](https://static.wikia.nocookie.net/chainsaw-man/images/a/a4/Denji_kills_the_Tomato_Devil.png "Denji kills the Tomato Devil.png")
 
-[](/wiki/File:Denji_kills_the_Tomato_Devil.png)
+[](/file:denji-kills-the-tomato-devil.png)
 
 Denji kills the Tomato Devil
 
-The Tomato Devil was walking around a house, when [Denji](/wiki/Denji "Denji") with the help of [Pochita](/wiki/Pochita "Pochita") went and killed him. Denji then explained to his boss the ability of the Tomato Devil and that he needs to burn its seeds.[\[2\]](#cite_note-Ch1Pg2_-_4-2)  
+The Tomato Devil was walking around a house, when [Denji](/denji "Denji") with the help of [Pochita](/pochita "Pochita") went and killed him. Denji then explained to his boss the ability of the Tomato Devil and that he needs to burn its seeds.[\[2\]](#cite_note-Ch1Pg2_-_4-2)  
 
 ## Abilities
 
-As a Devil, the Tomato Devil possesses all of the standard [devil abilities](/wiki/Devil#General_Abilities "Devil"). However, since tomatoes are not very frightening to humans, the Tomato Devil is not very strong.
+As a Devil, the Tomato Devil possesses all of the standard [devil abilities](/devil#general-abilities "Devil"). However, since tomatoes are not very frightening to humans, the Tomato Devil is not very strong.
 
 ### Devil Powers
 
@@ -93,23 +93,25 @@ As a Devil, the Tomato Devil possesses all of the standard [devil abilities](/wi
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Intro_arc" title="Intro arc"><span>Intro arc</span></a></center></th></tr><tr><td>1. <a href="/wiki/Chapter_1" title="Chapter 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/wiki/Chapter_2" title="Chapter 2">The Place Where Pochita Is</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Chapter_3" title="Chapter 3">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Chapter_4" title="Chapter 4">Power</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/intro-arc" title="Intro arc"><span>Intro arc</span></a></center></th></tr><tr><td>1. <a href="/chapter-1" title="Chapter 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/chapter-2" title="Chapter 2">The Place Where Pochita Is</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/chapter-3" title="Chapter 3">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/chapter-4" title="Chapter 4">Power</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Gallery
 
--   Concept Art of the Tomato Devil according to the _TV Animation Chainsaw Man Official Start Guide_
+-   ![Concept Art of the Tomato Devil according to the TV Animation Chainsaw Man Official Start Guide](https://static.wikia.nocookie.net/chainsaw-man/images/6/69/Tomato_Devil_Concept_Art.png "Tomato Devil Concept Art.png")
+    
+    Concept Art of the Tomato Devil according to the _TV Animation Chainsaw Man Official Start Guide_
     
 
 1/1
 
 ## Trivia
 
--   Tomato Devil's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
+-   Tomato Devil's rankings in the [Popularity Polls](/popularity-polls "Popularity Polls") are as follows:
     -   Tomato Devil ranked 48th in the First Popularity Poll with 109 votes.
     -   Tomato Devil ranked 79th in the Second Popularity Poll with 118 votes.
 
 ## References
 
-1.  [↑](#cite_ref-Ch1Pg2_-_3_1-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Pages 2 - 3
-2.  [↑](#cite_ref-Ch1Pg2_-_4_2-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Pages 2 - 4
-3.  [↑](#cite_ref-Ch1Pg4_3-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Page 4
+1.  [↑](#cite_ref-Ch1Pg2_-_3_1-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Pages 2 - 3
+2.  [↑](#cite_ref-Ch1Pg2_-_4_2-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Pages 2 - 4
+3.  [↑](#cite_ref-Ch1Pg4_3-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Page 4

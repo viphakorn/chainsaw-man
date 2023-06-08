@@ -1,11 +1,12 @@
 ---
-titile: Bucky
+name: Bucky
 image: https://static.wikia.nocookie.net/chainsaw-man/images/e/eb/Bucky.png
+slug: bucky
 ---
 
 # Bucky
 
-[![](https://static.wikia.nocookie.net/chainsaw-man/images/e/eb/Bucky.png/revision/latest/scale-to-width-down/350?cb=20220827182920)](https://static.wikia.nocookie.net/chainsaw-man/images/e/eb/Bucky.png/revision/latest?cb=20220827182920)
+![](https://static.wikia.nocookie.net/chainsaw-man/images/e/eb/Bucky.png "Bucky.png")
 
 ## Name
 
@@ -19,7 +20,7 @@ image: https://static.wikia.nocookie.net/chainsaw-man/images/e/eb/Bucky.png
 
 ### Species
 
-[Devil](/wiki/Devil "Devil")
+[Devil](/devil "Devil")
 
 ### Gender
 
@@ -37,10 +38,10 @@ Class Pet
 
 ### Manga Debut
 
-[Chapter 98](/wiki/Chapter_98 "Chapter 98")
+[Chapter 98](/chapter-98 "Chapter 98")
 
   
-**Bucky** (コケピー, _Kokepī_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), is the **Chicken Devil** (<ruby lang="ja"><rb>鶏</rb><rp> (</rp><rt>にわとり</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Niwatori no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), a [Devil](/wiki/Devil "Devil") that embodies the fear of chickens.
+**Bucky** (コケピー, _Kokepī_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), is the **Chicken Devil** (<ruby lang="ja"><rb>鶏</rb><rp> (</rp><rt>にわとり</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Niwatori no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), a [Devil](/devil "Devil") that embodies the fear of chickens.
 
 ## Contents
 
@@ -53,7 +54,6 @@ Class Pet
 -   [5 Chapter Appearances](#Chapter_Appearances)
 -   [6 Trivia](#Trivia)
 -   [7 References](#References)
--   [8 Site Navigation](#Site_Navigation)
 
 ## Appearance
 
@@ -67,19 +67,19 @@ Bucky has a cheerful personality, constantly joking and trying to get along with
 
 ### History
 
-At some point, [Tanaka](/wiki/Tanaka "Tanaka") captured or otherwise acquired Bucky to become a class pet.
+At some point, [Tanaka](/tanaka "Tanaka") captured or otherwise acquired Bucky to become a class pet.
 
-### [Justice Devil arc](/wiki/Justice_Devil_arc "Justice Devil arc")
+### [Justice Devil arc](/justice-devil-arc "Justice Devil arc")
 
-At Fourth East High School, [Mr. Tanaka](/wiki/Tanaka "Tanaka") presents Bucky as a class pet, telling the students that in 3 months, they would kill and eat him. Over time, Bucky became a beloved pet to the class, and at the deadline of his death, they refused to kill him, despite him being a Devil, to Tanaka's elation, saying the real lesson was to value all life. [Asa Mitaka](/wiki/Asa_Mitaka "Asa Mitaka") tried to carry him to join in at recess due to him remembering her name, giving her clarity that the class does care for her. However, Asa trips and falls on top of Bucky, collapsing his torso and exposing his entrails. Bucky would be buried in a grave, and Asa became a victim of her classmates' bullying due to this incident. Afterward, it was revealed that the [Class President](/wiki/Class_President "Class President") tripped Asa under orders from the [Justice Devil](/wiki/Justice_Devil "Justice Devil"), and make Asa take all the blame for Bucky's death.[\[1\]](#cite_note-Ch98-1)
+At Fourth East High School, [Mr. Tanaka](/tanaka "Tanaka") presents Bucky as a class pet, telling the students that in 3 months, they would kill and eat him. Over time, Bucky became a beloved pet to the class, and at the deadline of his death, they refused to kill him, despite him being a Devil, to Tanaka's elation, saying the real lesson was to value all life. [Asa Mitaka](/asa-mitaka "Asa Mitaka") tried to carry him to join in at recess due to him remembering her name, giving her clarity that the class does care for her. However, Asa trips and falls on top of Bucky, collapsing his torso and exposing his entrails. Bucky would be buried in a grave, and Asa became a victim of her classmates' bullying due to this incident. Afterward, it was revealed that the [Class President](/class-president "Class President") tripped Asa under orders from the [Justice Devil](/justice-devil "Justice Devil"), and make Asa take all the blame for Bucky's death.[\[1\]](#cite_note-Ch98-1)
 
 ## Abilities
 
-As a Devil, the Chicken Devil possesses all of the standard [Devil abilities](/wiki/Devil#General_Abilities "Devil"). However, since chickens are not very frightening to humans, Bucky is not very strong, showing no unique abilities. Unlike the superficially similar [Pig](/wiki/Pig_Devil "Pig Devil") and [Fish Devils](/wiki/Fish_Devil "Fish Devil"), Bucky has a normal human-level intelligence and the capacity for speech which allows him to interact with humans.
+As a Devil, the Chicken Devil possesses all of the standard [Devil abilities](/devil#general-abilities "Devil"). However, since chickens are not very frightening to humans, Bucky is not very strong, showing no unique abilities. Unlike the superficially similar [Pig](/pig-devil "Pig Devil") and [Fish Devils](/fish-devil "Fish Devil"), Bucky has a normal human-level intelligence and the capacity for speech which allows him to interact with humans.
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Justice_Devil_arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/wiki/Chapter_98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/wiki/Chapter_99" title="Chapter 99">Two Birds</a></td><td><span>Absent</span></td></tr><tr><td>100. <a href="/wiki/Chapter_100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Absent</span></td></tr><tr><td>101. <a href="/wiki/Chapter_101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Absent</span></td></tr><tr><td>102. <a href="/wiki/Chapter_102" title="Chapter 102">Save the Cat</a></td><td><span>Absent</span></td></tr><tr><td>103. <a href="/wiki/Chapter_103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/wiki/Chapter_104" title="Chapter 104">Spoiler</a></td><td><span>Absent</span></td></tr><tr><td>105. <a href="/wiki/Chapter_105" title="Chapter 105">Red Hot</a></td><td><span>Absent</span></td></tr><tr><td>106. <a href="/wiki/Chapter_106" title="Chapter 106">Bonfire</a></td><td><span>Absent</span></td></tr><tr><td>107. <a href="/wiki/Chapter_107" title="Chapter 107">School Attacker</a></td><td><span>Absent</span></td></tr><tr><td>108. <a href="/wiki/Chapter_108" title="Chapter 108">Something Important to Asa</a></td><td><span>Absent</span></td></tr><tr><td>109. <a href="/wiki/Chapter_109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Absent</span></td></tr><tr><td>110. <a href="/wiki/Chapter_110" title="Chapter 110">A Ring in the Night</a></td><td><span>Absent</span></td></tr><tr><td>111. <a href="/wiki/Chapter_111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/justice-devil-arc" title="Justice Devil arc"><span>Justice Devil arc</span></a></center></th></tr><tr><td>98. <a href="/chapter-98" title="Chapter 98">Bird &amp; War</a></td><td><span>Debut</span></td></tr><tr><td>99. <a href="/chapter-99" title="Chapter 99">Two Birds</a></td><td><span>Absent</span></td></tr><tr><td>100. <a href="/chapter-100" title="Chapter 100">How to Walk Shoeless</a></td><td><span>Absent</span></td></tr><tr><td>101. <a href="/chapter-101" title="Chapter 101">Afterschool Devil Hunters</a></td><td><span>Absent</span></td></tr><tr><td>102. <a href="/chapter-102" title="Chapter 102">Save the Cat</a></td><td><span>Absent</span></td></tr><tr><td>103. <a href="/chapter-103" title="Chapter 103">Denji Dream</a></td><td><span>Absent</span></td></tr><tr><td>104. <a href="/chapter-104" title="Chapter 104">Spoiler</a></td><td><span>Absent</span></td></tr><tr><td>105. <a href="/chapter-105" title="Chapter 105">Red Hot</a></td><td><span>Absent</span></td></tr><tr><td>106. <a href="/chapter-106" title="Chapter 106">Bonfire</a></td><td><span>Absent</span></td></tr><tr><td>107. <a href="/chapter-107" title="Chapter 107">School Attacker</a></td><td><span>Absent</span></td></tr><tr><td>108. <a href="/chapter-108" title="Chapter 108">Something Important to Asa</a></td><td><span>Absent</span></td></tr><tr><td>109. <a href="/chapter-109" title="Chapter 109">The Easy Way to Stop Bullying</a></td><td><span>Absent</span></td></tr><tr><td>110. <a href="/chapter-110" title="Chapter 110">A Ring in the Night</a></td><td><span>Absent</span></td></tr><tr><td>111. <a href="/chapter-111" title="Chapter 111">Aha Ha Ha Ha</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Trivia
 
@@ -88,4 +88,4 @@ As a Devil, the Chicken Devil possesses all of the standard [Devil abilities](/w
 
 ## References
 
-1.  [↑](#cite_ref-Ch98_1-0) Chainsaw Man Manga: [Chapter 98](/wiki/Chapter_98 "Chapter 98")
+1.  [↑](#cite_ref-Ch98_1-0) Chainsaw Man Manga: [Chapter 98](/chapter-98 "Chapter 98")

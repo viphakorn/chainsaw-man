@@ -1,13 +1,14 @@
 ---
-titile: Zombie Devil
+name: Zombie Devil
 image: https://static.wikia.nocookie.net/chainsaw-man/images/e/e0/Zombie_Devil_anime.png
+slug: zombie-devil
 ---
 
 # Zombie Devil
 
-[![Anime](https://static.wikia.nocookie.net/chainsaw-man/images/e/e0/Zombie_Devil_anime.png/revision/latest/scale-to-width-down/340?cb=20221012133524)](https://static.wikia.nocookie.net/chainsaw-man/images/e/e0/Zombie_Devil_anime.png/revision/latest?cb=20221012133524 "Anime")
+![Anime](https://static.wikia.nocookie.net/chainsaw-man/images/e/e0/Zombie_Devil_anime.png "Zombie Devil anime.png")
 
-[![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/9/98/Zombie_Devil.png/revision/latest/scale-to-width-down/340?cb=20220806080733)](https://static.wikia.nocookie.net/chainsaw-man/images/9/98/Zombie_Devil.png/revision/latest?cb=20220806080733 "Manga")
+![Manga](https://static.wikia.nocookie.net/chainsaw-man/images/9/98/Zombie_Devil.png "Zombie Devil.png")
 
 ## Name
 
@@ -23,7 +24,7 @@ Zonbi no Akuma
 
 ### Species
 
-[Devil](/wiki/Devil "Devil")
+[Devil](/devil "Devil")
 
 ### Gender
 
@@ -52,7 +53,7 @@ Contract Devil for the Yakuza
 ### Affiliation
 
 -   Yakuza (formerly)
--   [Makima](/wiki/Makima "Makima") (brainwashed)
+-   [Makima](/makima "Makima") (brainwashed)
 
 ### Contracted Humans
 
@@ -62,11 +63,11 @@ Various Yakuza
 
 ### Manga Debut
 
-[Chapter 1](/wiki/Chapter_1 "Chapter 1")
+[Chapter 1](/chapter-1 "Chapter 1")
 
 ### Anime Debut
 
-[Episode 1](/wiki/Episode_1 "Episode 1")
+[Episode 1](/episode-1 "Episode 1")
 
 ## Portrayal
 
@@ -78,9 +79,9 @@ Various Yakuza
 
 [Linda Young](http://en.wikipedia.org/wiki/Linda_Young "wikipedia:Linda Young")
 
-[Image Gallery](/wiki/Zombie_Devil/Image_Gallery "Zombie Devil/Image Gallery")
+[Image Gallery](/zombie-devil/image-gallery "Zombie Devil/Image Gallery")
 
-The **Zombie Devil** (ゾンビの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Zonbi no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/wiki/Devil "Devil") who embodies the fear of zombies. He is a minor antagonist, who turned various Yakuza into zombies and attempted to kill [Denji](/wiki/Denji "Denji").
+The **Zombie Devil** (ゾンビの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あく</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> , _Zonbi no Akuma_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is a [devil](/devil "Devil") who embodies the fear of zombies. He is a minor antagonist, who turned various Yakuza into zombies and attempted to kill [Denji](/denji "Denji").
 
 ## Contents
 
@@ -95,11 +96,10 @@ The **Zombie Devil** (ゾンビの<ruby lang="ja"><rb>悪</rb><rp> (</rp><rt>あ
 -   [5 Chapter Appearances](#Chapter_Appearances)
 -   [6 Trivia](#Trivia)
 -   [7 References](#References)
--   [8 Site Navigation](#Site_Navigation)
 
 ## Appearance
 
-The Zombie Devil takes the form of a giant floating limbless torso with multiple exposed organs including a brain from which tentacles emerge to connect him to zombies within his horde. A large human-like face emerges from the right side of the devil's torso unconnected to where its head should be.[\[1\]](#cite_note-Ch1Pg22-1) During the fight with [Denji](/wiki/Denji "Denji"), he loses his right Eye and is later cut into two halves.
+The Zombie Devil takes the form of a giant floating limbless torso with multiple exposed organs including a brain from which tentacles emerge to connect him to zombies within his horde. A large human-like face emerges from the right side of the devil's torso unconnected to where its head should be.[\[1\]](#cite_note-Ch1Pg22-1) During the fight with [Denji](/denji "Denji"), he loses his right Eye and is later cut into two halves.
 
 ## Personality
 
@@ -107,23 +107,23 @@ The Zombie Devil has a greater hatred towards humans, particularly towards devil
 
 ## Plot
 
-### [Intro arc](/wiki/Intro_arc "Intro arc")
+### [Intro arc](/intro-arc "Intro arc")
 
-The Zombie Devil made a deal with a mafia group to lend them his power, but since his power turns people into zombies, they became his servants. He then called [Denji](/wiki/Denji "Denji") to an abandoned building and made his new zombies kill him, since he hates [devil hunters](/wiki/Devil_Hunter "Devil Hunter").[\[4\]](#cite_note-Ch1Pg18_-_25-4)
+The Zombie Devil made a deal with a mafia group to lend them his power, but since his power turns people into zombies, they became his servants. He then called [Denji](/denji "Denji") to an abandoned building and made his new zombies kill him, since he hates [devil hunters](/devil-hunter "Devil Hunter").[\[4\]](#cite_note-Ch1Pg18_-_25-4)
 
 When Denji came back to life, he was surprised that he still lived and told his zombies to eat him. As Denji transformed into Chainsaw Man, he minced his zombies. The Zombie Devil thought that the smaller devil took over his body and that he should be one of them, but Denji launched towards him and “killed” him by jamming his chainsaw into the Zombie Devil's head.[\[5\]](#cite_note-Ch1Pg37_-_45-5)
 
-### [Katana Man arc](/wiki/Katana_Man_arc "Katana Man arc")
+### [Katana Man arc](/katana-man-arc "Katana Man arc")
 
-Despite being killed by Denji, the Zombie Devil's creations continued to exist as a threat, implying that he is still alive, presumably under Makima's control. An army of zombies was left behind by the mafia group and were used by [Katana Man](/wiki/Katana_Man "Katana Man") and [Akane Sawatari](/wiki/Akane_Sawatari "Akane Sawatari") to attack the [fourth division](/wiki/Tokyo_Special_Division_4 "Tokyo Special Division 4").[\[6\]](#cite_note-Ch32Pg18_-_19-6)
+Despite being killed by Denji, the Zombie Devil's creations continued to exist as a threat, implying that he is still alive, presumably under Makima's control. An army of zombies was left behind by the mafia group and were used by [Katana Man](/katana-man "Katana Man") and [Akane Sawatari](/akane-sawatari "Akane Sawatari") to attack the [fourth division](/tokyo-special-division-4 "Tokyo Special Division 4").[\[6\]](#cite_note-Ch32Pg18_-_19-6)
 
-### [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc")
+### [Control Devil arc](/control-devil-arc "Control Devil arc")
 
-The Zombie Devil is summoned by [Makima](/wiki/Makima "Makima") while [Power](/wiki/Power "Power") is trying to escape with Denji from her. Thanks to his ability, Makima is able to turn Devil Hunters under her control into zombies.
+The Zombie Devil is summoned by [Makima](/makima "Makima") while [Power](/power "Power") is trying to escape with Denji from her. Thanks to his ability, Makima is able to turn Devil Hunters under her control into zombies.
 
 ## Abilities
 
-As a Devil, the Zombie Devil possesses all of the standard [devil abilities](/wiki/Devil#General_Abilities "Devil"), such the ability to make contracts with humans for a price. Since zombies are common horror monsters in movies and pop culture, it can be assumed that he is quite powerful.
+As a Devil, the Zombie Devil possesses all of the standard [devil abilities](/devil#general-abilities "Devil"), such the ability to make contracts with humans for a price. Since zombies are common horror monsters in movies and pop culture, it can be assumed that he is quite powerful.
 
 The only known contract is the one with the [japanese mafia](http://en.wikipedia.org/wiki/Yakuza "wikipedia:Yakuza"). In exchange for an unknown price, the Zombie Devil agreed to lend his power to the Yakuza. However since his power is to turn people into zombies, they ended up becoming zombies themselves.
 
@@ -134,19 +134,19 @@ The only known contract is the one with the [japanese mafia](http://en.wikipedia
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Intro_arc" title="Intro arc"><span>Intro arc</span></a></center></th></tr><tr><td>1. <a href="/wiki/Chapter_1" title="Chapter 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/wiki/Chapter_2" title="Chapter 2">The Place Where Pochita Is</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/wiki/Chapter_3" title="Chapter 3">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/wiki/Chapter_4" title="Chapter 4">Power</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/intro-arc" title="Intro arc"><span>Intro arc</span></a></center></th></tr><tr><td>1. <a href="/chapter-1" title="Chapter 1">Dog &amp; Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>2. <a href="/chapter-2" title="Chapter 2">The Place Where Pochita Is</a></td><td><span>Absent</span></td></tr><tr><td>3. <a href="/chapter-3" title="Chapter 3">Arrival in Tokyo</a></td><td><span>Absent</span></td></tr><tr><td>4. <a href="/chapter-4" title="Chapter 4">Power</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Trivia
 
--   Zombie Devil's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
+-   Zombie Devil's rankings in the [Popularity Polls](/popularity-polls "Popularity Polls") are as follows:
     -   Zombie Devil ranked 78th in the First Popularity Poll with 32 votes.
 
 ## References
 
-1.  ↑ [1.0](#cite_ref-Ch1Pg22_1-0) [1.1](#cite_ref-Ch1Pg22_1-1) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Page 22
-2.  [↑](#cite_ref-Ch1Pg22_-_23_2-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Pages 22 - 23
-3.  [↑](#cite_ref-Ch1Pg24_3-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Page 24
-4.  [↑](#cite_ref-Ch1Pg18_-_25_4-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Pages 18 - 25
-5.  [↑](#cite_ref-Ch1Pg37_-_45_5-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Pages 37 - 45
-6.  ↑ [6.0](#cite_ref-Ch32Pg18_-_19_6-0) [6.1](#cite_ref-Ch32Pg18_-_19_6-1) Chainsaw Man Manga: [Chapter 32](/wiki/Chapter_32 "Chapter 32"), Pages 18 - 19
-7.  [↑](#cite_ref-Ch1Pg13_7-0) Chainsaw Man Manga: [Chapter 1](/wiki/Chapter_1 "Chapter 1"), Page 13
+1.  ↑ [1.0](#cite_ref-Ch1Pg22_1-0) [1.1](#cite_ref-Ch1Pg22_1-1) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Page 22
+2.  [↑](#cite_ref-Ch1Pg22_-_23_2-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Pages 22 - 23
+3.  [↑](#cite_ref-Ch1Pg24_3-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Page 24
+4.  [↑](#cite_ref-Ch1Pg18_-_25_4-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Pages 18 - 25
+5.  [↑](#cite_ref-Ch1Pg37_-_45_5-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Pages 37 - 45
+6.  ↑ [6.0](#cite_ref-Ch32Pg18_-_19_6-0) [6.1](#cite_ref-Ch32Pg18_-_19_6-1) Chainsaw Man Manga: [Chapter 32](/chapter-32 "Chapter 32"), Pages 18 - 19
+7.  [↑](#cite_ref-Ch1Pg13_7-0) Chainsaw Man Manga: [Chapter 1](/chapter-1 "Chapter 1"), Page 13

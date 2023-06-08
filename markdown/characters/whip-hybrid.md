@@ -1,18 +1,19 @@
 ---
-titile: Whip Hybrid
+name: Whip Hybrid
 image: https://static.wikia.nocookie.net/chainsaw-man/images/6/69/Whip_Hybrid_%28Human_Form%29.png
+slug: whip-hybrid
 ---
 
 # Whip Hybrid
 
-[![](https://static.wikia.nocookie.net/chainsaw-man/images/6/69/Whip_Hybrid_%28Human_Form%29.png/revision/latest/scale-to-width-down/350?cb=20220814180713)](https://static.wikia.nocookie.net/chainsaw-man/images/6/69/Whip_Hybrid_%28Human_Form%29.png/revision/latest?cb=20220814180713)
+![](https://static.wikia.nocookie.net/chainsaw-man/images/6/69/Whip_Hybrid_%28Human_Form%29.png "Whip Hybrid (Human Form).png")
 
 ## Biological Information
 
 ### Species
 
 Human (formerly)  
-[Hybrid](/wiki/Hybrid "Hybrid")
+[Hybrid](/hybrid "Hybrid")
 
 ### Gender
 
@@ -28,25 +29,25 @@ Unknown
 
 ### Occupation
 
-[Private Devil Hunter](/wiki/Devil_Hunter#Private_Sector_Devil_Hunters "Devil Hunter") (brainwashed)
+[Private Devil Hunter](/devil-hunter#private-sector-devil-hunters "Devil Hunter") (brainwashed)
 
 ### Affiliation
 
--   [Makima](/wiki/Makima "Makima") (brainwashed)
-    -   [Tokyo Special Division 5](/wiki/Tokyo_Special_Division_5 "Tokyo Special Division 5")
+-   [Makima](/makima "Makima") (brainwashed)
+    -   [Tokyo Special Division 5](/tokyo-special-division-5 "Tokyo Special Division 5")
 
 ## First Appearance
 
 ### Manga Debut
 
-[Chapter 86](/wiki/Chapter_86 "Chapter 86")
+[Chapter 86](/chapter-86 "Chapter 86")
 
-[Image Gallery](/wiki/Whip_Hybrid/Image_Gallery "Whip Hybrid/Image Gallery")
+[Image Gallery](/whip-hybrid/image-gallery "Whip Hybrid/Image Gallery")
 
-> "_There's no point for [you](/wiki/Spear_Hybrid "Spear Hybrid") to win, then.  
-> If you ask [Makima](/wiki/Makima "Makima") out, all you'll get is misery._"
+> "_There's no point for [you](/spear-hybrid "Spear Hybrid") to win, then.  
+> If you ask [Makima](/makima "Makima") out, all you'll get is misery._"
 
-**Whip Hybrid** (_real name unknown_) is a human-devil [hybrid](/wiki/Hybrid "Hybrid") that merged with the Whip Devil and serves as a minor antagonist in the [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc"), where she faces the [Chainsaw Devil](/wiki/Pochita "Pochita").
+**Whip Hybrid** (_real name unknown_) is a human-devil [hybrid](/hybrid "Hybrid") that merged with the Whip Devil and serves as a minor antagonist in the [Control Devil arc](/control-devil-arc "Control Devil arc"), where she faces the [Chainsaw Devil](/pochita "Pochita").
 
 ## Contents
 
@@ -61,7 +62,6 @@ Unknown
 -   [5 Chapter Appearances](#Chapter_Appearances)
 -   [6 Trivia](#Trivia)
 -   [7 References](#References)
--   [8 Site Navigation](#Site_Navigation)
 
 ## Appearance
 
@@ -83,13 +83,13 @@ The Whip Hybrid's real personality is currently unknown, as she was brainwashed 
 
 ## Plot
 
-### [Control Devil arc](/wiki/Control_Devil_arc "Control Devil arc")
+### [Control Devil arc](/control-devil-arc "Control Devil arc")
 
-At an unknown point in time, the Whip Hybrid was brainwashed by Makima to serve her needs. She is summoned as part of Makima's newly-formed [Special Division 5](/wiki/Tokyo_Special_Division_5 "Tokyo Special Division 5"), a team of weapon hybrids created for the sole purpose of battling the fully-powered [Chainsaw Devil](/wiki/Chainsaw_Devil "Chainsaw Devil").[\[1\]](#cite_note-Ch86Pg14-15-1) While under Makima's control, the Whip Hybrid tells the [Spear Hybrid](/wiki/Spear_Hybrid "Spear Hybrid") that trying to win Makima's affection will only bring him misery.[\[2\]](#cite_note-Ch86Pg17-2)
+At an unknown point in time, the Whip Hybrid was brainwashed by Makima to serve her needs. She is summoned as part of Makima's newly-formed [Special Division 5](/tokyo-special-division-5 "Tokyo Special Division 5"), a team of weapon hybrids created for the sole purpose of battling the fully-powered [Chainsaw Devil](/chainsaw-devil "Chainsaw Devil").[\[1\]](#cite_note-Ch86Pg14-15-1) While under Makima's control, the Whip Hybrid tells the [Spear Hybrid](/spear-hybrid "Spear Hybrid") that trying to win Makima's affection will only bring him misery.[\[2\]](#cite_note-Ch86Pg17-2)
 
 Once Makima commands Special Division 5 to attack, each member activates their weapon trigger, transforming into their Hybrid forms. They all leap from their respective spots to lunge straight towards Chainsaw Man. Before any of the Hybrids can land a single blow on him, they are all blown back by Chainsaw Man leaping forward from the building he stood on to initiate the fight.[\[3\]](#cite_note-Ch87Pg4-9-3)
 
-The Whip Hybrid later attacks Chainsaw Man from behind using a whiplash, after he escapes being engulfed in an explosion caused by the [Flamethrower Hybrid](/wiki/Flamethrower_Hybrid "Flamethrower Hybrid"). However, their skirmish is interrupted by [Reze](/wiki/Reze "Reze") blasting her way through the building they're standing on to snatch Chainsaw Man away.[\[4\]](#cite_note-Ch88Pg3-4-4) She is eventually torn to shreds alongside the remaining Special Division 5 members after Chainsaw Man withstands their combined attack of sending him into space.[\[5\]](#cite_note-Ch88Pg5-17-5)
+The Whip Hybrid later attacks Chainsaw Man from behind using a whiplash, after he escapes being engulfed in an explosion caused by the [Flamethrower Hybrid](/flamethrower-hybrid "Flamethrower Hybrid"). However, their skirmish is interrupted by [Reze](/reze "Reze") blasting her way through the building they're standing on to snatch Chainsaw Man away.[\[4\]](#cite_note-Ch88Pg3-4-4) She is eventually torn to shreds alongside the remaining Special Division 5 members after Chainsaw Man withstands their combined attack of sending him into space.[\[5\]](#cite_note-Ch88Pg5-17-5)
 
 At some point in the future, Special Division 5's Hybrids are revived once more by Makima, who brings them all to a graveyard to confront Denji.[\[6\]](#cite_note-Ch93Pg12-13-6) Once Makima finishes monologuing her thoughts of erasing anything she dislikes to Pochita (who is disguised as Denji), the Whip Hybrid and the other Weapon Humans transform into their Hybrid forms for the final battle.[\[7\]](#cite_note-Ch93Pg18-19-7)
 
@@ -107,21 +107,21 @@ During this confrontation, the Whip Hybrid and Reze attempt to attack Pochita fr
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/Control_Devil_arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/wiki/Chapter_80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/wiki/Chapter_81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/wiki/Chapter_82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/wiki/Chapter_83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/wiki/Chapter_84" title="Chapter 84">Hero Of Hell</a></td><td><span>Absent</span></td></tr><tr><td>85. <a href="/wiki/Chapter_85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/wiki/Chapter_86" title="Chapter 86">Date Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>87. <a href="/wiki/Chapter_87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>88. <a href="/wiki/Chapter_88" title="Chapter 88">Star Chainsaw</a></td><td><span>Appears</span></td></tr><tr><td>89. <a href="/wiki/Chapter_89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/wiki/Chapter_90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/wiki/Chapter_91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/wiki/Chapter_92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/wiki/Chapter_93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Appears</span></td></tr><tr><td>94. <a href="/wiki/Chapter_94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>95. <a href="/wiki/Chapter_95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/wiki/Chapter_96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/wiki/Chapter_97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/control-devil-arc" title="Control Devil arc"><span>Control Devil arc</span></a></center></th></tr><tr><td>80. <a href="/chapter-80" title="Chapter 80">A Dog's Feelings</a></td><td><span>Absent</span></td></tr><tr><td>81. <a href="/chapter-81" title="Chapter 81">Paw</a></td><td><span>Absent</span></td></tr><tr><td>82. <a href="/chapter-82" title="Chapter 82">Always Eat A Hearty Breakfast</a></td><td><span>Absent</span></td></tr><tr><td>83. <a href="/chapter-83" title="Chapter 83">Death, Resurrection, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>84. <a href="/chapter-84" title="Chapter 84">Hero Of Hell</a></td><td><span>Absent</span></td></tr><tr><td>85. <a href="/chapter-85" title="Chapter 85">Bloody Good Gut Feeling</a></td><td><span>Absent</span></td></tr><tr><td>86. <a href="/chapter-86" title="Chapter 86">Date Chainsaw</a></td><td><span>Debut</span></td></tr><tr><td>87. <a href="/chapter-87" title="Chapter 87">Chainsaw Man vs. the Horrifying Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>88. <a href="/chapter-88" title="Chapter 88">Star Chainsaw</a></td><td><span>Appears</span></td></tr><tr><td>89. <a href="/chapter-89" title="Chapter 89">Go Get 'Em, Chainsaw Man</a></td><td><span>Absent</span></td></tr><tr><td>90. <a href="/chapter-90" title="Chapter 90">Super Power</a></td><td><span>Absent</span></td></tr><tr><td>91. <a href="/chapter-91" title="Chapter 91">Power, Power, Power</a></td><td><span>Absent</span></td></tr><tr><td>92. <a href="/chapter-92" title="Chapter 92">Zombie, Blood, Chainsaw</a></td><td><span>Absent</span></td></tr><tr><td>93. <a href="/chapter-93" title="Chapter 93">You &amp; Crappy Movies</a></td><td><span>Appears</span></td></tr><tr><td>94. <a href="/chapter-94" title="Chapter 94">Chainsaw Man vs. the Weapon Humans</a></td><td><span>Appears</span></td></tr><tr><td>95. <a href="/chapter-95" title="Chapter 95">Chainsaw Man vs. Control Devil</a></td><td><span>Absent</span></td></tr><tr><td>96. <a href="/chapter-96" title="Chapter 96">This Kind of Taste</a></td><td><span>Absent</span></td></tr><tr><td>97. <a href="/chapter-97" title="Chapter 97">I, Love, Chainsaw</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## Trivia
 
--   The Whip Hybrid's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
+-   The Whip Hybrid's rankings in the [Popularity Polls](/popularity-polls "Popularity Polls") are as follows:
     -   The Whip Hybrid ranked 49th in the Second Popularity Poll with 464 votes.
 -   Despite having slightly dark brown hair when colored, she oddly lacked the [screentoning](https://en.wikipedia.org/wiki/Screentone) that is used for characters of that shade which lead to confusion on her hair color.
 
 ## References
 
-1.  [↑](#cite_ref-Ch86Pg14-15_1-0) Chainsaw Man Manga: [Chapter 86](/wiki/Chapter_86 "Chapter 86"), Pages 14-15
-2.  [↑](#cite_ref-Ch86Pg17_2-0) Chainsaw Man Manga: [Chapter 86](/wiki/Chapter_86 "Chapter 86"), Page 17
-3.  [↑](#cite_ref-Ch87Pg4-9_3-0) Chainsaw Man Manga: [Chapter 87](/wiki/Chapter_87 "Chapter 87"), Pages 4-9
-4.  [↑](#cite_ref-Ch88Pg3-4_4-0) Chainsaw Man Manga: [Chapter 88](/wiki/Chapter_88 "Chapter 88"), Pages 3-4
-5.  [↑](#cite_ref-Ch88Pg5-17_5-0) Chainsaw Man Manga: [Chapter 88](/wiki/Chapter_88 "Chapter 88"), Pages 5-17
-6.  [↑](#cite_ref-Ch93Pg12-13_6-0) Chainsaw Man Manga: [Chapter 93](/wiki/Chapter_93 "Chapter 93"), Pages 12-13
-7.  [↑](#cite_ref-Ch93Pg18-19_7-0) Chainsaw Man Manga: [Chapter 93](/wiki/Chapter_93 "Chapter 93"), Pages 18-19
-8.  [↑](#cite_ref-Ch94Pg8-9_8-0) Chainsaw Man Manga: [Chapter 94](/wiki/Chapter_94 "Chapter 94"), Pages 8-9
+1.  [↑](#cite_ref-Ch86Pg14-15_1-0) Chainsaw Man Manga: [Chapter 86](/chapter-86 "Chapter 86"), Pages 14-15
+2.  [↑](#cite_ref-Ch86Pg17_2-0) Chainsaw Man Manga: [Chapter 86](/chapter-86 "Chapter 86"), Page 17
+3.  [↑](#cite_ref-Ch87Pg4-9_3-0) Chainsaw Man Manga: [Chapter 87](/chapter-87 "Chapter 87"), Pages 4-9
+4.  [↑](#cite_ref-Ch88Pg3-4_4-0) Chainsaw Man Manga: [Chapter 88](/chapter-88 "Chapter 88"), Pages 3-4
+5.  [↑](#cite_ref-Ch88Pg5-17_5-0) Chainsaw Man Manga: [Chapter 88](/chapter-88 "Chapter 88"), Pages 5-17
+6.  [↑](#cite_ref-Ch93Pg12-13_6-0) Chainsaw Man Manga: [Chapter 93](/chapter-93 "Chapter 93"), Pages 12-13
+7.  [↑](#cite_ref-Ch93Pg18-19_7-0) Chainsaw Man Manga: [Chapter 93](/chapter-93 "Chapter 93"), Pages 18-19
+8.  [↑](#cite_ref-Ch94Pg8-9_8-0) Chainsaw Man Manga: [Chapter 94](/chapter-94 "Chapter 94"), Pages 8-9

@@ -1,11 +1,12 @@
 ---
-titile: Cosmo
+name: Cosmo
 image: https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Cosmo.png
+slug: cosmo
 ---
 
 # Cosmo
 
-[![](https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Cosmo.png/revision/latest?cb=20220827192741)](https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Cosmo.png/revision/latest?cb=20220827192741)
+![](https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Cosmo.png "Cosmo.png")
 
 ## Name
 
@@ -19,7 +20,7 @@ image: https://static.wikia.nocookie.net/chainsaw-man/images/9/9c/Cosmo.png
 
 ### Species
 
-[Fiend](/wiki/Fiend "Fiend")
+[Fiend](/fiend "Fiend")
 
 ### Gender
 
@@ -27,7 +28,7 @@ Female
 
 ### Birthplace
 
-[China](/wiki/World#China "World")
+[China](/world#china "World")
 
 ### Status
 
@@ -35,28 +36,28 @@ Female
 
 ### Occupation
 
-[Private Devil Hunter](/wiki/Devil_Hunter#Private_Sector_Devil_Hunters "Devil Hunter")
+[Private Devil Hunter](/devil-hunter#private-sector-devil-hunters "Devil Hunter")
 
 ### Affiliation
 
-[Quanxi and the Fiends](/wiki/Quanxi_and_the_Fiends "Quanxi and the Fiends")
+[Quanxi and the Fiends](/quanxi-and-the-fiends "Quanxi and the Fiends")
 
 ### Relatives
 
-[Quanxi](/wiki/Quanxi "Quanxi") (girlfriend)  
-[Pingtsi](/wiki/Pingtsi "Pingtsi") (girlfriend) †  
-[Long](/wiki/Long "Long") (girlfriend) †  
-[Tsugihagi](/wiki/Tsugihagi "Tsugihagi") (girlfriend) †
+[Quanxi](/quanxi "Quanxi") (girlfriend)  
+[Pingtsi](/pingtsi "Pingtsi") (girlfriend) †  
+[Long](/long "Long") (girlfriend) †  
+[Tsugihagi](/tsugihagi "Tsugihagi") (girlfriend) †
 
 ## First Appearance
 
 ### Manga Debut
 
-[Chapter 54](/wiki/Chapter_54 "Chapter 54")
+[Chapter 54](/chapter-54 "Chapter 54")
 
 > "_Halloween!_"
 
-**Cosmo** (コスモ, _Kosumo_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is the **Cosmos [Fiend](/wiki/Fiend "Fiend")** (<ruby lang="ja"><rb>宇</rb><rp> (</rp><rt>う</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>宙</rb><rp> (</rp><rt>ちゅう</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>) </rp></ruby> , _Uchū no Majin_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), and was one of [Quanxi](/wiki/Quanxi "Quanxi")'s girlfriends and represents the fear of omniscience and gaining all knowledge of everything in the universe.
+**Cosmo** (コスモ, _Kosumo_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) is the **Cosmos [Fiend](/fiend "Fiend")** (<ruby lang="ja"><rb>宇</rb><rp> (</rp><rt>う</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>宙</rb><rp> (</rp><rt>ちゅう</rt><rp>) </rp></ruby> の<ruby lang="ja"><rb>魔</rb><rp> (</rp><rt>ま</rt><rp>) </rp></ruby> <ruby lang="ja"><rb>人</rb><rp> (</rp><rt>じん</rt><rp>) </rp></ruby> , _Uchū no Majin_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")), and was one of [Quanxi](/quanxi "Quanxi")'s girlfriends and represents the fear of omniscience and gaining all knowledge of everything in the universe.
 
 ## Contents
 
@@ -69,7 +70,6 @@ Female
 -   [5 Chapter Appearances](#Chapter_Appearances)
 -   [6 　Trivia](#_Trivia)　
 -   [7 　References](#_References)　
--   [8 　Site Navigation](#_Site_Navigation)　
 
 ## Appearance
 
@@ -79,13 +79,13 @@ Cosmo possesses a corpse with spiky pink shoulder-length hair fashioned into pig
 
 On the surface, Cosmo doesn't exhibit many emotions aside from her usual smiling, happy-go-lucky attitude. She doesn't speak except for repeating the word "Halloween" and, like the rest of Quanxi's fiends, follows Quanxi around and is in constant love with her and under her command.
 
-When Cosmo uses her powers on [Santa Claus](/wiki/Santa_Claus "Santa Claus"), the two had a conversation in Cosmo's mind, revealing her true inner personality. Here, she is capable of talking normally, conversing with Santa Claus about what's happening. She is straightforward and formal in her manner of speaking, seeming far less excitable than her outward personality. Cosmo was not particularly upset about her girlfriend's murders, explaining that she has no emotions strong enough to drive her to be upset about "the course of nature". Her true personality therefore seems more logical, detached from others, and mostly devoid of emotion.
+When Cosmo uses her powers on [Santa Claus](/santa-claus "Santa Claus"), the two had a conversation in Cosmo's mind, revealing her true inner personality. Here, she is capable of talking normally, conversing with Santa Claus about what's happening. She is straightforward and formal in her manner of speaking, seeming far less excitable than her outward personality. Cosmo was not particularly upset about her girlfriend's murders, explaining that she has no emotions strong enough to drive her to be upset about "the course of nature". Her true personality therefore seems more logical, detached from others, and mostly devoid of emotion.
 
 Her surface personality might be the result of her powers affecting her, causing her to only say "Halloween." However, unlike those she inflicts her power upon, Cosmo is still capable of understanding the speech of others and seems to be capable of thinking, as she is able to take orders and carry them out just fine.
 
 ## Plot
 
-### [International Assassins arc](/wiki/International_Assassins_arc "International Assassins arc")
+### [International Assassins arc](/international-assassins-arc "International Assassins arc")
 
 Cosmo is shown as one of Quanxi's girlfriends, alongside Pingtsi, Long, and Tsugihagi. Like the other fiends, she is loyal to Quanxi and can be seen following her around during the arc. She never says anything other than "Halloween." After Santa Claus kills Quanxi's other girlfriends besides Tsugihagi and threatens to make Quanxi one of her dolls, Quanxi tells Cosmo to give Santa Claus a taste of an all-out Halloween. Cosmo obliges, and brings Santa Claus into her mind telepathically.
 
@@ -93,7 +93,7 @@ Santa Claus observes that Cosmo intends to launch a psychological attack on her,
 
 ## Abilities
 
-As a [fiend](/wiki/Fiend "Fiend"), Cosmo can't make [contracts](/wiki/Contract "Contract"). However, she still has all the other standard [devil abilities](/wiki/Devil#General_Abilities "Devil"). As the fiend that embodies the fear of the infinite knowledge of the cosmos and outer space, the more fear people have towards gaining total understanding of everything in the universe and similar concepts, the more powerful Cosmo will become.
+As a [fiend](/fiend "Fiend"), Cosmo can't make [contracts](/contract "Contract"). However, she still has all the other standard [devil abilities](/devil#general-abilities "Devil"). As the fiend that embodies the fear of the infinite knowledge of the cosmos and outer space, the more fear people have towards gaining total understanding of everything in the universe and similar concepts, the more powerful Cosmo will become.
 
 ### Devil Powers
 
@@ -102,22 +102,18 @@ As a [fiend](/wiki/Fiend "Fiend"), Cosmo can't make [contracts](/wiki/Contract "
 
 ## Chapter Appearances
 
-<table><tbody><tr><th colspan="2"><center><a href="/wiki/International_Assassins_arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/wiki/Chapter_53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/wiki/Chapter_54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Debut</span></td></tr><tr><td>55. <a href="/wiki/Chapter_55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/wiki/Chapter_56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/wiki/Chapter_57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/wiki/Chapter_58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Appears</span></td></tr><tr><td>59. <a href="/wiki/Chapter_59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/wiki/Chapter_60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Appears</span></td></tr><tr><td>61. <a href="/wiki/Chapter_61" title="Chapter 61">News Reporter</a></td><td><span>Appears</span></td></tr><tr><td>62. <a href="/wiki/Chapter_62" title="Chapter 62">Super Mess</a></td><td><span>Absent</span></td></tr><tr><td>63. <a href="/wiki/Chapter_63" title="Chapter 63">Trip To Hell</a></td><td><span>Absent</span></td></tr><tr><td>64. <a href="/wiki/Chapter_64" title="Chapter 64">Welcome To Hell</a></td><td><span>Absent</span></td></tr><tr><td>65. <a href="/wiki/Chapter_65" title="Chapter 65">The Darkness Devil</a></td><td><span>Absent</span></td></tr><tr><td>66. <a href="/wiki/Chapter_66" title="Chapter 66">Woof!</a></td><td><span>Absent</span></td></tr><tr><td>67. <a href="/wiki/Chapter_67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/wiki/Chapter_68" title="Chapter 68">Dark Power</a></td><td><span>Absent</span></td></tr><tr><td>69. <a href="/wiki/Chapter_69" title="Chapter 69">Shining Power</a></td><td><span>Absent</span></td></tr><tr><td>70. <a href="/wiki/Chapter_70" title="Chapter 70">Pinch</a></td><td><span>Death</span></td></tr><tr><td>71. <a href="/wiki/Chapter_71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
+<table><tbody><tr><th colspan="2"><center><a href="/international-assassins-arc" title="International Assassins arc"><span>International Assassins arc</span></a></center></th></tr><tr><td>53. <a href="/chapter-53" title="Chapter 53">In a Dream</a></td><td><span>Absent</span></td></tr><tr><td>54. <a href="/chapter-54" title="Chapter 54">To Go to Enoshima</a></td><td><span>Debut</span></td></tr><tr><td>55. <a href="/chapter-55" title="Chapter 55">Let's Go</a></td><td><span>Absent</span></td></tr><tr><td>56. <a href="/chapter-56" title="Chapter 56">A Curse and A Fist</a></td><td><span>Absent</span></td></tr><tr><td>57. <a href="/chapter-57" title="Chapter 57">Suddenly</a></td><td><span>Absent</span></td></tr><tr><td>58. <a href="/chapter-58" title="Chapter 58">Yutaro Kurose</a></td><td><span>Appears</span></td></tr><tr><td>59. <a href="/chapter-59" title="Chapter 59">Mess</a></td><td><span>Appears</span></td></tr><tr><td>60. <a href="/chapter-60" title="Chapter 60">Quanxi and Fiends' 49-Person Massacre</a></td><td><span>Appears</span></td></tr><tr><td>61. <a href="/chapter-61" title="Chapter 61">News Reporter</a></td><td><span>Appears</span></td></tr><tr><td>62. <a href="/chapter-62" title="Chapter 62">Super Mess</a></td><td><span>Absent</span></td></tr><tr><td>63. <a href="/chapter-63" title="Chapter 63">Trip To Hell</a></td><td><span>Absent</span></td></tr><tr><td>64. <a href="/chapter-64" title="Chapter 64">Welcome To Hell</a></td><td><span>Absent</span></td></tr><tr><td>65. <a href="/chapter-65" title="Chapter 65">The Darkness Devil</a></td><td><span>Absent</span></td></tr><tr><td>66. <a href="/chapter-66" title="Chapter 66">Woof!</a></td><td><span>Absent</span></td></tr><tr><td>67. <a href="/chapter-67" title="Chapter 67">The First Devil Hunter</a></td><td><span>Absent</span></td></tr><tr><td>68. <a href="/chapter-68" title="Chapter 68">Dark Power</a></td><td><span>Absent</span></td></tr><tr><td>69. <a href="/chapter-69" title="Chapter 69">Shining Power</a></td><td><span>Absent</span></td></tr><tr><td>70. <a href="/chapter-70" title="Chapter 70">Pinch</a></td><td><span>Death</span></td></tr><tr><td>71. <a href="/chapter-71" title="Chapter 71">Bath</a></td><td><span>Absent</span></td></tr></tbody></table>
 
 ## 　Trivia　
 
--   Cosmo's rankings in the [Popularity Polls](/wiki/Popularity_Polls "Popularity Polls") are as follows:
+-   Cosmo's rankings in the [Popularity Polls](/popularity-polls "Popularity Polls") are as follows:
     -   Cosmo ranked 34th in the First Popularity Poll with 343 votes.
     -   Cosmo ranked 20th in the Second Popularity Poll with 3,527 votes.
--   Cosmos's name wasn't revealed before the Character Popularity Poll, in which she is referred to as **Zombie** (ゾンビ, _Zonbi_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) from [Quanxi](/wiki/Quanxi "Quanxi")'s group.
+-   Cosmos's name wasn't revealed before the Character Popularity Poll, in which she is referred to as **Zombie** (ゾンビ, _Zonbi_[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets "wikipedia:Help:Installing Japanese character sets")) from [Quanxi](/quanxi "Quanxi")'s group.
 -   Given the omniscient nature of her powers, Cosmo should be able to know and remember everything even after reincarnation. But it is unknown if her personality will also reset, as each incarnation of the same Devil is a different person.
 -   It is unknown how or why the Cosmos Devil became a fiend, as her true personality reveals that she does not care about death, accepting it as natural order that cannot be changed and was shown to be quite indifferent towards it, and unlike other devils she would not have to worry about loosing her memories as knowing everything is a natural ability of her’s.
 -   Aside from the word “cosmo” another translation for the Japanese “Uchu” part of Cosmo’s Devil/Fiend name would also be “universe” and “space.” Although her fear is more on the specific fear of gaining infinite knowledge of space rather than the more generalized aspects and concepts of space such as the reverse fear of fearing space because one doesn’t know much about it.
     -   While Cosmo’s fear seems like it would fall under or be connected too “the fear of the unknown” it is actually its direct and polar opposite given how it’s “the fear of knowing everything” which is befitting to the theme of “ignorance is bliss” in the arc she appears in.
 -   Her power is very similar to the _Jujutsu Kaisen_ character **Gojo Satoru**’s Domain Expansion ability called Infinite/Unlimited Void. While Cosmo’s power is more simplified and less powerful, Gojo’s ability is more powerful, massive in scale, easier to activate and is more complex as it makes the target know, sense, see and feel everything and nothing at the same time and puts them into catatonic and incapacitated state. However, according to the mangaka but not explicitly stated in the story, it is actually explained that the ability is just that the target is having their thoughts repeated infinite times causing the illusion of having infinite knowledge and even then the damaging effects are still the same.
 
-## 　References　
-
-## 　Site Navigation　
-
-<table align="center" cellpadding="2" cellspacing="2"><tbody><tr><th colspan="2"><center><a href="/wiki/Devil" title="Devil"><span>Devils</span></a></center></th></tr><tr><th><small><b><a href="/wiki/Devil#Primal_Devils" title="Devil"></a></b></small></th><td align="center"><a href="/wiki/Falling_Devil" title="Falling Devil">Falling Devil</a> • <a href="/wiki/Darkness_Devil" title="Darkness Devil">Darkness Devil</a></td></tr><tr><th><small><b><a href="/wiki/Devil" title="Devil"></a></b></small></th><td align="center"><a href="/wiki/Angel_Devil" title="Angel Devil">Angel Devil</a> • <a href="/wiki/Bat_Devil" title="Bat Devil">Bat Devil</a> • <a href="/wiki/Reze" title="Reze">Bomb Devil</a> • <a href="/wiki/Pochita" title="Pochita">Chainsaw Devil</a> • <a href="/wiki/Bucky" title="Bucky">Chicken Devil</a> • <a href="/wiki/Cockroach_Devil" title="Cockroach Devil">Cockroach Devil</a> • <a href="/wiki/Claw_Devil" title="Claw Devil">Claw Devil</a> • <a href="/wiki/Control_Devil" title="Control Devil">Control Devil</a> • <strong>Cosmos Devil</strong> • <a href="/wiki/Quanxi" title="Quanxi">Crossbow Devil</a> • <a href="/wiki/Curse_Devil" title="Curse Devil">Curse Devil</a> • <a href="/wiki/Doll_Devil" title="Doll Devil">Doll Devil</a> • <a href="/wiki/Eternity_Devil" title="Eternity Devil">Eternity Devil</a> • <a href="/wiki/Fami" title="Fami">Famine Devil</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Devil</a> • <a href="/wiki/Fish_Devil" title="Fish Devil">Fish Devil</a> • <a href="/wiki/Fox_Devil" title="Fox Devil">Fox Devil</a> • <a href="/wiki/Future_Devil" title="Future Devil">Future Devil</a> • <a href="/wiki/Ghost_Devil" title="Ghost Devil">Ghost Devil</a> • <a href="/wiki/Galgali" title="Galgali">Violence Devil</a> • <a href="/wiki/Grape_Devil" title="Grape Devil">Grape Devil</a> • <a href="/wiki/Gun_Devil" title="Gun Devil">Gun Devil</a> • <a href="/wiki/Hell_Devil" title="Hell Devil">Hell Devil</a> • <a href="/wiki/Justice_Devil" title="Justice Devil">Justice Devil</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Devil</a> • <a href="/wiki/Knife_Devil" title="Knife Devil">Knife Devil</a> • <a href="/wiki/Leech_Devil" title="Leech Devil">Leech Devil</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Devil</a> • <a href="/wiki/Mantis_Devil" title="Mantis Devil">Mantis Devil</a> • <a href="/wiki/Marshmallow_Devil" title="Marshmallow Devil">Marshmallow Devil</a> • <a href="/wiki/Mold_Devil" title="Mold Devil">Mold Devil</a> • <a href="/wiki/Muscle_Devil" title="Muscle Devil">Muscle Devil</a> • <a href="/wiki/Needle_Devil" title="Needle Devil">Needle Devil</a> • <a href="/wiki/Octopus_Devil" title="Octopus Devil">Octopus Devil</a> • <a href="/wiki/Pig_Devil" title="Pig Devil">Pig Devil</a> • <a href="/wiki/Punishment_Devil" title="Punishment Devil">Punishment Devil</a> • <a href="/wiki/Sea_Cucumber_Devil" title="Sea Cucumber Devil">Sea Cucumber Devil</a> • <a href="/wiki/Beam" title="Beam">Shark Devil</a> • <a href="/wiki/Skin_Devil" title="Skin Devil">Skin Devil</a> • <a href="/wiki/Snake_Devil" title="Snake Devil">Snake Devil</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Devil</a> • <a href="/wiki/Spider_Devil" title="Spider Devil">Spider Devil</a> • <a href="/wiki/Stone_Devil" title="Stone Devil">Stone Devil</a> • <a href="/wiki/Tomato_Devil" title="Tomato Devil">Tomato Devil</a> • <a href="/wiki/Typhoon_Devil" title="Typhoon Devil">Typhoon Devil</a> • <a href="/wiki/Yoru" title="Yoru">War Devil</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Devil</a> • <a href="/wiki/Zombie_Devil" title="Zombie Devil">Zombie Devil</a></td></tr><tr><th><small><b><a href="/wiki/Fiend" title="Fiend"></a></b></small></th><td align="center"><a href="/wiki/Aki_Hayakawa" title="Aki Hayakawa">Aki Hayakawa</a> • <a href="/wiki/Yoru" title="Yoru">Yoru</a> • <a href="/wiki/Asa_Mitaka" title="Asa Mitaka">Asa Mitaka</a> • <a href="/wiki/Beam" title="Beam">Beam</a> • <strong>Cosmo</strong> • <a href="/wiki/Galgali" title="Galgali">Galgali</a> • <a href="/wiki/Long" title="Long">Long</a> • <a href="/wiki/Pingtsi" title="Pingtsi">Pingtsi</a> • <a href="/wiki/Power" title="Power">Power</a> • <a href="/wiki/Tsugihagi" title="Tsugihagi">Tsugihagi</a></td></tr><tr><th><small><b><a href="/wiki/Hybrid" title="Hybrid"></a></b></small></th><td align="center"><a href="/wiki/Denji" title="Denji">Denji</a> • <a href="/wiki/Flamethrower_Hybrid" title="Flamethrower Hybrid">Flamethrower Hybrid</a> • <a href="/wiki/Katana_Man" title="Katana Man">Katana Man</a> • <a href="/wiki/Longsword_Hybrid" title="Longsword Hybrid">Longsword Hybrid</a> • <a href="/wiki/Quanxi" title="Quanxi">Quanxi</a> • <a href="/wiki/Reze" title="Reze">Reze</a> • <a href="/wiki/Spear_Hybrid" title="Spear Hybrid">Spear Hybrid</a> • <a href="/wiki/Whip_Hybrid" title="Whip Hybrid">Whip Hybrid</a></td></tr></tbody></table>
+## 　References

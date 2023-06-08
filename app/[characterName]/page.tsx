@@ -4,6 +4,7 @@ import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
 import Link from "next/link";
 import probe from "probe-image-size";
+import matter from "gray-matter";
 
 type Props = {
   params: {
@@ -14,20 +15,20 @@ type Props = {
 const getCharacterInfo = (characterName: string) => {
   const folder = "markdown/characters/";
   const file = `${folder}${characterName}.md`;
-  const content = fs.readFileSync(file, "utf8");
-  return content;
+  const markdown = fs.readFileSync(file, "utf8");
+  const { data, content } = matter(markdown);
+  return { data, content };
 };
 
 const components = {
   img: async (props: any) => {
-    const imageSize = await probe(props.src.replace(/\/revision\/.*$/, ""));
+    // const imageSize = await probe(props.src.replace(/\/revision\/.*$/, ""));
 
     return (
       <img
         {...props}
         src={props.src.replace(/\/revision\/.*$/, "")}
-        // width={imageSize.width}
-        // height={imageSize.height}
+        className="rounded-md"
       />
     );
   },
@@ -51,7 +52,7 @@ const components = {
 };
 
 export default async function CharacterInfo({ params }: Props) {
-  const content = getCharacterInfo(params?.characterName);
+  const { data, content } = getCharacterInfo(params?.characterName);
   return (
     <main>
       <article className="prose prose-invert max-w-7xl fluid-container">
