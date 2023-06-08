@@ -11,18 +11,9 @@ export default function Header() {
         <ul>
           <li>
             <Link href={"/characters"} className="font-bold hover:underline">
-              Characters
+              CHARACTERS
             </Link>
           </li>
-          {/* <li>
-            <Link href={""}></Link>
-          </li>
-          <li>
-            <Link href={""}></Link>
-          </li>
-          <li>
-            <Link href={""}></Link>
-          </li> */}
         </ul>
       </nav>
     </header>

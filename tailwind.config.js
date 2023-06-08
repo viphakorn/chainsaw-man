@@ -1,3 +1,4 @@
+const defaultTheme = require("tailwindcss/defaultTheme");
 const plugin = require("tailwindcss/plugin");
 
 /** @type {import('tailwindcss').Config} */
@@ -30,14 +31,7 @@ export const plugins = [
         fontSize: theme("fontSize.xl"),
       },
     });
-    // addComponents({
-    //   ".card": {
-    //     backgroundColor: theme("colors.white"),
-    //     borderRadius: theme("borderRadius.lg"),
-    //     padding: theme("spacing.6"),
-    //     boxShadow: theme("boxShadow.xl"),
-    //   },
-    // });
+
     addUtilities({
       ".grid-stack > *": {
         gridRow: "1 / -1",
