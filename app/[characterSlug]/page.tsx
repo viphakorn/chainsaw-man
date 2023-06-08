@@ -13,7 +13,7 @@ type Props = {
 
 const getCharacterInfo = (characterSlug: string) => {
   const folder = "markdown/characters/";
-  const file = path.join(process.cwd(), folder, `${characterSlug}.md`);
+  const file = path.join(process.cwd(), `${folder}${characterSlug}.md`);
   const markdown = fs.readFileSync(file, "utf8");
   const { data, content } = matter(markdown);
   return { data, content };
