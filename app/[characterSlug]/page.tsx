@@ -13,7 +13,7 @@ type Props = {
 
 const getCharacterInfo = (characterSlug: string) => {
   const folder = "markdown/characters/";
-  const file = path.join(folder, `${characterSlug}.md`);
+  const file = path.join(process.cwd(), folder, `${characterSlug}.md`);
   const markdown = fs.readFileSync(file, "utf8");
   const { data, content } = matter(markdown);
   return { data, content };
@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export default async function CharacterInfo({ params }: Props) {
+export default function CharacterInfo({ params }: Props) {
   const { data, content } = getCharacterInfo(params.characterSlug);
 
   return (
