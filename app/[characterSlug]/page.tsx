@@ -1,4 +1,5 @@
 import fs from "fs";
+import path from "path";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Link from "next/link";
 import matter from "gray-matter";
@@ -12,7 +13,7 @@ type Props = {
 
 const getCharacterInfo = (characterSlug: string) => {
   const folder = "markdown/characters/";
-  const file = `${folder}${characterSlug}.md`;
+  const file = path.join(folder, `${characterSlug}.md`);
   const markdown = fs.readFileSync(file, "utf8");
   const { data, content } = matter(markdown);
   return { data, content };
