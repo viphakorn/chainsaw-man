@@ -16,6 +16,11 @@ const components = {
     const imageSize = await probe(props.src);
     return (
       <ExportedImage
+        src={
+          props.src
+            ? props.src
+            : "https://static.wikia.nocookie.net/chainsaw-man/images/d/d5/NoPicAvailable.png"
+        }
         width={imageSize.width}
         height={imageSize.height}
         placeholder="blur"
