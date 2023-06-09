@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="flex h-screen flex-col bg-slate-800 text-white">
+      <body className="font- font flex h-screen flex-col bg-slate-800 font-[Roboto] text-white">
         <Header />
         {children}
         <Footer />

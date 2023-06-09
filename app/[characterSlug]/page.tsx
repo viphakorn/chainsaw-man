@@ -1,10 +1,9 @@
-import fs from "fs";
-import path from "path";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Link from "next/link";
-import matter from "gray-matter";
 import { Metadata } from "next";
-import { getCharacters } from "../characters/page";
+import { getMarkDownContent, getMarkDownMetadata } from "@/utils/getData";
+import ExportedImage from "next-image-export-optimizer";
+import probe from "probe-image-size";
 
 type Props = {
   params: {
@@ -12,43 +11,49 @@ type Props = {
   };
 };
 
-// const getCharacterInfo = (characterSlug: string) => {
-//   const folder = "markdown/characters/";
-//   const file = path.join(process.cwd(), `${folder}${characterSlug}.md`);
-//   const markdown = fs.readFileSync(file, "utf8");
-//   const { data, content } = matter(markdown);
-//   return { data, content };
-// };
-
 const components = {
   img: async (props: any) => {
-    return <img {...props} src={props.src} className="rounded-md" />;
+    const imageSize = await probe(props.src);
+    return (
+      <ExportedImage
+        width={imageSize.width}
+        height={imageSize.height}
+        placeholder="blur"
+        className="max-w-sm rounded-md"
+        {...props}
+      />
+    );
   },
 
   a: (props: any) => {
     return <Link {...props}>{props.children}</Link>;
   },
 };
+
+export async function generateStaticParams() {
+  const characters = getMarkDownMetadata();
+
+  return characters.map((data) => ({
+    characterSlug: data.slug,
+  }));
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const characters = getCharacters();
-  const character = characters.find(
-    ({ data }) => data.slug === params.characterSlug
-  );
+  const { data } = getMarkDownContent(params.characterSlug);
+
   return {
-    title: character?.data.name,
+    title: data.name,
   };
 }
 
 export default function CharacterInfo({ params }: Props) {
-  const characters = getCharacters();
-  const character = characters.find(
-    ({ data }) => data.slug === params.characterSlug
-  );
+  const { content } = getMarkDownContent(params.characterSlug);
+
   return (
     <main>
-      <article className="prose prose-invert max-w-7xl fluid-container">
+      <article className="font prose prose-invert max-w-7xl py-8 fluid-container prose-headings:font-[Arial] prose-h2:my-4 prose-h3:m-0 prose-p:m-0 prose-p:text-slate-300">
         {/* @ts-ignore */}
-        <MDXRemote source={character?.content} components={{ ...components }} />
+        <MDXRemote source={content} components={{ ...components }} />
       </article>
     </main>
   );

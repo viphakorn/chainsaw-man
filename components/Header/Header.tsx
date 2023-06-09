@@ -1,3 +1,4 @@
+import ExportedImage from "next-image-export-optimizer";
 import Link from "next/link";
 
 export default function Header() {
@@ -5,7 +6,12 @@ export default function Header() {
     <header className="bg-slate-900">
       <nav className="container mx-auto flex h-20 flex-wrap items-center justify-between px-2">
         <Link href={"/"}>
-          <img src="/images/logo.png" alt="Chainsaw Man Logo" width={256} />
+          <ExportedImage
+            src="/images/logo.png"
+            alt="Chainsaw Man Logo"
+            width={256}
+            height={32}
+          />
           <span className="sr-only">Go to Home</span>
         </Link>
         <ul>
